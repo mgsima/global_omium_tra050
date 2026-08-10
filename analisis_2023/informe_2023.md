@@ -62,7 +62,9 @@ Generado el 2026-08-07 a partir de `emparejar_tra050_v3.py`. Criterio: ficha TRA
 
 - `5.1` [TRAMITE] Ficha TRA050 firmada por el representante legal
 - `5.2` [TRAMITE] Anexo I: declaracion responsable de ayudas publicas
-- `5.6` [AUSENTE] Prueba de salida del patrimonio de 5875KPY: contrato de compraventa, factura del concesionario, nuevo permiso a nombre del comprador o baja definitiva DGT
+- `R2` [POSESION] Contratos de alquiler **anteriores** de 5875KPY. El contrato en carpeta (`CE/0820-2023-00394`, entrega 17/02/2023) solo cubre desde febrero de 2023 hasta la devolucion del 30/06/2023: **149 dias documentados frente a los 365 exigidos**. Los 1.716 dias de posesion salen del historico del Excel, no de un documento. Sin los contratos previos, la R2 no esta acreditada.
+
+> **REVISION MANUAL 2026-08-10 — no hay nada documental que pedir.** El informe pedia aqui una "prueba de salida del patrimonio de 5875KPY" en forma de compraventa, factura o cambio de titularidad DGT. **Esa peticion no procede.** El vehiculo estaba alquilado a NORTHGATE: Global Omnium nunca fue titular, asi que no existe compraventa ni cambio de titularidad que aportar. La salida del patrimonio la acredita el acta de devolucion a la arrendadora, `5875KPY ACTA DEVOLUCION.pdf`, **que ya esta en carpeta, en PDF y es legible**: devolucion el 30/06/2023 en Barcelona (El Prat). La tabla de arriba ya la contabilizaba como 5.6-renting; el listado se contradecia con ella. Del expediente solo faltan los dos tramites (5.1 y 5.2) y los contratos previos que sostienen la posesion.
 
 ### 1666MGR ← T5455BB · `A_ACREDITADO`
 
@@ -98,15 +100,16 @@ Generado el 2026-08-07 a partir de `emparejar_tra050_v3.py`. Criterio: ficha TRA
 | nuevo 1667MGR | `1505A4670002774000000342023.PDF` | FACTURA_ADQUISICION | Factura de adquisicion del vehiculo nuevo | 5.3 |
 | antiguo 5949LLV | `5949LLV ACTA DEVOLUCION.pdf` | ACTA_DEVOLUCION | Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad | 5.6-renting |
 | antiguo 5949LLV | `5949LLV CONTRATO.pdf` | CONTRATO_RENTING | Contrato de renting con el solicitante como arrendatario | 5.5-renting |
-| antiguo 5949LLV | `MA5949LLV.pdf` | SIN_CLASIFICAR | Documento no identificado por el nombre | ? |
+| antiguo 5949LLV | `MA5949LLV.pdf` | FICHA_TECNICA | Ficha tecnica (tarjeta ITV) de 5949LLV: PEUGEOT Partner Premium Standard 600kg BlueHDi 100, categoria J=N1, homologacion e2\*2007/46\*0625\*10. Revision manual 2026-08-10 | 5.4 |
 
 **Falta para cerrar el expediente**
 
 - `5.1` [TRAMITE] Ficha TRA050 firmada por el representante legal
 - `5.2` [TRAMITE] Anexo I: declaracion responsable de ayudas publicas
-- `5.4` [AUSENTE] Ficha tecnica de 5949LLV (vehiculo sustituido)
 
-### 2076MJP ← 6586KPD · `A_ACREDITADO`
+> **REVISION MANUAL 2026-08-10.** Se pedia la ficha tecnica de 5949LLV: **ya la tenemos**. El fichero `MA5949LLV.pdf`, que el clasificador dejaba como SIN_CLASIFICAR por el nombre, lleva **dos documentos dentro del mismo PDF**: la tarjeta ITV / ficha tecnica (5.4, con el historico de inspecciones) y el permiso de circulacion de la DGT. Ambos en PDF y legibles. Confirma ademas la categoria N1 usada en R4. No hay que pedir ninguno de los dos.
+
+### 2076MJP ← 6586KPD · `B_INDICIO`
 
 - **Nuevo:** RENAULT KANGOO VAN E-TECH (Furgoneta/Furgón), CGAC, adquirido 2023-07-25 (origen: DOCUMENTO)
 - **Sustituido:** OPEL COMBO 1.3 CDTI 95 CV (DIESEL, RENTING, AYVENS), baja 2023-10-26 (origen: DOCUMENTO), desfase +93d sobre la ventana 2023-04-25..2024-01-25
@@ -117,16 +120,18 @@ Generado el 2026-08-07 a partir de `emparejar_tra050_v3.py`. Criterio: ficha TRA
 | Vehiculo | Fichero | Tipo | Descripcion | Cubre |
 | :--- | :--- | :--- | :--- | :--- |
 | nuevo 2076MJP | `1505A4604951674000000882023.PDF` | FACTURA_ADQUISICION | Factura de adquisicion del vehiculo nuevo | 5.3 |
-| antiguo 6586KPD | `6586KPD ACTA DEVOLUCION.jpeg` | ACTA_DEVOLUCION | Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad | 5.6-renting |
+| antiguo 6586KPD | `6586KPD ACTA DEVOLUCION.jpeg` | ACTA_DEVOLUCION | Acta de devolucion firmada en conformidad. **FORMATO NO VALIDO: es una imagen JPEG, no un PDF** | 5.6-renting |
 | antiguo 6586KPD | `6586KPD ACTA ENTREGA.pdf` | ACTA_ENTREGA | Acta de entrega firmada entre arrendador y usuario | 5.6-renting |
 | antiguo 6586KPD | `6586KPD CONTRATO.pdf` | CONTRATO_RENTING | Contrato de renting con el solicitante como arrendatario | 5.5-renting |
-| antiguo 6586KPD | `MA6586KPD (1).pdf` | SIN_CLASIFICAR | Documento no identificado por el nombre | ? |
+| antiguo 6586KPD | `MA6586KPD (1).pdf` | FICHA_TECNICA | Ficha tecnica (tarjeta ITV) de 6586KPD: OPEL Combo Van, categoria J=N1, homologacion e3\*2007/46\*0076\*14. Revision manual 2026-08-10 | 5.4 |
 
 **Falta para cerrar el expediente**
 
 - `5.1` [TRAMITE] Ficha TRA050 firmada por el representante legal
 - `5.2` [TRAMITE] Anexo I: declaracion responsable de ayudas publicas
-- `5.4` [AUSENTE] Ficha tecnica de 6586KPD (vehiculo sustituido)
+- `5.6` [FORMATO] Acta de devolucion de 6586KPD **en PDF**. El acta esta y es legible (26/10/2023 15:54, 177.987 km, conductor JACINTO PLAZA, recepciona COBE PLAN MOLINS), pero se aporto como imagen JPEG y la normativa exige documento oficial en PDF. **No hay que volver a pedir el acta, solo el mismo documento en PDF.** Revision manual 2026-08-10
+
+> **REVISION MANUAL 2026-08-10.** Se pedia tambien la ficha tecnica de 6586KPD: **ya la tenemos**. El fichero `MA6586KPD (1).pdf`, que el clasificador dejaba como SIN_CLASIFICAR por el nombre, es la tarjeta ITV del vehiculo, en PDF y legible. Confirma ademas la categoria N1 usada en R4. No hay que pedirla. De este expediente lo unico documental que falta es el acta de devolucion **en PDF**.
 
 ### 2120MFK ← 4535KFH · `C_CONDICIONADO`
 
@@ -150,7 +155,9 @@ Generado el 2026-08-07 a partir de `emparejar_tra050_v3.py`. Criterio: ficha TRA
 
 - `5.1` [TRAMITE] Ficha TRA050 firmada por el representante legal
 - `5.2` [TRAMITE] Anexo I: declaracion responsable de ayudas publicas
-- `5.6` [AUSENTE] Prueba de salida del patrimonio de 4535KFH: contrato de compraventa, factura del concesionario, nuevo permiso a nombre del comprador o baja definitiva DGT
+- `R2` [POSESION] Contratos de alquiler **anteriores** de 4535KFH. El contrato en carpeta (`CE/0820-2023-00393`) solo cubre desde febrero de 2023 hasta la devolucion del 19/09/2023: **230 dias documentados frente a los 365 exigidos**. Los 2.135 dias de posesion salen del historico del Excel, no de un documento. Sin los contratos previos, la R2 no esta acreditada.
+
+> **REVISION MANUAL 2026-08-10 — no hay nada documental que pedir.** Mismo caso que 0767MJM: se pedia una "prueba de salida del patrimonio de 4535KFH" en forma de compraventa o cambio de titularidad, y **no procede**, porque el vehiculo estaba alquilado a NORTHGATE y Global Omnium nunca fue titular. El acta de devolucion `4535KFH ACTA DEVOLUCION.pdf` **ya esta en carpeta, en PDF y es legible**: devolucion el 19/09/2023 en Barcelona (El Prat), 11.800 km, bastidor VF37ABHW6HJ860569, firmada el 26/09/2023. Del expediente solo faltan los dos tramites (5.1 y 5.2) y los contratos previos que sostienen la posesion.
 
 ### 5566KSD ← 6994KGK · `C_CONDICIONADO`
 
@@ -164,15 +171,19 @@ Generado el 2026-08-07 a partir de `emparejar_tra050_v3.py`. Criterio: ficha TRA
 | :--- | :--- | :--- | :--- | :--- |
 | nuevo 5566KSD | `1004A4604951674000001122023.PDF` | FACTURA_ADQUISICION | Factura de adquisicion del vehiculo nuevo | 5.3 |
 | antiguo 6994KGK | `6994KGK ACTA DEVOLUCION.pdf` | ACTA_DEVOLUCION | Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad | 5.6-renting |
-| antiguo 6994KGK | `6994KGKCondicionesparticulares_20251021092603.699_X.doc` | SIN_CLASIFICAR | Documento no identificado por el nombre | ? |
+| antiguo 6994KGK | `6994KGKCondicionesparticulares_20251021092603.699_X.doc` | CONTRATO_RENTING | Condiciones particulares del contrato de alquiler nº 406863, LEASEPLAN SERVICIOS S.A. (A-78007473) como arrendador y GLOBAL OMNIUM MEDIOAMBIENTE SL (B46017018) como arrendatario, inicio 13/09/2021. **FORMATO NO VALIDO: es un .doc, no un PDF.** Revision manual 2026-08-10 | 5.5-renting |
 
 **Falta para cerrar el expediente**
 
 - `5.1` [TRAMITE] Ficha TRA050 firmada por el representante legal
 - `5.2` [TRAMITE] Anexo I: declaracion responsable de ayudas publicas
 - `5.4` [AUSENTE] Ficha tecnica de 6994KGK (vehiculo sustituido)
-- `5.5` [AUSENTE] Permiso de circulacion o recibo IVTM de 6994KGK
-- `5.6` [AUSENTE] Prueba de salida del patrimonio de 6994KGK: contrato de compraventa, factura del concesionario, nuevo permiso a nombre del comprador o baja definitiva DGT
+- `5.5` [FORMATO] Condiciones particulares del contrato de alquiler de 6994KGK **en PDF**. El documento esta y acredita la posesion (arrendatario GLOBAL OMNIUM MEDIOAMBIENTE SL, la misma sociedad del alta), pero se aporto en Word. **No hay que volver a pedir el contrato, solo el mismo documento en PDF.** Revision manual 2026-08-10
+- `R2` [POSESION] Facturas mensuales o certificado del arrendador que acrediten el alquiler **ininterrumpido** de 6994KGK entre 13/09/2021 y 01/12/2023
+
+> **REVISION MANUAL 2026-08-10 — la prueba de salida del patrimonio tampoco procede pedirla.** Se pedia compraventa o cambio de titularidad de 6994KGK: el vehiculo estaba alquilado a LEASEPLAN/AYVENS y Global Omnium nunca fue titular, asi que no existe tal documento. Lo acredita el acta de devolucion `6994KGK ACTA DEVOLUCION.pdf`, **ya en carpeta, en PDF y legible**: salida el 01/12/2023 con 96.951 km.
+
+> **REVISION MANUAL 2026-08-10 — este es el punto debil del expediente.** El contrato aportado dice literalmente *"Duracion Contrato: Un mes prorrogable"*, con inicio 13/09/2021 y cuota de 315 €/mes. Los 815 dias de posesion salen de restar fechas (inicio y devolucion), no de la duracion pactada. Un alquiler mensual renovado puede tener interrupciones, asi que el contrato **por si solo no prueba la posesion continuada** que exige la R2. Hay que pedir las facturas del periodo o un certificado de LEASEPLAN/AYVENS. Lo que estaba anotado como duda —la etiqueta 'ALQUILER_CORTA_DURACION'— es lo de menos: lo que decide es el periodo, y es el periodo lo que hay que documentar.
 
 ### 8873KDN ← 1751LHM · `B_INDICIO`
 
@@ -642,19 +653,19 @@ _No hay ninguna baja elegible de esta sociedad y categoria en todo el Excel._
 
 Altas de 2023-12-22 a 2023-12-22. Una baja solo sirve si salio entre **2023-09-22** y **2024-06-22**, y ademas dentro de la ventana de la alta concreta a la que se asigne.
 
-| Baja | Salida | Regimen | Dentro del rango util | Destino |
-| :--- | :--- | :--- | :-: | :--- |
-| 9105KTC | 2023-03-13 | RENTING | no | **LIBRE** |
-| 2179KNN | 2023-04-11 | RENTING | no | **LIBRE** |
-| 2675KGJ | 2023-10-31 | ALQUILER_CORTA_DURACION | si | **LIBRE** |
-| 2678KGJ | 2023-11-03 | ALQUILER_CORTA_DURACION | si | **LIBRE** |
-| 6994KGK | 2023-12-01 | ALQUILER_CORTA_DURACION | si | usada por 5566KSD (2023-12-22) |
-| 2653LTG | 2024-06-07 | ALQUILER_CORTA_DURACION | si | usada por 1108KHK (2024-06-14) |
-| 9019LBN | 2024-10-02 | RENTING | no | usada por 6559MWV (2024-11-25) |
-| 4988LLY | 2025-01-19 | RENTING | no | usada por 6444MWV (2024-11-29) |
-| 3942LLT | 2025-03-14 | RENTING | no | usada por 6442MWV (2024-11-26) |
-| 0246LLK | 2025-04-11 | RENTING | no | usada por 6439MWV (2024-11-26) |
-| 9977LLM | 2025-04-24 | RENTING | no | usada por 6558MWV (2024-11-28) |
+| Baja    | Salida     | Regimen                 | Dentro del rango util | Destino                        |
+| :------ | :--------- | :---------------------- | :-------------------: | :----------------------------- |
+| 9105KTC | 2023-03-13 | RENTING                 |          no           | **LIBRE**                      |
+| 2179KNN | 2023-04-11 | RENTING                 |          no           | **LIBRE**                      |
+| 2675KGJ | 2023-10-31 | ALQUILER_CORTA_DURACION |          si           | **LIBRE**                      |
+| 2678KGJ | 2023-11-03 | ALQUILER_CORTA_DURACION |          si           | **LIBRE**                      |
+| 6994KGK | 2023-12-01 | ALQUILER_CORTA_DURACION |          si           | usada por 5566KSD (2023-12-22) |
+| 2653LTG | 2024-06-07 | ALQUILER_CORTA_DURACION |          si           | usada por 1108KHK (2024-06-14) |
+| 9019LBN | 2024-10-02 | RENTING                 |          no           | usada por 6559MWV (2024-11-25) |
+| 4988LLY | 2025-01-19 | RENTING                 |          no           | usada por 6444MWV (2024-11-29) |
+| 3942LLT | 2025-03-14 | RENTING                 |          no           | usada por 6442MWV (2024-11-26) |
+| 0246LLK | 2025-04-11 | RENTING                 |          no           | usada por 6439MWV (2024-11-26) |
+| 9977LLM | 2025-04-24 | RENTING                 |          no           | usada por 6558MWV (2024-11-28) |
 
 **Techo:** 4 baja(s) elegibles en el rango util frente a 1 altas. Deficit de **0** vehiculos antiguos.
 
@@ -714,6 +725,11 @@ Las 3 estan marcadas `regimen_a_verificar: true` en su ficha, con el detalle de 
 | 5.1 | Ficha TRA050 cumplimentada y firmada por el representante legal | 7 de 7 |
 | 5.2 | Declaracion responsable de ayudas publicas (Anexo I) | 7 de 7 |
 | 5.3 | Factura justificativa de la adquisicion del vehiculo nuevo | 1 de 7 |
-| 5.4 | Ficha tecnica del vehiculo antiguo | 4 de 7 |
-| 5.5 | Acreditacion de posesion del antiguo (permiso de circulacion o IVTM; en renting, contrato con el solicitante como arrendatario) | 1 de 7 |
-| 5.6 | Acreditacion de que el antiguo ya no esta en su patrimonio (achatarramiento o cambio de titularidad DGT; en renting, acta de entrega) | 4 de 7 |
+| 5.4 | Ficha tecnica del vehiculo antiguo | 2 de 7 |
+| 5.5 | Acreditacion de posesion del antiguo (permiso de circulacion o IVTM; en renting, contrato con el solicitante como arrendatario) | 0 de 7 ausentes · 1 solo pendiente de reenviar en PDF |
+| 5.6 | Acreditacion de que el antiguo ya no esta en su patrimonio (achatarramiento o cambio de titularidad DGT; en renting, acta de devolucion) | 1 de 7 ausente · 1 mas solo pendiente de reenviar en PDF |
+| R2 | Prueba documental de la posesion minima: el contrato en carpeta no llega al minimo exigido y el resto del periodo solo consta en el Excel | 3 de 7 |
+
+> **REVISION MANUAL 2026-08-10.** Estas cifras bajaron tras comprobar a mano los documentos que el clasificador dejaba como SIN_CLASIFICAR. Tres de ellos eran documentos validos y utiles que estabamos a punto de volver a pedir: `MA5949LLV.pdf` y `MA6586KPD (1).pdf` son las fichas tecnicas de esas dos bajas (5.4), y `6994KGKCondicionesparticulares...doc` es el contrato de alquiler que acredita la posesion de 6994KGK (5.5). Los dos primeros son PDF y no requieren nada mas; el tercero solo hay que pedirlo de nuevo en PDF.
+>
+> El 5.6 bajo de 4 a 1 por un motivo distinto: en **0767MJM (5875KPY)**, **2120MFK (4535KFH)** y **5566KSD (6994KGK)** se pedia una prueba de salida del patrimonio en forma de compraventa o cambio de titularidad DGT. **Esa peticion no procede en ninguno de los tres**: los tres vehiculos estaban alquilados y Global Omnium nunca fue titular, asi que ese documento no existe ni puede existir. La salida del patrimonio la acredita el acta de devolucion a la arrendadora, y **las tres actas estan en carpeta, en PDF y son legibles**. La tabla de documentos de cada expediente ya las contaba como 5.6-renting: el listado de faltantes se contradecia con su propia tabla. El unico 5.6 realmente ausente es el de **8873KDN (1751LHM)**.

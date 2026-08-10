@@ -1,0 +1,113 @@
+
+
+<table>
+    <tr>
+        <td>A</td>
+<td>0351JWC</td>
+    </tr>
+<tr>
+        <td>B</td>
+<td>-----------</td>
+    </tr>
+<tr>
+        <td>H</td>
+<td>-----------</td>
+    </tr>
+<tr>
+        <td>I</td>
+<td>05-01-2017</td>
+    </tr>
+<tr>
+        <td>(I.1)</td>
+<td>05-01-2017</td>
+    </tr>
+<tr>
+        <td>(I.2)</td>
+<td>MADRID</td>
+    </tr>
+<tr>
+        <td>C.1.1</td>
+<td>LEASE PLAN SERVICIOS SA</td>
+    </tr>
+<tr>
+        <td>C.1.2</td>
+<td></td>
+    </tr>
+<tr>
+        <td>C.1.3</td>
+<td></td>
+    </tr>
+<tr>
+        <td>C.4</td>
+<td>c</td>
+    </tr>
+<tr>
+        <td>D.1</td>
+<td>SUBIELA</td>
+    </tr>
+<tr>
+        <td>D.2</td>
+<td>MS / Y611 / 52AGC3</td>
+    </tr>
+<tr>
+        <td>D.3</td>
+<td>MOVANO</td>
+    </tr>
+<tr>
+        <td>(D.4)</td>
+<td>PARTICULAR - SIN ESPECIFICAR</td>
+    </tr>
+<tr>
+        <td></td>
+<td></td></tr>
+<tr>
+        <td>E</td>
+<td>W0LVS1600HB121395</td>
+    </tr>
+<tr>
+        <td>F.1</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>F.2</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>G</td>
+<td>1928</td>
+    </tr>
+<tr>
+        <td>K</td>
+<td>E1*2007/46*0471*18</td>
+    </tr>
+<tr>
+        <td>P.1</td>
+<td>2299</td>
+    </tr>
+<tr>
+        <td>P.2</td>
+<td>96.0</td>
+    </tr>
+<tr>
+        <td>P.3</td>
+<td>DIESEL</td>
+    </tr>
+<tr>
+        <td>Q</td>
+<td>-----------</td>
+    </tr>
+<tr>
+        <td>S.1</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>S.2</td>
+<td>-----------</td>
+    </tr>
+</table>
+
+OBSERVACIONES:
+Documento válido si acompaña ITV en vigor
+Próxima ITV: 05-01-2019
+
+M 0

@@ -1,0 +1,112 @@
+
+
+<table>
+    <tr>
+        <td>A</td>
+<td>C0296BMW</td>
+    </tr>
+<tr>
+        <td>B</td>
+<td>-----------</td>
+    </tr>
+<tr>
+        <td>H</td>
+<td>-----------</td>
+    </tr>
+<tr>
+        <td>I</td>
+<td>08-05-2002</td>
+    </tr>
+<tr>
+        <td>(I.1)</td>
+<td>03-12-2024</td>
+    </tr>
+<tr>
+        <td>(I.2)</td>
+<td>VALENCIA/VALÈNCIA</td>
+    </tr>
+<tr>
+        <td>C.1.1</td>
+<td>LOPEZ BRIZ</td>
+    </tr>
+<tr>
+        <td>C.1.2</td>
+<td>LUIS MARIA</td>
+    </tr>
+<tr>
+        <td>C.1.3</td>
+<td></td>
+    </tr>
+<tr>
+        <td>C.4</td>
+<td>c</td>
+    </tr>
+<tr>
+        <td>D.1</td>
+<td>PEUGEOT</td>
+    </tr>
+<tr>
+        <td>D.2</td>
+<td>TL / A / 00</td>
+    </tr>
+<tr>
+        <td>D.3</td>
+<td>TREKKER</td>
+    </tr>
+<tr>
+        <td>(D.4)</td>
+<td>PARTICULAR - SIN ESPECIFICAR</td>
+    </tr>
+<tr>
+        <td></td>
+<td></td></tr>
+<tr>
+        <td>E</td>
+<td>VGAS1A00A00065638</td>
+    </tr>
+<tr>
+        <td>F.1</td>
+<td>87</td>
+    </tr>
+<tr>
+        <td>F.2</td>
+<td>270</td>
+    </tr>
+<tr>
+        <td>G</td>
+<td>-----------</td>
+    </tr>
+<tr>
+        <td>K</td>
+<td>E11*92/61*0078*04</td>
+    </tr>
+<tr>
+        <td>P.1</td>
+<td>49.13</td>
+    </tr>
+<tr>
+        <td>P.2</td>
+<td>2.50</td>
+    </tr>
+<tr>
+        <td>P.3</td>
+<td>GASOLINA</td>
+    </tr>
+<tr>
+        <td>Q</td>
+<td>-----------</td>
+    </tr>
+<tr>
+        <td>S.1</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>S.2</td>
+<td>-----------</td>
+    </tr>
+</table>
+
+OBSERVACIONES:
+Documento válido si acompaña ITV en vigor.
+
+V 0

@@ -18,7 +18,10 @@ views:
       - fecha_fin
       - estado_emparejamiento
       - coche_emparejado
+      - categoria
     sort:
+      - property: sociedad
+        direction: ASC
       - property: fecha_adquisicion
         direction: ASC
       - property: tags

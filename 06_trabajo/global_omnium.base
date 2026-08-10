@@ -1,0 +1,105 @@
+filters:
+  and:
+    - file.folder.contains("resultados_creacion/global_omnium/notas_vehiculos")
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - "!matricula.isEmpty()"
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - categoria
+      - rol
+      - comunidad_autonoma
+      - fecha_inicio
+      - fecha_fin
+    sort:
+      - property: fecha_inicio
+        direction: ASC
+    columnSize:
+      file.name: 245
+  - type: table
+    name: Comunidades
+    filters:
+      and:
+        - "!matricula.isEmpty()"
+    groupBy:
+      property: comunidad_autonoma
+      direction: ASC
+    order:
+      - file.name
+      - comunidad_autonoma
+      - comunidad_fuente
+      - rol
+      - titular_empresa
+      - base_ubicacion
+    sort:
+      - property: comunidad_fuente
+        direction: ASC
+    columnSize:
+      file.name: 245
+  - type: table
+    name: Comunidad por verificar
+    filters:
+      and:
+        - "!matricula.isEmpty()"
+        - file.tags.contains("comunidad_dudosa")
+    groupBy:
+      property: comunidad_fuente
+      direction: ASC
+    order:
+      - file.name
+      - comunidad_autonoma
+      - comunidad_fuente
+      - rol
+      - titular_empresa
+    columnSize:
+      file.name: 245
+  - type: table
+    name: Bajas
+    filters:
+      and:
+        - "!matricula.isEmpty()"
+        - file.tags.contains("baja")
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - categoria
+      - rol
+      - fecha_inicio
+      - fecha_fin
+      - dias_arrendamiento
+      - marca_modelo
+      - regimen
+    sort:
+      - property: fecha_fin
+        direction: ASC
+    columnSize:
+      file.name: 245
+  - type: table
+    name: Altas
+    filters:
+      and:
+        - "!matricula.isEmpty()"
+        - file.tags.contains("alta")
+    order:
+      - file.name
+      - categoria
+      - rol
+      - fecha_inicio
+      - fecha_fin
+      - dias_arrendamiento
+      - marca_modelo
+      - regimen
+      - comunidad_autonoma
+      - coche_emparejado
+    sort:
+      - property: fecha_inicio
+        direction: ASC
+    columnSize: {}

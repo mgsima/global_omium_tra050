@@ -1,0 +1,4 @@
+- La nota debe estar organizada de tal manera que cada uno de los datos en YAML, en el cuerpo debe aparecer su origen. Y cambiar lo que hay ahora para no repetir información.
+- Hay notas que tienen más que solo las matrículas. 
+- Añadirle un tag para ponerlas más rápido en una base de datos.
+- Hay que revisar datos de fechas. Deben venir de un acta de devolución. Si no es desconocido. Estoy viendo de inicio y fin proveniendo de un contrato. Eso está mal. Eso es el inicio. 

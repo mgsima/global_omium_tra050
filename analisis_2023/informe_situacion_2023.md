@@ -1,0 +1,2528 @@
+---
+doc_type: informe_situacion_ejercicio
+ejercicio: 2023
+cliente: Global Omnium
+fecha: 2026-08-07
+parejas: 7
+nuevos_sin_pareja: 23
+antiguos_sin_usar: 115
+---
+
+# Situacion del ejercicio 2023 — Global Omnium
+
+Vehiculos electricos adquiridos en 2023 que entran en el ambito de la ficha TRA050 v1.1, y vehiculos de combustion que podian haberlos sustituido.
+
+- Parejas cerradas: 7
+- Vehiculos nuevos sin pareja: 23
+- Vehiculos antiguos sin usar dentro del periodo util (2022-11-15 a 2024-06-22): 115
+
+## 1. Parejas cerradas
+
+- **0767MJM ← 5875KPY** · nivel C_CONDICIONADO
+  - Vehiculo nuevo: PEUGEOT E-PARTNER PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-19 (origen: documento del expediente)
+  - Vehiculo sustituido: FIAT FIORINO 1.3 MULTIJET 80 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora NORTHGATE
+  - Inicio de posesion: 2023-02-01
+  - Fecha de venta o entrega: 2023-06-30 (origen: documento del expediente)
+  - Posesion acreditada: 149 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 1716 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: DEVUELTO
+  - Ventana admisible para la baja: 2023-04-19 a 2024-01-19; la baja cae el 2023-06-30 (-19 dias sobre la adquisicion)
+  - Kilometraje anual de la tipologia (Anexo III): 15815 km/ano
+  - Pendiente: posesion solo defendible por antiguedad: aportar contratos previos; REGIMEN_A_VERIFICAR: el Excel etiqueta el contrato como 'ALQUILER_CORTA_DURACION' con NORTHGATE. El contrato solo cubre 149d, por debajo de los 730d exigidos; la pareja se sostiene unicamente contando 1716d desde la matriculacion. COMPROBAR con doble motivo: hay que reconstruir con contratos la cadena completa de posesion, porque a dia de hoy lo unico documentado es la antiguedad del vehiculo, no que lo tuviera el solicitante
+  - Documentacion del vehiculo nuevo (0767MJM)
+    - `1505A2827802674000000742023.PDF` — Factura de adquisicion del vehiculo nuevo
+  - Documentacion del vehiculo sustituido (5875KPY)
+    - `- 5875KPY FT.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `- 5875KPY PC.pdf` — Permiso de circulacion
+    - `5875KPY ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5875KPY ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `5875KPY CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+
+- **1666MGR ← T5455BB** · nivel A_ACREDITADO
+  - Vehiculo nuevo: OPEL VIVARO E-FURGON
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-04-27 (origen: documento del expediente)
+  - Vehiculo sustituido: FORD TRANSIT 1.8 TDCI 80 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 1999-01-01
+  - Fecha de venta o entrega: 2023-03-09 (origen: documento del expediente)
+  - Posesion acreditada: 8833 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Ventana admisible para la baja: 2023-01-27 a 2023-10-27; la baja cae el 2023-03-09 (-49 dias sobre la adquisicion)
+  - Kilometraje anual de la tipologia (Anexo III): 15815 km/ano
+  - Pendiente: Documentacion en carpeta y reglas verificadas con documento
+  - Documentacion del vehiculo nuevo (1666MGR)
+    - `1505A4670002774000000362023.PDF` — Factura de adquisicion del vehiculo nuevo
+  - Documentacion del vehiculo sustituido (T5455BB)
+    - `T5455BB FACTURA VENTA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+    - `T5455BB FICHA TECNICA 1.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `T5455BB FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `T5455BB PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **1667MGR ← 5949LLV** · nivel A_ACREDITADO
+  - Vehiculo nuevo: OPEL VIVARO E-FURGON
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-04-26 (origen: documento del expediente)
+  - Conductor habitual: DAVID HERRERA HERNANDEZ
+  - Vehiculo sustituido: PEUGEOT PARTNER 1.5 HDI 98 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2021-03-08
+  - Fecha de venta o entrega: 2023-04-08 (origen: documento del expediente)
+  - Posesion acreditada: 761 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Ventana admisible para la baja: 2023-01-26 a 2023-10-26; la baja cae el 2023-04-08 (-18 dias sobre la adquisicion)
+  - Kilometraje anual de la tipologia (Anexo III): 15815 km/ano
+  - Pendiente: Documentacion en carpeta y reglas verificadas con documento
+  - Documentacion del vehiculo nuevo (1667MGR)
+    - `1505A4670002774000000342023.PDF` — Factura de adquisicion del vehiculo nuevo
+  - Documentacion del vehiculo sustituido (5949LLV)
+    - `5949LLV ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5949LLV CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA5949LLV.pdf` — Documento no identificado por el nombre
+
+- **2076MJP ← 6586KPD** · nivel A_ACREDITADO
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-25 (origen: documento del expediente)
+  - Vehiculo sustituido: OPEL COMBO 1.3 CDTI 95 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-09-12
+  - Fecha de venta o entrega: 2023-10-26 (origen: documento del expediente)
+  - Posesion acreditada: 1870 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Ventana admisible para la baja: 2023-04-25 a 2024-01-25; la baja cae el 2023-10-26 (+93 dias sobre la adquisicion)
+  - Kilometraje anual de la tipologia (Anexo III): 15815 km/ano
+  - Pendiente: Documentacion en carpeta y reglas verificadas con documento
+  - Documentacion del vehiculo nuevo (2076MJP)
+    - `1505A4604951674000000882023.PDF` — Factura de adquisicion del vehiculo nuevo
+  - Documentacion del vehiculo sustituido (6586KPD)
+    - `6586KPD ACTA DEVOLUCION.jpeg` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `6586KPD ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `6586KPD CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA6586KPD (1).pdf` — Documento no identificado por el nombre
+
+- **2120MFK ← 4535KFH** · nivel C_CONDICIONADO
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-25 (origen: documento del expediente)
+  - Conductor habitual: IGNASI LLOBERA ROMA
+  - Vehiculo sustituido: PEUGEOT PARTNER 1.6 HDI 75 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora NORTHGATE
+  - Inicio de posesion: 2023-02-01
+  - Fecha de venta o entrega: 2023-09-19 (origen: documento del expediente)
+  - Posesion acreditada: 230 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 2135 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: DEVUELTO
+  - Ventana admisible para la baja: 2023-04-25 a 2024-01-25; la baja cae el 2023-09-19 (+56 dias sobre la adquisicion)
+  - Kilometraje anual de la tipologia (Anexo III): 15815 km/ano
+  - Pendiente: posesion solo defendible por antiguedad: aportar contratos previos; REGIMEN_A_VERIFICAR: el Excel etiqueta el contrato como 'ALQUILER_CORTA_DURACION' con NORTHGATE. El contrato solo cubre 230d, por debajo de los 730d exigidos; la pareja se sostiene unicamente contando 2135d desde la matriculacion. COMPROBAR con doble motivo: hay que reconstruir con contratos la cadena completa de posesion, porque a dia de hoy lo unico documentado es la antiguedad del vehiculo, no que lo tuviera el solicitante; la fecha de alta del Excel contradice a la factura: decidir cual vale
+  - Documentacion del vehiculo nuevo (2120MFK)
+    - `1505A4604951674000000842023.PDF` — Factura de adquisicion del vehiculo nuevo
+  - Documentacion del vehiculo sustituido (4535KFH)
+    - `- 4535KFH FT.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `- 4535KFH PC.pdf` — Permiso de circulacion
+    - `4535KFH ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4535KFH ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `4535KFH CONTRATO ANEXO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `4535KFH CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+
+- **5566KSD ← 6994KGK** · nivel C_CONDICIONADO
+  - Vehiculo nuevo: RENAULT ZOE 40
+  - Categoria: Turismo (codigo 4)
+  - Combustible: ELECTRICO
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Fecha de adquisicion: 2023-12-22 (origen: documento del expediente)
+  - Conductor habitual: DULCE RICART MADRID
+  - Vehiculo sustituido: PEUGEOT 208 1.2 82 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: GASOLINA
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2021-09-07
+  - Fecha de venta o entrega: 2023-12-01 (origen: documento del expediente)
+  - Posesion acreditada: 815 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Ventana admisible para la baja: 2023-09-22 a 2024-06-22; la baja cae el 2023-12-01 (-21 dias sobre la adquisicion)
+  - Kilometraje anual de la tipologia (Anexo III): 13073 km/ano
+  - Pendiente: REGIMEN_A_VERIFICAR: el Excel etiqueta el contrato como 'ALQUILER_CORTA_DURACION' con AYVENS. Se admite porque el propio contrato cubre 815d, por encima de los 730d exigidos: lo que decide es el periodo de posesion, no como se llame el contrato. COMPROBAR en el contrato que ese periodo es continuado y no una sucesion de alquileres con interrupciones; la fecha de alta del Excel contradice a la factura: decidir cual vale
+  - Documentacion del vehiculo nuevo (5566KSD)
+    - `1004A4604951674000001122023.PDF` — Factura de adquisicion del vehiculo nuevo
+  - Documentacion del vehiculo sustituido (6994KGK)
+    - `6994KGK ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `6994KGKCondicionesparticulares_20251021092603.699_X.doc` — Documento no identificado por el nombre
+
+- **8873KDN ← 1751LHM** · nivel B_INDICIO
+  - Vehiculo nuevo: RENAULT ZOE 40
+  - Categoria: Turismo (codigo 4)
+  - Combustible: ELECTRICO
+  - Sociedad: GAMASER (Cod.Sociedad 1009)
+  - Fecha de adquisicion: 2023-11-01 (origen: Excel de flota)
+  - Conductor habitual: CLEMENTE PEREZ CABELLO
+  - Vehiculo sustituido: VOLKSWAGEN T-ROC 1.6 TDI 115 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: GAMASER (Cod.Sociedad 1009)
+  - Regimen: RENTING, arrendadora VWRENTING
+  - Inicio de posesion: 2020-07-02
+  - Fecha de venta o entrega: 2023-08-31 (origen: Excel de flota)
+  - Posesion acreditada: 1155 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Ventana admisible para la baja: 2023-08-01 a 2024-05-01; la baja cae el 2023-08-31 (-62 dias sobre la adquisicion)
+  - Kilometraje anual de la tipologia (Anexo III): 13073 km/ano
+  - Pendiente: confirmar fecha de adquisicion con factura o permiso de circulacion; confirmar fecha de baja con el documento de entrega; aportar acta de devolucion firmada; solicitar carpeta documental del vehiculo nuevo
+  - Documentacion del vehiculo nuevo (8873KDN)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+  - Documentacion del vehiculo sustituido (1751LHM)
+    - `1751LHM CONTRATO ANEXO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `1751LHM CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+
+## 2. Vehiculos nuevos sin pareja
+
+- **0404MGW**
+  - Vehiculo nuevo: OPEL VIVARO E-FURGON
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-05-17 (origen: Excel de flota)
+  - Ventana admisible para su baja: 2023-02-17 a 2023-11-17
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 5 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - T5455BB → 1666MGR (2023-04-27)
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (0404MGW)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **0408MGW**
+  - Vehiculo nuevo: OPEL VIVARO E-FURGON
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-05-17 (origen: Excel de flota)
+  - Ventana admisible para su baja: 2023-02-17 a 2023-11-17
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 5 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - T5455BB → 1666MGR (2023-04-27)
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (0408MGW)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **0477MGW**
+  - Vehiculo nuevo: OPEL VIVARO E-FURGON
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-05-09 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-02-09 a 2023-11-09
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 5 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - T5455BB → 1666MGR (2023-04-27)
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (0477MGW)
+    - `1505A4670002774000000432023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **0777MJM**
+  - Vehiculo nuevo: PEUGEOT E-PARTNER PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-19 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-19 a 2024-01-19
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (0777MJM)
+    - `1505A2827802674000000722023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **0778MJM**
+  - Vehiculo nuevo: PEUGEOT E-PARTNER PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-19 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-19 a 2024-01-19
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (0778MJM)
+    - `1505A2827802674000000732023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **0800MJM**
+  - Vehiculo nuevo: PEUGEOT E-PARTNER PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-19 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-19 a 2024-01-19
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (0800MJM)
+    - `1505A2827802674000000712023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **1255MJM**
+  - Vehiculo nuevo: PEUGEOT E-EXPERT PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-21 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-21 a 2024-01-21
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (1255MJM)
+    - `1505A2827802674000000772023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **1256MJM**
+  - Vehiculo nuevo: PEUGEOT E-EXPERT PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-21 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-21 a 2024-01-21
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (1256MJM)
+    - `1505A2827802674000000792023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **1258MJM**
+  - Vehiculo nuevo: PEUGEOT E-EXPERT PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-21 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-21 a 2024-01-21
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (1258MJM)
+    - `1505A2827802674000000782023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **1261MJM**
+  - Vehiculo nuevo: PEUGEOT E-EXPERT PRO 100 KW
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-21 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-21 a 2024-01-21
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (1261MJM)
+    - `1505A2827802674000000762023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **1406KDP**
+  - Vehiculo nuevo: RENAULT ZOE 40
+  - Categoria: Turismo (codigo 4)
+  - Combustible: ELECTRICO
+  - Sociedad: MEDICION AVANZADA CONTAD. (Cod.Sociedad 1021)
+  - Fecha de adquisicion: 2023-02-16 (origen: Excel de flota)
+  - Ventana admisible para su baja: 2022-11-16 a 2023-08-16
+  - Motivo por el que no tiene pareja:
+    - Hay 2 baja(s) de su sociedad y categoria, pero ninguna sale dentro de la ventana. Las mas proximas:
+      - 0818LKK, baja el 2025-01-10 (+694 dias)
+      - 8030LKY, baja el 2025-01-16 (+700 dias)
+  - Documentacion del vehiculo nuevo (1406KDP)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **2043MJP**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-25 (origen: documento del expediente)
+  - Conductor habitual: DANIEL UROZ GONZALEZ
+  - Ventana admisible para su baja: 2023-04-25 a 2024-01-25
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (2043MJP)
+    - `1505A4604951674000000852023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **2062MJP**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-07-25 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-04-25 a 2024-01-25
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (2062MJP)
+    - `1505A4604951674000000872023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **2087MJP**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-03-03 (origen: documento del expediente)
+  - Conductor habitual: ANTONIO RODRIGUEZ ZAMBRANO
+  - Ventana admisible para su baja: 2022-12-03 a 2023-09-03
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 3 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - T5455BB → 1666MGR (2023-04-27)
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (2087MJP)
+    - `1505A4604951674000000162023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **2340MGR**
+  - Vehiculo nuevo: OPEL VIVARO E-FURGON
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-04-26 (origen: documento del expediente)
+  - Conductor habitual: JOSEP MARIA SOLANS BALDOMA
+  - Ventana admisible para su baja: 2023-01-26 a 2023-10-26
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 5 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - T5455BB → 1666MGR (2023-04-27)
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (2340MGR)
+    - `1505A4670002774000000332023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **2343MGR**
+  - Vehiculo nuevo: OPEL VIVARO E-FURGON
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-04-27 (origen: documento del expediente)
+  - Ventana admisible para su baja: 2023-01-27 a 2023-10-27
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 5 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - T5455BB → 1666MGR (2023-04-27)
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (2343MGR)
+    - `1505A4670002774000000352023.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **3140MHW**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-06-28 (origen: Excel de flota)
+  - Ventana admisible para su baja: 2023-03-28 a 2023-12-28
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 4 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (3140MHW)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **3192MHW**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-06-28 (origen: Excel de flota)
+  - Ventana admisible para su baja: 2023-03-28 a 2023-12-28
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 4 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (3192MHW)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **3201MHW**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-06-28 (origen: Excel de flota)
+  - Ventana admisible para su baja: 2023-03-28 a 2023-12-28
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 4 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (3201MHW)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **3219MHW**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-06-28 (origen: Excel de flota)
+  - Conductor habitual: ORIOL SANCHO SUBIRATS
+  - Ventana admisible para su baja: 2023-03-28 a 2023-12-28
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 4 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (3219MHW)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **4564MHF**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Fecha de adquisicion: 2023-05-31 (origen: Excel de flota)
+  - Conductor habitual: ESTER PUBILL GASET
+  - Ventana admisible para su baja: 2023-02-28 a 2023-11-30
+  - Motivo por el que no tiene pareja:
+    - Cumplia con 5 baja(s), pero todas se han asignado a otros vehiculos nuevos de la misma sociedad que no tenian alternativa:
+      - T5455BB → 1666MGR (2023-04-27)
+      - 5875KPY → 0767MJM (2023-07-19)
+      - 6586KPD → 2076MJP (2023-07-25)
+      - 4535KFH → 2120MFK (2023-07-25)
+      - 5949LLV → 1667MGR (2023-04-26)
+    - Hacen falta mas bajas de Furgoneta/Furgón en CGAC
+  - Documentacion del vehiculo nuevo (4564MHF)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **5357MDX**
+  - Vehiculo nuevo: E-TUK FACTORY LIMO GT
+  - Categoria: Turismo (codigo 4)
+  - Combustible: ELECTRICO
+  - Sociedad: VALORIA INVESTMENTS 2011 (Cod.Sociedad 8010)
+  - Fecha de adquisicion: 2023-02-15 (origen: Excel de flota)
+  - Ventana admisible para su baja: 2022-11-15 a 2023-08-15
+  - Motivo por el que no tiene pareja:
+    - No hay ninguna baja elegible de VALORIA INVESTMENTS 2011. La regla exige la misma sociedad del grupo, no basta con que sea Global Omnium
+  - Documentacion del vehiculo nuevo (5357MDX)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **9605MMH**
+  - Vehiculo nuevo: RENAULT KANGOO VAN E-TECH
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: ELECTRICO
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Fecha de adquisicion: 2023-12-22 (origen: Excel de flota)
+  - Conductor habitual: LIDIA ENRECH ALEGRE
+  - Ventana admisible para su baja: 2023-09-22 a 2024-06-22
+  - Motivo por el que no tiene pareja:
+    - Hay 1 baja(s) de su sociedad y categoria, pero ninguna sale dentro de la ventana. Las mas proximas:
+      - 8767LLW, baja el 2025-02-11 (+417 dias)
+  - Documentacion del vehiculo nuevo (9605MMH)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+## 3. Vehiculos antiguos sin usar
+
+Vehiculos de combustion que salieron del parque entre 2022-11-15 y 2024-06-22, es decir dentro del periodo en el que podrian haber sustituido a algun electrico de 2023, y que no se han utilizado.
+
+- **9850JTR**
+  - Vehiculo sustituido: Opel Movano 2.3 Cdti 130 L3H1 R 3.5t Hd Bascul. Ace
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: GAS-OIL
+  - Sociedad: NO_IDENTIFICADA (Cod.Sociedad -)
+  - Regimen: RENTING, arrendadora LEASE PLAN SERVICIOS S.A.
+  - Inicio de posesion: 2016-11-23
+  - Fecha de venta o entrega: 2023-10-17 (origen: documento del expediente)
+  - Posesion acreditada: 2519 dias sobre los 730 exigidos → ACREDITADA
+  - No figura en el Excel de flota. Sociedad sin identificar: el CIF A78007473 de la factura es LEASE PLAN SERVICIOS, arrendadora, no la sociedad compradora
+  - Motivo por el que no se ha usado:
+    - Sin sociedad del grupo asignada
+  - Documentacion del vehiculo sustituido (9850JTR)
+    - `9850JTR ACTA DE DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9850JTR CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `9850JTR SEGURO.pdf` — Poliza de seguro (no exigida por la ficha)
+
+- **3283KXV**
+  - Vehiculo sustituido: OPEL CORSA 1.4 90 CV GLP 5P
+  - Categoria: Turismo (codigo 4)
+  - Combustible: GLP
+  - Sociedad: AIGÜES DE SAGUNT, S.A. (Cod.Sociedad 1202)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-06-14
+  - Fecha de venta o entrega: 2024-06-14 (origen: Excel de flota)
+  - Posesion acreditada: 1827 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AIGÜES DE SAGUNT, S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (3283KXV)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **6426GPD**
+  - Vehiculo sustituido: MERCEDES RSU
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2009-08-13
+  - Fecha de venta o entrega: 2023-06-13 (origen: Excel de flota)
+  - Posesion acreditada: 5052 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ARAGONESA SER.PUBLICOS SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (6426GPD)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **7656KSV**
+  - Vehiculo sustituido: SCANIA RSU
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2018-12-05
+  - Fecha de venta o entrega: 2023-07-17 (origen: documento del expediente)
+  - Posesion acreditada: 1685 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ARAGONESA SER.PUBLICOS SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (7656KSV)
+    - `7656KSV FACTURA VENTA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+    - `7656KSV FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `7656KSV PERMISO CIRCULACION.pdf` — Permiso de circulacion
+    - `7656KSV_1B98806854_B12203634_20181205161458640 COMPRA.pdf` — Documento no identificado por el nombre
+
+- **7992FRV**
+  - Vehiculo sustituido: IVECO RSU - CARTONERO
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2019-05-16
+  - Fecha de venta o entrega: 2023-07-17 (origen: documento del expediente)
+  - Posesion acreditada: 1523 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ARAGONESA SER.PUBLICOS SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (7992FRV)
+    - `7992FRV FACTURA VENTA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+    - `7992FRV FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `7992FRV PERMISO CIRCULACION.pdf` — Permiso de circulacion
+    - `7992FRV_fra V19 5 05_16.05.2019 FACTURA COMPRA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+
+- **R3474BBH**
+  - Vehiculo sustituido: LECITRAILER SR 3E 195
+  - Categoria: Remolque (codigo 9)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2001-10-11
+  - Fecha de venta o entrega: 2023-07-17 (origen: documento del expediente)
+  - Posesion acreditada: 7949 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ARAGONESA SER.PUBLICOS SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (R3474BBH)
+    - `R3474BBH FACTURA VENTA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+    - `R3474BBH PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **2933GFR**
+  - Vehiculo sustituido: SCANIA R 420 L4X2MNA
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2013-04-29
+  - Fecha de venta o entrega: 2023-07-17 (origen: Excel de flota)
+  - Posesion acreditada: 3731 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ARAGONESA SER.PUBLICOS SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (2933GFR)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **3264KSC**
+  - Vehiculo sustituido: MERCEDES RSU
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2018-12-05
+  - Fecha de venta o entrega: 2023-07-17 (origen: Excel de flota)
+  - Posesion acreditada: 1685 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ARAGONESA SER.PUBLICOS SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (3264KSC)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **0962LBT**
+  - Vehiculo sustituido: IVECO EUROCARGO 180
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora WASTERENT
+  - Inicio de posesion: 2022-07-14
+  - Fecha de venta o entrega: 2023-08-31 (origen: Excel de flota)
+  - Posesion acreditada: 413 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 413d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (0962LBT)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **9752BFB**
+  - Vehiculo sustituido: IVECO CAMION RSU
+  - Categoria: Camión (codigo 7)
+  - Combustible: GASOLINA
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: CEDIDO (POR AYTO, PLANTA., arrendadora CEDIDO
+  - Inicio de posesion: 2000-12-31
+  - Fecha de venta o entrega: 2023-11-17 (origen: Excel de flota)
+  - Posesion acreditada: 8356 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ARAGONESA SER.PUBLICOS SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (9752BFB)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **1541LDT**
+  - Vehiculo sustituido: MERCEDES RSU
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ARAGONESA SER.PUBLICOS SL (Cod.Sociedad 1006)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora WASTERENT
+  - Inicio de posesion: 2022-04-13
+  - Fecha de venta o entrega: 2023-11-30 (origen: Excel de flota)
+  - Posesion acreditada: 596 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 596d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (1541LDT)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **0426KHR**
+  - Vehiculo sustituido: OPEL CORSA 1.3 CDTI 75 CV 5P
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-03-01
+  - Fecha de venta o entrega: 2023-02-08 (origen: documento del expediente)
+  - Posesion acreditada: 1805 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AVSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (0426KHR)
+    - `0426KHR ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `0426KHR CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA0426KHR (1).pdf` — Documento no identificado por el nombre
+
+- **4793KWD**
+  - Vehiculo sustituido: OPEL ASTRA 1.6 CDTI 110 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-04-29
+  - Fecha de venta o entrega: 2023-04-21 (origen: documento del expediente)
+  - Posesion acreditada: 1453 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AVSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4793KWD)
+    - `4793KWD ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4793KWD CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `4793KWD FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+
+- **9052KZG**
+  - Vehiculo sustituido: TOYOTA RAV 4 2.5 LUXURY 4WD
+  - Categoria: Turismo (codigo 4)
+  - Combustible: HÍBRIDO
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: RENTING, arrendadora ARVAL SERV
+  - Inicio de posesion: 2019-03-25
+  - Fecha de venta o entrega: 2023-05-01 (origen: documento del expediente)
+  - Posesion acreditada: 1498 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AVSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (9052KZG)
+    - `9052KZG ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9052KZG ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `9052KZG CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `9052KZG FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `9052KZG PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **5239JVL**
+  - Vehiculo sustituido: VOLVO XC 60 2.4 D4 AWD SUMMUM
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: RENTING, arrendadora ARVAL SERV
+  - Inicio de posesion: 2016-12-15
+  - Fecha de venta o entrega: 2023-07-17 (origen: Excel de flota)
+  - Posesion acreditada: 2405 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AVSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (5239JVL)
+    - `5239JVL CONTRATO , ACTA ENTREGA P. CIRCULACION.pdf` — Acta de entrega firmada entre arrendador y usuario
+
+- **2657KZK**
+  - Vehiculo sustituido: TOYOTA RAV 4 2.5 LUXURY 4WD
+  - Categoria: Turismo (codigo 4)
+  - Combustible: HÍBRIDO
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: RENTING, arrendadora ARVAL SERV
+  - Inicio de posesion: 2019-03-25
+  - Fecha de venta o entrega: 2023-10-05 (origen: documento del expediente)
+  - Posesion acreditada: 1655 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AVSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (2657KZK)
+    - `2657KZK ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2657KZK ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `2657KZK CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `2657KZK FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `2657KZK PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **9763LDB**
+  - Vehiculo sustituido: OPEL GRANDLAND X 1.5 CDTI 130 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-12-20
+  - Fecha de venta o entrega: 2024-03-20 (origen: documento del expediente)
+  - Posesion acreditada: 1552 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AVSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (9763LDB)
+    - `9763LDB ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9763LDB CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA9763LDB (1).pdf` — Documento no identificado por el nombre
+
+- **7190JDY**
+  - Vehiculo sustituido: TOYOTA AURIS
+  - Categoria: Turismo (codigo 4)
+  - Combustible: HÍBRIDO
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: OTROS AUTORIZADOS, arrendadora OTROS
+  - Inicio de posesion: 2015-04-22
+  - Fecha de venta o entrega: 2024-03-31 (origen: Excel de flota)
+  - Posesion acreditada: 3266 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AVSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (7190JDY)
+    - `7190JDY FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `7190JDY PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **5056LWD**
+  - Vehiculo sustituido: PEUGEOT 208 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: AVSA (Cod.Sociedad 1001)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-04-15
+  - Fecha de venta o entrega: 2024-05-02 (origen: documento del expediente)
+  - Posesion acreditada: 17 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 17d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (5056LWD)
+    - `5056LWD ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5056LWD FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `5056LWDCondicionesparticulares_20251021094053.804_X.doc` — Documento no identificado por el nombre
+
+- **7052LLV**
+  - Vehiculo sustituido: PEUGEOT PARTNER 1.5 HDI 98 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: AYWA SER.AMBIENTALES SL (Cod.Sociedad 1064)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2021-03-11
+  - Fecha de venta o entrega: 2024-04-15 (origen: documento del expediente)
+  - Posesion acreditada: 1131 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero AYWA SER.AMBIENTALES SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (7052LLV)
+    - `7052LLV ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `7052LLV CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA7052LLV.pdf` — Documento no identificado por el nombre
+
+- **3452LZP**
+  - Vehiculo sustituido: RENAULT MASTER L2H2 2.3 DCI 135 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora TLM
+  - Inicio de posesion: 2022-10-27
+  - Fecha de venta o entrega: 2023-01-01 (origen: documento del expediente)
+  - Posesion acreditada: 66 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 66d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (3452LZP)
+    - `3452LZP ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `3452LZP CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `3452LZP FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `3452LZP PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **4533JFF**
+  - Vehiculo sustituido: PEUGEOT BOXER 110 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora TLM
+  - Inicio de posesion: 2020-02-28
+  - Fecha de venta o entrega: 2023-01-01 (origen: documento del expediente)
+  - Posesion acreditada: 1038 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4533JFF)
+    - `4533JFF BAJA ALQUILER.pdf` — Documento de alquiler de corta duracion (no acredita posesion)
+    - `4533JFF CONTRATO ALQUILER ALTA.pdf` — Contrato de renting con el solicitante como arrendatario
+
+- **8288KJX**
+  - Vehiculo sustituido: OPEL CORSA 1.3 CDTI 75 CV 5P
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-04-23
+  - Fecha de venta o entrega: 2023-02-07 (origen: documento del expediente)
+  - Posesion acreditada: 1751 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (8288KJX)
+    - `8288KJX ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `8288KJX ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `8288KJX CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `8288KJX FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `8288KJX PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **5682FHK**
+  - Vehiculo sustituido: NISSAN INTERSTAR
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2006-11-10
+  - Fecha de venta o entrega: 2023-02-14 (origen: documento del expediente)
+  - Posesion acreditada: 5940 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (5682FHK)
+    - `5682FHK FACTURA VENTA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+    - `5682FHK FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `5682FHK IMPUESTO.pdf` — Recibo del impuesto de vehiculos de traccion mecanica
+    - `5682FHK PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **PGASTON**
+  - Vehiculo sustituido: TARJETA SOLRED TARJETA SOLRED
+  - Categoria: Maquinaria Auxiliar (codigo 15)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2020-11-01
+  - Fecha de venta o entrega: 2023-03-31 (origen: Excel de flota)
+  - Posesion acreditada: 880 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('PGASTON'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (PGASTON)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **4161FVT**
+  - Vehiculo sustituido: NISSAN CABSTAR 130 CV
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora TLM
+  - Inicio de posesion: 2022-01-31
+  - Fecha de venta o entrega: 2023-05-29 (origen: documento del expediente)
+  - Posesion acreditada: 483 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 5730 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4161FVT)
+    - `4161FVT ALTA ALQUILER.pdf` — Documento de alquiler de corta duracion (no acredita posesion)
+    - `4161FVT DEVOLUCION ALQUILER.pdf` — Documento de alquiler de corta duracion (no acredita posesion)
+    - `4161FVT FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `4161FVT PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **4456KVD**
+  - Vehiculo sustituido: OPEL ASTRA 1.6 CDTI 110 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-04-23
+  - Fecha de venta o entrega: 2023-07-23 (origen: documento del expediente)
+  - Posesion acreditada: 1552 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4456KVD)
+    - `4456KVD ACTA DE ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `4456KVD ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4456KVD CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `4456KVD FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+
+- **4296LBD**
+  - Vehiculo sustituido: OPEL ASTRA 1.6 CDTI 110 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-10-09
+  - Fecha de venta o entrega: 2023-09-06 (origen: documento del expediente)
+  - Posesion acreditada: 1428 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4296LBD)
+    - `4296LBD ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4296LBD CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `4296LBD FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+
+- **8983LFG**
+  - Vehiculo sustituido: NISSAN CABSTAR GRUA
+  - Categoria: Camión Caja (codigo 8)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora TLM
+  - Inicio de posesion: 2021-01-01
+  - Fecha de venta o entrega: 2023-11-15 (origen: documento del expediente)
+  - Posesion acreditada: 1048 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (8983LFG)
+    - `8983-LFG PERMISO.pdf` — Permiso de circulacion
+    - `8983LFG  FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `8983LFG ALTA ALQUILER.pdf` — Documento de alquiler de corta duracion (no acredita posesion)
+    - `8983LFG DEVOLUCION ALQUILER.pdf` — Documento de alquiler de corta duracion (no acredita posesion)
+
+- **JGRAS**
+  - Vehiculo sustituido: TARJETA SOLRED TARJETA SOLRED
+  - Categoria: Maquinaria Auxiliar (codigo 15)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2020-11-01
+  - Fecha de venta o entrega: 2023-12-19 (origen: Excel de flota)
+  - Posesion acreditada: 1143 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('JGRAS'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (JGRAS)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **8170LCK**
+  - Vehiculo sustituido: PEUGEOT EXPERT 1.5 HDI 102 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora TLM
+  - Inicio de posesion: 2023-03-17
+  - Fecha de venta o entrega: 2024-01-01 (origen: documento del expediente)
+  - Posesion acreditada: 290 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 290d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (8170LCK)
+    - `8170LCK ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `8170LCK CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `8170LCK FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `8170LCK PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **6338KKX**
+  - Vehiculo sustituido: NISSAN CABSTAR NT400
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora TLM
+  - Inicio de posesion: 2019-01-02
+  - Fecha de venta o entrega: 2024-01-08 (origen: documento del expediente)
+  - Posesion acreditada: 1832 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (6338KKX)
+    - `6338KKX ALTA ALQUILER.pdf` — Documento de alquiler de corta duracion (no acredita posesion)
+    - `6338KKX BAJA ALQUILER.pdf` — Documento de alquiler de corta duracion (no acredita posesion)
+    - `6338KKX FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `6338KKX PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **2825KMP**
+  - Vehiculo sustituido: OPEL CORSA 1.3 CDTI 75 CV 5P
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-07-31
+  - Fecha de venta o entrega: 2024-02-01 (origen: documento del expediente)
+  - Posesion acreditada: 2011 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CANALIZ. CIVILES S.A. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (2825KMP)
+    - `2825KMP ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2825KMP ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `2825KMP CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `2825KMP FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `2825KMP PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **JOMOCHE**
+  - Vehiculo sustituido: TARJETA SOLRED TARJETA SOLRED
+  - Categoria: Excavadora (codigo 16)
+  - Combustible: DIESEL
+  - Sociedad: CANALIZ. CIVILES S.A. (Cod.Sociedad 1066)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2022-09-30
+  - Fecha de venta o entrega: 2024-05-20 (origen: Excel de flota)
+  - Posesion acreditada: 598 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('JOMOCHE'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (JOMOCHE)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **1947KMM**
+  - Vehiculo sustituido: NISSAN NV 200 1.5 DCI 90 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-02-01
+  - Fecha de venta o entrega: 2023-02-01 (origen: Excel de flota)
+  - Posesion acreditada: 0 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 0d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (1947KMM)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **7621KGX**
+  - Vehiculo sustituido: RENAULT CLIO 1.5 DCI 75 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora NORTHGATE
+  - Inicio de posesion: 2023-02-01
+  - Fecha de venta o entrega: 2023-02-24 (origen: documento del expediente)
+  - Posesion acreditada: 23 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 1857 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CGAC no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (7621KGX)
+    - `7621 KGX ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `7621KGX IMPUESTO 2023.pdf` — Recibo del impuesto de vehiculos de traccion mecanica
+    - `7621KGX PERMISO.pdf` — Permiso de circulacion
+
+- **7706KJH**
+  - Vehiculo sustituido: RENAULT CLIO 1.5 DCI 75 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora NORTHGATE
+  - Inicio de posesion: 2023-02-01
+  - Fecha de venta o entrega: 2023-02-24 (origen: documento del expediente)
+  - Posesion acreditada: 23 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 23d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (7706KJH)
+    - `7706KJH ACTA devolucion.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `7706KJH IMPUESTO 2023.pdf` — Recibo del impuesto de vehiculos de traccion mecanica
+    - `7706KJH PERMISO.pdf` — Permiso de circulacion
+
+- **0824MCY**
+  - Vehiculo sustituido: SKODA KAROQ 2.0 TDI 150 CV DSG
+  - Categoria: Todo Terreno (codigo 6)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-02-16
+  - Fecha de venta o entrega: 2023-05-12 (origen: documento del expediente)
+  - Posesion acreditada: 85 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 85d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (0824MCY)
+    - `0824MCY ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `0824MCY ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `0824MCY CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA0824MCY (1).pdf` — Documento no identificado por el nombre
+
+- **4719KYS**
+  - Vehiculo sustituido: VOLVO XC60
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: RENTING, arrendadora ARVAL SERV
+  - Inicio de posesion: 2019-07-17
+  - Fecha de venta o entrega: 2023-08-11 (origen: documento del expediente)
+  - Posesion acreditada: 1486 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CGAC no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (4719KYS)
+    - `4719KYS  ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4719KYS ACTA ENTREGA Y ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4719KYS ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `4719KYS CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `4719KYS F.pdf` — Documento no identificado por el nombre
+    - `4719KYS.pdf` — Documento no identificado por el nombre
+
+- **3447KFH**
+  - Vehiculo sustituido: NISSAN NV 200 1.5 DCI 90 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora NORTHGATE
+  - Inicio de posesion: 2023-02-01
+  - Fecha de venta o entrega: 2023-09-19 (origen: documento del expediente)
+  - Posesion acreditada: 230 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 230d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (3447KFH)
+    - `3447KFH ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `3447KFH ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `3447KFH CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `3447KFH FT.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `3447KFH PC.pdf` — Permiso de circulacion
+
+- **5188MGJ**
+  - Vehiculo sustituido: OPEL CORSA 1.5 D 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-04
+  - Fecha de venta o entrega: 2023-11-20 (origen: documento del expediente)
+  - Posesion acreditada: 47 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 47d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (5188MGJ)
+    - `5188MGJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5188MGJ CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA5188MGJ (1).pdf` — Documento no identificado por el nombre
+
+- **0041LWY**
+  - Vehiculo sustituido: PEUGEOT 208 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-02
+  - Fecha de venta o entrega: 2023-11-29 (origen: documento del expediente)
+  - Posesion acreditada: 58 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 58d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (0041LWY)
+    - `0041LWY ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `0041LWY FICHA TECNICA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `0041LWYCondicionesparticulares_20251021093304.863_X.doc` — Documento no identificado por el nombre
+
+- **5244MGJ**
+  - Vehiculo sustituido: OPEL CORSA 1.5 D 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-03
+  - Fecha de venta o entrega: 2023-11-29 (origen: documento del expediente)
+  - Posesion acreditada: 57 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 57d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (5244MGJ)
+    - `5244MGJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5244MGJ CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA5244MGJ (1).pdf` — Documento no identificado por el nombre
+
+- **5262MGK**
+  - Vehiculo sustituido: RENAULT CLIO DCI 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-03
+  - Fecha de venta o entrega: 2023-11-29 (origen: documento del expediente)
+  - Posesion acreditada: 57 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 57d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (5262MGK)
+    - `5262MGK ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5262MGK CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `5262MGK FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+
+- **6742MGH**
+  - Vehiculo sustituido: OPEL CORSA 1.5 D 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-04
+  - Fecha de venta o entrega: 2023-11-29 (origen: documento del expediente)
+  - Posesion acreditada: 56 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 56d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (6742MGH)
+    - `6742MGH ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `6742MGH CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA6742MGH (1).pdf` — Documento no identificado por el nombre
+
+- **9106LCH**
+  - Vehiculo sustituido: OPEL GRANDLAND X 1.5 CDTI 130 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-12-04
+  - Fecha de venta o entrega: 2023-12-04 (origen: documento del expediente)
+  - Posesion acreditada: 1461 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CGAC no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (9106LCH)
+    - `9106LCH ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9106LCH ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `9106LCH CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA9106LCH (1).pdf` — Documento no identificado por el nombre
+
+- **4655MGJ**
+  - Vehiculo sustituido: OPEL CORSA 1.5 D 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-03
+  - Fecha de venta o entrega: 2023-12-05 (origen: documento del expediente)
+  - Posesion acreditada: 63 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 63d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (4655MGJ)
+    - `4655MGJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4655MGJ CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA4655MGJ (1).pdf` — Documento no identificado por el nombre
+
+- **4836MGD**
+  - Vehiculo sustituido: RENAULT CLIO 1.5 DCI 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-02
+  - Fecha de venta o entrega: 2023-12-18 (origen: documento del expediente)
+  - Posesion acreditada: 77 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 77d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (4836MGD)
+    - `4836MGD ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `4836MGD CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `4836MGD FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+
+- **5249MGJ**
+  - Vehiculo sustituido: OPEL CORSA 1.5 D 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-03
+  - Fecha de venta o entrega: 2023-12-22 (origen: documento del expediente)
+  - Posesion acreditada: 80 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 80d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (5249MGJ)
+    - `5249MGJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5249MGJ CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA5249MGJ (1).pdf` — Documento no identificado por el nombre
+
+- **2258JPC**
+  - Vehiculo sustituido: OPEL COMBO 1.3 CDTI 90 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2016-06-06
+  - Fecha de venta o entrega: 2024-02-08 (origen: documento del expediente)
+  - Posesion acreditada: 2803 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible y coincide en sociedad y categoria con 20 vehiculo(s) nuevo(s) sin pareja, pero su fecha de salida (2024-02-08) queda fuera de la ventana de todos ellos; respecto al mas proximo, 2043MJP (2023-07-25), se pasa por 14 dias
+  - Documentacion del vehiculo sustituido (2258JPC)
+    - `2258JPC ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2258JPC ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `2258JPC CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `2258JPC FICHA.pdf` — Documento no identificado por el nombre
+    - `2258JPC PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **3595KDF**
+  - Vehiculo sustituido: PEUGEOT PARTNER 1.6 HDI 75 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora NORTHGATE
+  - Inicio de posesion: 2023-02-01
+  - Fecha de venta o entrega: 2024-02-20 (origen: documento del expediente)
+  - Posesion acreditada: 384 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 2338 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible y coincide en sociedad y categoria con 20 vehiculo(s) nuevo(s) sin pareja, pero su fecha de salida (2024-02-20) queda fuera de la ventana de todos ellos; respecto al mas proximo, 2043MJP (2023-07-25), se pasa por 26 dias
+  - Documentacion del vehiculo sustituido (3595KDF)
+    - `- 3595KDF PC.pdf` — Permiso de circulacion
+    - `- 3595KDF seguro (002).pdf` — Poliza de seguro (no exigida por la ficha)
+    - `3595KDF ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `3595KDF CONTRATO ANEXO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `3595KDF CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `3595KDF FT.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `3595KDF-ACTA DE ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+
+- **9094KRJ**
+  - Vehiculo sustituido: OPEL COMBO 1.3 CDTI 95 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-11-12
+  - Fecha de venta o entrega: 2024-03-03 (origen: documento del expediente)
+  - Posesion acreditada: 1938 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible y coincide en sociedad y categoria con 20 vehiculo(s) nuevo(s) sin pareja, pero su fecha de salida (2024-03-03) queda fuera de la ventana de todos ellos; respecto al mas proximo, 2043MJP (2023-07-25), se pasa por 38 dias
+  - Documentacion del vehiculo sustituido (9094KRJ)
+    - `9094KRJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9094KRJ ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `9094KRJ CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA9094KRJ (1).pdf` — Documento no identificado por el nombre
+
+- **1918LMY**
+  - Vehiculo sustituido: OPEL CORSA 1.5 D100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-02-01
+  - Fecha de venta o entrega: 2024-03-08 (origen: documento del expediente)
+  - Posesion acreditada: 36 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 1102 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CGAC no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (1918LMY)
+    - `1918LMY ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `1918LMY ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `1918LMY CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA1918LMY (1).pdf` — Documento no identificado por el nombre
+
+- **2502LZC**
+  - Vehiculo sustituido: RENAULT EXPRESS 1.5 DCI 95 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-02-01
+  - Fecha de venta o entrega: 2024-03-21 (origen: documento del expediente)
+  - Posesion acreditada: 49 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 49d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (2502LZC)
+    - `2502LZC  CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `2502LZC ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `MA2502LZC.pdf` — Documento no identificado por el nombre
+
+- **2842LYK**
+  - Vehiculo sustituido: RENAULT EXPRESS 1.5 DCI 95 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-02-01
+  - Fecha de venta o entrega: 2024-03-21 (origen: documento del expediente)
+  - Posesion acreditada: 49 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 49d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (2842LYK)
+    - `2842LYK ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2842LYK CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA2842LYK.pdf` — Documento no identificado por el nombre
+
+- **5351MGK**
+  - Vehiculo sustituido: RENAULT CLIO DCI 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-03
+  - Fecha de venta o entrega: 2024-03-21 (origen: documento del expediente)
+  - Posesion acreditada: 170 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 170d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (5351MGK)
+    - `5351MGK ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `5351MGK CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `5351MGK DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5351MGK FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+
+- **5713LWX**
+  - Vehiculo sustituido: PEUGEOT 208 100 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-10-02
+  - Fecha de venta o entrega: 2024-04-01 (origen: documento del expediente)
+  - Posesion acreditada: 182 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 182d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (5713LWX)
+    - `5713LWX ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `5713LWX ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `5713LWX FICHA Y PERMISOS.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `5713LWXCondicionesparticulares_20251021093531.814_X.doc` — Documento no identificado por el nombre
+
+- **3264MDB**
+  - Vehiculo sustituido: RENAULT EXPRESS 1.5 DCI 95 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-01-31
+  - Fecha de venta o entrega: 2024-05-13 (origen: documento del expediente)
+  - Posesion acreditada: 103 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 103d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (3264MDB)
+    - `3264MDB ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `3264MDB ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `3264MDB CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA3264MDB.pdf` — Documento no identificado por el nombre
+
+- **1722MGL**
+  - Vehiculo sustituido: RENAULT EXPRESS 1.5 DCI 95 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-01-31
+  - Fecha de venta o entrega: 2024-05-21 (origen: documento del expediente)
+  - Posesion acreditada: 111 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 111d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (1722MGL)
+    - `1722MGL ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `1722MGL ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `1722MGL CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA1722MGL.pdf` — Documento no identificado por el nombre
+
+- **2138CTS**
+  - Vehiculo sustituido: IVECO ML 180
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: CEDIDO (POR AYTO, PLANTA., arrendadora CEDIDO
+  - Inicio de posesion: 2024-06-01
+  - Fecha de venta o entrega: 2024-06-01 (origen: Excel de flota)
+  - Posesion acreditada: 0 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 7367 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CGAC no compro en 2023 ningun electrico de categoria Camión, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (2138CTS)
+    - `2138CTS FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `2138CTS ITV.pdf` — Documento no identificado por el nombre
+    - `2138CTS PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **1188JZF**
+  - Vehiculo sustituido: TOYOTA HYLUX 2.4 KOMBI
+  - Categoria: Todo Terreno (codigo 6)
+  - Combustible: DIESEL
+  - Sociedad: CGAC (Cod.Sociedad 1505)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2017-09-06
+  - Fecha de venta o entrega: 2024-06-14 (origen: documento del expediente)
+  - Posesion acreditada: 2473 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero CGAC no compro en 2023 ningun electrico de categoria Todo Terreno, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (1188JZF)
+    - `1188JZF ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `1188JZF ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `1188JZF CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+
+- **0722KVP**
+  - Vehiculo sustituido: OPEL ASTRA 1.6 CDTI 110 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: EGEVASA (Cod.Sociedad 1400)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-04-08
+  - Fecha de venta o entrega: 2023-04-08 (origen: Excel de flota)
+  - Posesion acreditada: 1461 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero EGEVASA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (0722KVP)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **0351JWC**
+  - Vehiculo sustituido: OPEL MOVANO 2.3 CDTI 130 CV
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: EGEVASA (Cod.Sociedad 1400)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2017-01-12
+  - Fecha de venta o entrega: 2023-08-31 (origen: documento del expediente)
+  - Posesion acreditada: 2422 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero EGEVASA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (0351JWC)
+    - `0351JWC ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `0351JWC ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `0351JWC CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `0351JWC FT Y PC.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `0351JWC PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **0290JLY**
+  - Vehiculo sustituido: OPEL COMBO 1.3 CDTI 90 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: EGEVASA (Cod.Sociedad 1400)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2016-03-16
+  - Fecha de venta o entrega: 2023-10-24 (origen: documento del expediente)
+  - Posesion acreditada: 2778 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero EGEVASA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (0290JLY)
+    - `0290JLY ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `0290JLY ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `0290JLY CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `0290JLY PERMISO CIRCULACION.pdf` — Permiso de circulacion
+    - `0290JLY.pdf` — Documento no identificado por el nombre
+
+- **C4053BMN**
+  - Vehiculo sustituido: ADLY CICLOMOTOR QWAD ATV 50 W
+  - Categoria: Ciclomotor (codigo 1)
+  - Combustible: GASOLINA
+  - Sociedad: EGEVASA (Cod.Sociedad 1400)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2003-12-01
+  - Fecha de venta o entrega: 2024-05-15 (origen: Excel de flota)
+  - Posesion acreditada: 7471 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero EGEVASA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (C4053BMN)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **7960KHZ**
+  - Vehiculo sustituido: OPEL CORSA 1.3 CDTI 75 CV 5P
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: EMIVASA (Cod.Sociedad 1200)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-03-13
+  - Fecha de venta o entrega: 2023-02-07 (origen: documento del expediente)
+  - Posesion acreditada: 1792 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero EMIVASA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (7960KHZ)
+    - `7960KHZ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `7960KHZ ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `7960KHZ CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `7960KHZ FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `7960KHZ PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **0842KVR**
+  - Vehiculo sustituido: OPEL CROSSLAND X 1.2 80 CV GLP
+  - Categoria: Turismo (codigo 4)
+  - Combustible: GLP
+  - Sociedad: EMIVASA (Cod.Sociedad 1200)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-04-05
+  - Fecha de venta o entrega: 2023-02-08 (origen: documento del expediente)
+  - Posesion acreditada: 1405 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero EMIVASA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (0842KVR)
+    - `0842KVR ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `0842KVR ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `0842KVR CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `0842KVR FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `0842KVR PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **9778KJG**
+  - Vehiculo sustituido: OPEL CROSSLAND X 1.2 80 CV GLP
+  - Categoria: Turismo (codigo 4)
+  - Combustible: GLP
+  - Sociedad: EMIVASA (Cod.Sociedad 1200)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-03-23
+  - Fecha de venta o entrega: 2023-05-02 (origen: documento del expediente)
+  - Posesion acreditada: 1866 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero EMIVASA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (9778KJG)
+    - `9778KJG ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9778KJG CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA9778KJG (1).pdf` — Documento no identificado por el nombre
+
+- **4921LGX**
+  - Vehiculo sustituido: YAMAHA T MAX 500
+  - Categoria: Motocicleta (codigo 2)
+  - Combustible: GASOLINA
+  - Sociedad: EMIVASA (Cod.Sociedad 1200)
+  - Regimen: OTROS AUTORIZADOS, arrendadora OTROS
+  - Inicio de posesion: 2022-01-01
+  - Fecha de venta o entrega: 2023-09-30 (origen: Excel de flota)
+  - Posesion acreditada: 637 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Posesion 637d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (4921LGX)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **3299KTP**
+  - Vehiculo sustituido: VOLVO XC40 2.0 D3 AWD MOMENTUM
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: FUCSA (Cod.Sociedad 8001)
+  - Regimen: RENTING, arrendadora ARVAL SERV
+  - Inicio de posesion: 2019-02-22
+  - Fecha de venta o entrega: 2023-02-22 (origen: Excel de flota)
+  - Posesion acreditada: 1461 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero FUCSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (3299KTP)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **6061KRD**
+  - Vehiculo sustituido: OPEL CORSA 1.4 90 CV GLP 5P
+  - Categoria: Turismo (codigo 4)
+  - Combustible: GLP
+  - Sociedad: FUCSA (Cod.Sociedad 8001)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-11-12
+  - Fecha de venta o entrega: 2024-04-04 (origen: Excel de flota)
+  - Posesion acreditada: 1970 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero FUCSA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (6061KRD)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **9105KTC**
+  - Vehiculo sustituido: OPEL ASTRA 1.6 CDTI 110 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2019-02-26
+  - Fecha de venta o entrega: 2023-03-13 (origen: documento del expediente)
+  - Posesion acreditada: 1476 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO POR SINIESTRO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero G.O.MEDIOAMBIENTE S.L. no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (9105KTC)
+    - `9105KTC ACTA DE ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `9105KTC ACTA DEVOLUCION.docx` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9105KTC CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `9105KTC FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `9105KTC PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **2179KNN**
+  - Vehiculo sustituido: OPEL CORSA 1.3 CDTI 75 CV 5P
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2018-08-31
+  - Fecha de venta o entrega: 2023-04-11 (origen: documento del expediente)
+  - Posesion acreditada: 1684 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero G.O.MEDIOAMBIENTE S.L. no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (2179KNN)
+    - `2179KNN ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `2179KNN CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `2179KNN DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2179KNN FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `2179KNN PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **2675KGJ**
+  - Vehiculo sustituido: PEUGEOT 208 1.2 82 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: GASOLINA
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2021-07-15
+  - Fecha de venta o entrega: 2023-10-31 (origen: documento del expediente)
+  - Posesion acreditada: 838 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero G.O.MEDIOAMBIENTE S.L. no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (2675KGJ)
+    - `2675KGJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2675KGJCondicionesparticulares_20251021092837.548_X.doc` — Documento no identificado por el nombre
+
+- **2678KGJ**
+  - Vehiculo sustituido: PEUGEOT 208 1.2 82 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: GASOLINA
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2021-08-03
+  - Fecha de venta o entrega: 2023-11-03 (origen: documento del expediente)
+  - Posesion acreditada: 822 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero G.O.MEDIOAMBIENTE S.L. no compro en 2023 ningun electrico de categoria Turismo, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (2678KGJ)
+    - `2678KGJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2678KGJCondicionesparticulares_20251021093045.638_X.doc` — Documento no identificado por el nombre
+
+- **6529LTJ**
+  - Vehiculo sustituido: RENAULT MEGANE DCI 115 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-02-27
+  - Fecha de venta o entrega: 2024-04-24 (origen: documento del expediente)
+  - Posesion acreditada: 57 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 57d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (6529LTJ)
+    - `6529LTJ ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `6529LTJ ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `6529LTJ CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA6529LTJ.pdf` — Documento no identificado por el nombre
+
+- **2653LTG**
+  - Vehiculo sustituido: SEAT LEON 2.0 TDI
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: G.O.MEDIOAMBIENTE S.L. (Cod.Sociedad 1004)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2024-05-08
+  - Fecha de venta o entrega: 2024-06-07 (origen: documento del expediente)
+  - Posesion acreditada: 30 dias sobre los 730 exigidos → DEFENDIBLE
+    - Solo alcanza el umbral contando 973 dias desde la matriculacion; falta la cadena de contratos
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero se ha asignado a 1108KHK, un vehiculo nuevo de 2024-06-14, fuera del ejercicio 2023
+  - Documentacion del vehiculo sustituido (2653LTG)
+    - `2653LTG ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `2653LTG ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `2653LTG CONTRATO.doc` — Contrato de renting con el solicitante como arrendatario
+    - `MA2653LTG (1).pdf` — Documento no identificado por el nombre
+
+- **4939LFG**
+  - Vehiculo sustituido: RENAULT MÉGANE 1.5 DCI 110CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: GLOBAL OMNIUM IDRICA SL (Cod.Sociedad 8132)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2020-02-14
+  - Fecha de venta o entrega: 2024-02-14 (origen: Excel de flota)
+  - Posesion acreditada: 1461 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero GLOBAL OMNIUM IDRICA SL no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4939LFG)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **V6288GB**
+  - Vehiculo sustituido: MITSUBISHI CAMION CISTERNA 3.5 TN
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ISG (Cod.Sociedad 1053)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 1998-05-06
+  - Fecha de venta o entrega: 2023-02-15 (origen: documento del expediente)
+  - Posesion acreditada: 9051 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ISG no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (V6288GB)
+    - `V6288GB FACTURA VENTA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+    - `V6288GB FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `V6288GB PERMISO CIRCULACION.pdf` — Permiso de circulacion
+
+- **3575LMF**
+  - Vehiculo sustituido: PEUGEOT PARTNER 1.5 HDI 98 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: ISG (Cod.Sociedad 1053)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2021-02-01
+  - Fecha de venta o entrega: 2023-07-12 (origen: documento del expediente)
+  - Posesion acreditada: 891 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO POR SINIESTRO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ISG no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (3575LMF)
+    - `3575LMF ACTA BAJA.pdf` — Baja definitiva en DGT o certificado de achatarramiento
+    - `3575LMF CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA3575LMF.pdf` — Documento no identificado por el nombre
+
+- **9165FXM**
+  - Vehiculo sustituido: VOLVO CAMION CISTERNA 26 TN
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: ISG (Cod.Sociedad 1053)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2007-11-21
+  - Fecha de venta o entrega: 2024-02-19 (origen: documento del expediente)
+  - Posesion acreditada: 5934 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero ISG no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (9165FXM)
+    - `9165FXM PERMISO CIRCULACION Y FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `9165FXM VENTA VEHICULO.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+
+- **9305LMG**
+  - Vehiculo sustituido: PEUGEOT PARTNER 1.5 HDI 98 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: ISG (Cod.Sociedad 1053)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2021-03-08
+  - Fecha de venta o entrega: 2024-05-07 (origen: documento del expediente)
+  - Posesion acreditada: 1156 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO POR SINIESTRO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero se ha asignado a 4597LGC, un vehiculo nuevo de 2024-05-10, fuera del ejercicio 2023
+  - Documentacion del vehiculo sustituido (9305LMG)
+    - `9305LMG BAJA.pdf` — Documento no identificado por el nombre
+    - `9305LMG CONTRATO.pdf` — Contrato de renting con el solicitante como arrendatario
+    - `MA9305LMG.pdf` — Documento no identificado por el nombre
+
+- **5554FNN**
+  - Vehiculo sustituido: OPEL VIVARO 2.0 CDTI 114 CV
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2010-04-06
+  - Fecha de venta o entrega: 2023-06-02 (origen: Excel de flota)
+  - Posesion acreditada: 4805 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (5554FNN)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **0986LVB**
+  - Vehiculo sustituido: VOLVO FM 500 4 EJES
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2021-12-07
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 708 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (0986LVB)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **1469CWR**
+  - Vehiculo sustituido: RENAULT PREMIUM 440
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2004-05-04
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 7134 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (1469CWR)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **1473CWR**
+  - Vehiculo sustituido: RENAULT MAGNUM 480 18 T
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2004-06-01
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 7106 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (1473CWR)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **1601JCF**
+  - Vehiculo sustituido: IVECO 460
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2020-10-06
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 1135 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (1601JCF)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **4006CVG**
+  - Vehiculo sustituido: VOLVO FH 12 D 460
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2015-05-28
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 3093 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4006CVG)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **5106JCS**
+  - Vehiculo sustituido: VOLVO FM 11450
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2020-06-18
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 1245 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (5106JCS)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **6112LXB**
+  - Vehiculo sustituido: VOLVO XC 90 B5 D 235 CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: RENTING, arrendadora ARVAL SERV
+  - Inicio de posesion: 2022-03-30
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 595 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Posesion 595d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (6112LXB)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **7275KFD**
+  - Vehiculo sustituido: IVECO 460
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2021-11-16
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 729 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (7275KFD)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **8343CKG**
+  - Vehiculo sustituido: VOLVO FM 12380- 3 EJES
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2003-07-09
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 7434 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (8343CKG)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **9438LGT**
+  - Vehiculo sustituido: RENAULT T 480
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2020-06-12
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 1251 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (9438LGT)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **E1476BDM**
+  - Vehiculo sustituido: JOHN DEERE TRACTOR AGRICOLA
+  - Categoria: Tractor (codigo 10)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2017-04-05
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 2415 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (E1476BDM)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **R0732BDB**
+  - Vehiculo sustituido: LEGRAS SBS2220
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2018-07-23
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 1941 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (R0732BDB)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **R1645BBR**
+  - Vehiculo sustituido: LECITRAILER 3E20
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2004-05-27
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 7111 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (R1645BBR)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **R4952BBT**
+  - Vehiculo sustituido: TISVOL 950190LAL
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2020-08-21
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 1181 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (R4952BBT)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **R4991BCP**
+  - Vehiculo sustituido: GRANALU PM 136
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2021-07-16
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 852 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (R4991BCP)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **R7781BCD**
+  - Vehiculo sustituido: GRANALU H 1700
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2006-01-04
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 6524 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (R7781BCD)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **R9871BBD**
+  - Vehiculo sustituido: TISVOL A 960170 EAL
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2000-10-31
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 8415 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (R9871BBD)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **V1409HD**
+  - Vehiculo sustituido: MERCEDES SK2538 3 EJES
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 1990-01-01
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 12371 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero JEMAR E HIJOS S.L. no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (V1409HD)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **V15847R**
+  - Vehiculo sustituido: TISVOL 1010170 EAL BASCULANTE
+  - Categoria: Camión (codigo 7)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 1997-10-17
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 9525 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('V15847R'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (V15847R)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **V96122VE**
+  - Vehiculo sustituido: CASE PALA CARGADORA
+  - Categoria: Tractor (codigo 10)
+  - Combustible: DIESEL
+  - Sociedad: JEMAR E HIJOS S.L. (Cod.Sociedad 1069)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 1999-02-18
+  - Fecha de venta o entrega: 2023-11-15 (origen: Excel de flota)
+  - Posesion acreditada: 9036 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('V96122VE'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (V96122VE)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **8213KFW**
+  - Vehiculo sustituido: KYMCO AGILITY CITY 125 CC
+  - Categoria: Motocicleta (codigo 2)
+  - Combustible: GASOLINA
+  - Sociedad: MEDICION AVANZADA CONTAD. (Cod.Sociedad 1021)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2017-11-22
+  - Fecha de venta o entrega: 2023-02-17 (origen: documento del expediente)
+  - Posesion acreditada: 1913 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO POR SINIESTRO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero MEDICION AVANZADA CONTAD. no compro en 2023 ningun electrico de categoria Motocicleta, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (8213KFW)
+    - `8213KFW BAJA DEFINITIVA.pdf` — Baja definitiva en DGT o certificado de achatarramiento
+    - `8213KFW FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `8213KFW KYMCO AGILITY CITY 125 CC FACTURA COMPRA.pdf` — Factura o contrato que acredita la venta del vehiculo sustituido
+    - `8213KFW PERMISO CIRULACION.pdf` — Permiso de circulacion
+
+- **0909HZB**
+  - Vehiculo sustituido: KYMCO AGILITY CITY 125 CC
+  - Categoria: Motocicleta (codigo 2)
+  - Combustible: GASOLINA
+  - Sociedad: MEDICION AVANZADA CONTAD. (Cod.Sociedad 1021)
+  - Regimen: PROPIEDAD
+  - Inicio de posesion: 2016-09-13
+  - Fecha de venta o entrega: 2023-02-17 (origen: documento del expediente)
+  - Posesion acreditada: 2348 dias sobre los 365 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero MEDICION AVANZADA CONTAD. no compro en 2023 ningun electrico de categoria Motocicleta, y la sustitucion entre categorias no se admite
+  - Documentacion del vehiculo sustituido (0909HZB)
+    - `0909HZB BAJA DEFINITIVA.pdf` — Baja definitiva en DGT o certificado de achatarramiento
+    - `0909HZB FICHA TECNICA.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `0909HZB PERMISO CIRCULACION.pdf` — Permiso de circulacion
+    - `0909HZB_1B12838835_A98155005_20170119123825548 FACTURA.PDF` — Factura de adquisicion del vehiculo nuevo
+
+- **0360KLY**
+  - Vehiculo sustituido: RENAULT KANGOO
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: MEDICION AVANZADA CONTAD. (Cod.Sociedad 1021)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-12-22
+  - Fecha de venta o entrega: 2024-01-30 (origen: documento del expediente)
+  - Posesion acreditada: 39 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 39d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (0360KLY)
+    - `0360KLY ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `0360KLY ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `0360KLY CONTRATO.docx` — Contrato de renting con el solicitante como arrendatario
+    - `MA0360KLY (1).pdf` — Documento no identificado por el nombre
+
+- **1865LDL**
+  - Vehiculo sustituido: CITROEN C3
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: MEDICION AVANZADA CONTAD. (Cod.Sociedad 1021)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-12-22
+  - Fecha de venta o entrega: 2024-01-30 (origen: documento del expediente)
+  - Posesion acreditada: 39 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 39d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (1865LDL)
+    - `1865LDL ACTA DE ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `1865LDL ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `1865LDL CONTRATO.docx` — Contrato de renting con el solicitante como arrendatario
+    - `1865LDL FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+
+- **9853KXP**
+  - Vehiculo sustituido: PEUGEOT 208
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: MEDICION AVANZADA CONTAD. (Cod.Sociedad 1021)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-12-22
+  - Fecha de venta o entrega: 2024-01-31 (origen: documento del expediente)
+  - Posesion acreditada: 40 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 40d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (9853KXP)
+    - `9853KXP Acta Devolucion.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `9853KXP Acta de Entrega.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `9853KXP FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `9853KXPCondicionesparticulares_20251021083051.316_X.docx` — Documento no identificado por el nombre
+
+- **3483KWB**
+  - Vehiculo sustituido: PEUGEOT 208
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: MEDICION AVANZADA CONTAD. (Cod.Sociedad 1021)
+  - Regimen: ALQUILER_CORTA_DURACION, arrendadora AYVENS
+  - Inicio de posesion: 2023-12-22
+  - Fecha de venta o entrega: 2024-04-11 (origen: documento del expediente)
+  - Posesion acreditada: 111 dias sobre los 730 exigidos → INSUFICIENTE
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Posesion 111d < 730d exigidos para un vehiculo tenido en arrendamiento
+  - Documentacion del vehiculo sustituido (3483KWB)
+    - `3483KWB ACTA DEVOLUCION.pdf` — Acta de devolucion del vehiculo a la arrendadora, firmada en conformidad
+    - `3483KWB ACTA ENTREGA.pdf` — Acta de entrega firmada entre arrendador y usuario
+    - `3483KWB FICHA Y PERMISO.pdf` — Ficha tecnica / tarjeta ITV del vehiculo
+    - `3483KWBCondicionesparticulares_20251021092238.412_X.docx` — Documento no identificado por el nombre
+
+- **4215KVS**
+  - Vehiculo sustituido: RENAULT KANGOO
+  - Categoria: Furgoneta/Furgón (codigo 5)
+  - Combustible: DIESEL
+  - Sociedad: SASTESA (Cod.Sociedad 1201)
+  - Regimen: PRE-ENTREGA, arrendadora AYVENS
+  - Inicio de posesion: 2020-11-24
+  - Fecha de venta o entrega: 2023-04-21 (origen: Excel de flota)
+  - Posesion acreditada: 878 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero SASTESA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4215KVS)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **B36750049**
+  - Vehiculo sustituido: BOBCAT MANIPULADORA TELESCOPICA
+  - Categoria: Maquinaria Auxiliar (codigo 15)
+  - Combustible: DIESEL
+  - Sociedad: UTE EDAR TABLADA (Cod.Sociedad 1326)
+  - Regimen: CEDIDO (POR AYTO, PLANTA., arrendadora CEDIDO
+  - Inicio de posesion: 2020-02-18
+  - Fecha de venta o entrega: 2023-05-16 (origen: Excel de flota)
+  - Posesion acreditada: 1183 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('B36750049'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (B36750049)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **BR534034**
+  - Vehiculo sustituido: HERMANOS GARCIA REMOLQUE AGRICOLA BASCULANTE
+  - Categoria: Remolque (codigo 9)
+  - Combustible: DIESEL
+  - Sociedad: UTE EDAR TABLADA (Cod.Sociedad 1326)
+  - Regimen: CEDIDO (POR AYTO, PLANTA., arrendadora CEDIDO
+  - Inicio de posesion: 2020-02-18
+  - Fecha de venta o entrega: 2024-04-15 (origen: Excel de flota)
+  - Posesion acreditada: 1518 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('BR534034'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (BR534034)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **BR534037**
+  - Vehiculo sustituido: HERMANOS GARCIA REMOLQUE AGRICOLA BASCULANTE
+  - Categoria: Remolque (codigo 9)
+  - Combustible: DIESEL
+  - Sociedad: UTE EDAR TABLADA (Cod.Sociedad 1326)
+  - Regimen: CEDIDO (POR AYTO, PLANTA., arrendadora CEDIDO
+  - Inicio de posesion: 2020-02-18
+  - Fecha de venta o entrega: 2024-04-15 (origen: Excel de flota)
+  - Posesion acreditada: 1518 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Matricula no valida ('BR534037'): no es un vehiculo
+  - Documentacion del vehiculo sustituido (BR534037)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **5113CNG**
+  - Vehiculo sustituido: CITROEN C 3 1.4
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: UTE SOFTCAD-VANAGUA (Cod.Sociedad 1329)
+  - Regimen: CEDIDO (POR AYTO, PLANTA., arrendadora CEDIDO
+  - Inicio de posesion: 2021-05-14
+  - Fecha de venta o entrega: 2024-03-31 (origen: Excel de flota)
+  - Posesion acreditada: 1052 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: CANCELADO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero UTE SOFTCAD-VANAGUA no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (5113CNG)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+- **4979LFG**
+  - Vehiculo sustituido: RENAULT MÉGANE 1.5 DCI 110CV
+  - Categoria: Turismo (codigo 4)
+  - Combustible: DIESEL
+  - Sociedad: VALORIA 2015 SLU (Cod.Sociedad 8009)
+  - Regimen: RENTING, arrendadora AYVENS
+  - Inicio de posesion: 2020-02-12
+  - Fecha de venta o entrega: 2024-02-12 (origen: Excel de flota)
+  - Posesion acreditada: 1461 dias sobre los 730 exigidos → ACREDITADA
+  - Situacion del contrato: DEVUELTO
+  - Motivo por el que no se ha usado:
+    - Es elegible, pero VALORIA 2015 SLU no compro ningun vehiculo electrico en 2023: no hay a quien asignarlo
+  - Documentacion del vehiculo sustituido (4979LFG)
+    - **Sin carpeta documental.** Este vehiculo solo consta en el Excel de flota; no hay ningun documento de respaldo
+
+## 4. Datos para el calculo del ahorro
+
+En `datos_ahorro_2023.csv`, una fila por pareja con la misma organizacion que la hoja `AE_GF` del Excel del cliente: casillas documentales, bloque del vehiculo antiguo, bloque del vehiculo nuevo y bloque de calculo. El ahorro no se calcula aqui.
+
+- Columnas `CVA`, `F`, `CVN`, `L` y `AE`: **vacias a proposito**. Son los valores que hay que buscar en la base de datos del IDAE para el modelo y la potencia concretos de cada vehiculo, que no se pueden deducir de la hoja de flota
+- Columnas `*_REF_ANEXO_II` y `L_REF_ANEXO_III`: rellenas con los valores de respaldo de la propia ficha TRA050 v1.1, que solo se aplican si el vehiculo no aparece en el IDAE
+  - `F_REF_FICHA` sale del apartado 3 de la ficha: 10 kWh/l en diesel, 9,19 en gasolina, 7,16 en GLP y 13,33 kWh/kg en gas natural
+  - `L_REF_ANEXO_III` es el kilometraje anual medio por tipologia: 13.073 km en turismo y 15.815 km en furgoneta
+- Un aviso sobre `CVA_REF_ANEXO_II` en las furgonetas: se ha tomado el valor de *N1 furgonetas pequenas* (5,63 l/100km en diesel). El Anexo II distingue ademas *M1 furgonetas grandes* (7,4 l/100km), y la hoja de flota no dice el tamano. Para un Vivaro o un Transit conviene comprobar cual corresponde antes de usar el valor de respaldo, porque cambia el ahorro de forma apreciable
+- `MISMO_COMBUSTIBLE` es siempre `DISTINTO`: la actuacion consiste precisamente en sustituir combustion por electrico
+
+---
+
+Generado por `scripts/global_omnium/informe_situacion_2023.py`.

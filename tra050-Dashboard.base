@@ -1,0 +1,110 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+filters:
+  and:
+    - file.folder.containsAny("tra050/data/global_omium_tra050")
+    - file.tags.containsAny("vehiculo")
+views:
+  - type: table
+    name: Tabla
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - rol
+      - fecha_adquisicion
+      - fecha_fin
+      - estado_emparejamiento
+      - coche_emparejado
+    sort:
+      - property: fecha_adquisicion
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 107
+  - type: table
+    name: "2023"
+    filters:
+      and:
+        - or:
+            - fecha_adquisicion < "2023-12-31"
+            - fecha_adquisicion.isEmpty()
+        - estado_emparejamiento != "NO_ELEGIBLE"
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - ventana_baja_desde
+      - ventana_baja_hasta
+      - sociedad
+      - categoria
+      - fecha_adquisicion
+      - estado_emparejamiento
+      - coche_emparejado
+      - rol
+    sort:
+      - property: fecha_adquisicion
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 107
+      note.ventana_baja_desde: 130
+      note.ventana_baja_hasta: 115
+  - type: table
+    name: 2023_viejos
+    filters:
+      and:
+        - or:
+            - fecha_adquisicion < "2023-12-31"
+            - fecha_adquisicion.isEmpty()
+        - estado_emparejamiento != "NO_ELEGIBLE"
+        - rol == "BAJA"
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - rol
+      - fecha_fin
+      - estado_emparejamiento
+      - coche_emparejado
+      - categoria
+    sort:
+      - property: fecha_fin
+        direction: ASC
+      - property: fecha_adquisicion
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 107
+      note.estado_emparejamiento: 168
+  - type: table
+    name: Lote1
+    filters:
+      and:
+        - estado_emparejamiento == "EMPAREJADO"
+        - fecha_adquisicion <= "2023-12-31"
+    order:
+      - file.name
+      - sociedad
+      - rol
+      - fecha_adquisicion
+      - coche_emparejado
+    sort:
+      - property: rol
+        direction: ASC
+      - property: fecha_adquisicion
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 107
+      note.fecha_fin: 111
+      note.estado_emparejamiento: 168

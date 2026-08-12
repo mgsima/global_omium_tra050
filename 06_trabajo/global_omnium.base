@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.contains("resultados_creacion/global_omnium/notas_vehiculos")
+    - file.folder.contains("data/global_omium_tra050/06_trabajo/notas_vehiculos")
 views:
   - type: table
     name: Tabla

@@ -2,7 +2,6 @@ summaries:
   Filled: values.filter(!value.isType("null")).length
 filters:
   and:
-    - file.folder.containsAny("tra050/data/global_omium_tra050")
     - file.tags.containsAny("vehiculo")
 views:
   - type: table
@@ -62,11 +61,9 @@ views:
     name: 2023_viejos
     filters:
       and:
-        - or:
-            - fecha_adquisicion < "2023-12-31"
-            - fecha_adquisicion.isEmpty()
-        - estado_emparejamiento != "NO_ELEGIBLE"
         - rol == "BAJA"
+        - estado_emparejamiento == "ELEGIBLE_SIN_PAREJA"
+        - fecha_fin <= "2023-12-31"
     groupBy:
       property: sociedad
       direction: ASC
@@ -78,9 +75,10 @@ views:
       - estado_emparejamiento
       - coche_emparejado
       - categoria
+      - fuente_datos
     sort:
       - property: fecha_fin
-        direction: ASC
+        direction: DESC
       - property: fecha_adquisicion
         direction: ASC
       - property: tags
@@ -110,4 +108,34 @@ views:
     columnSize:
       file.name: 107
       note.fecha_fin: 111
+      note.estado_emparejamiento: 168
+  - type: table
+    name: 2023_nuevos
+    filters:
+      and:
+        - rol == "ALTA"
+        - estado_emparejamiento == "ELEGIBLE_SIN_PAREJA"
+        - fecha_adquisicion <= "2023-12-31"
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - rol
+      - fecha_adquisicion
+      - estado_emparejamiento
+      - coche_emparejado
+      - categoria
+      - marca_modelo
+      - fuente_datos
+    sort:
+      - property: coche_emparejado
+        direction: ASC
+      - property: fecha_fin
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 107
       note.estado_emparejamiento: 168

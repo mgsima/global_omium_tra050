@@ -1,5 +1,5 @@
 ---
-matricula: "3186MXJ FACTURA NUEVO"
+matricula: "3154MXJ"
 rol: "ALTA"
 tags:
   - vehiculo
@@ -7,7 +7,7 @@ tags:
   - global_omnium
 tipo_vehiculo: "ELECTRICO_BEV"
 marca_modelo: "RENAULT KANGOO FURGON E-TECH 100% ELECTRIC"
-bastidor: "VF1RFK00473934266"
+bastidor: "VF1RFK00673934303"
 combustible: "ELECTRICO"
 categoria: "N1"
 regimen: "PROPIEDAD"
@@ -25,33 +25,33 @@ fecha_fin: "NO_APLICA"
 dias_arrendamiento: "NO_APLICA"
 fecha_matriculacion: "NO_CONSTA"
 tiene_acta_devolucion: false
-coche_emparejado: "SIN_EMPAREJAMIENTO"
-emparejamiento_nivel: "SIN_EMPAREJAMIENTO"
-emparejamiento_pendiente: "Competencia: tenia 5 baja(s) admisible(s) pero otra alta de la misma sociedad las aprovecha mejor. Se necesitan mas bajas de Furgoneta/Furgón en AYWA SER.AMBIENTALES SL"
+coche_emparejado: "[[7015LLV]]"
+emparejamiento_nivel: "C_CONDICIONADO"
+emparejamiento_pendiente: "baja por siniestro: acreditar con baja definitiva DGT, no con venta"
 emparejamiento_revision: "v3 2026-08-07"
 regimen_a_verificar: false
 ---
 
-# FICHA VEHÍCULO: 3186MXJ FACTURA NUEVO (ALTA)
+# FICHA VEHÍCULO: 3154MXJ (ALTA)
 
 ## TRAZABILIDAD Y ORIGEN DE DATOS
-- Coche Emparejado: SIN_EMPAREJAMIENTO
-- Marca / Modelo: RENAULT KANGOO FURGON E-TECH 100% ELECTRIC | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
-- Bastidor: VF1RFK00473934266 | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
+- Coche Emparejado: [[7015LLV]]
+- Marca / Modelo: RENAULT KANGOO FURGON E-TECH 100% ELECTRIC | Origen: PDF: [[FACTURA VF1RFK00673934303.pdf]] | Markdown: [[FACTURA VF1RFK00673934303.md]]
+- Bastidor: VF1RFK00673934303 | Origen: PDF: [[FACTURA VF1RFK00673934303.pdf]] | Markdown: [[FACTURA VF1RFK00673934303.md]]
 - Categoría: N1
 - Tipo Vehículo / Motorización: ELECTRICO_BEV
 - Combustible: ELECTRICO
 - Régimen: PROPIEDAD
 - Servicio DGT: NO_ESPECIFICADO
-- Titular: AYWA SERVICIOS AMBIENTALES S.L (CIF: B90162116) | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
+- Titular: AYWA SERVICIOS AMBIENTALES S.L (CIF: B90162116) | Origen: PDF: [[FACTURA VF1RFK00673934303.pdf]] | Markdown: [[FACTURA VF1RFK00673934303.md]]
 - Conductor: NO_CONSTA (DNI: NO_CONSTA)
 - Número Contrato: NO_CONSTA
-- Base / Ubicación: CL GRAN VIA MARQUES DEL TURIA 19, 46005 VALENCIA | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
+- Base / Ubicación: CL GRAN VIA MARQUES DEL TURIA 19, 46005 VALENCIA | Origen: PDF: [[FACTURA VF1RFK00673934303.pdf]] | Markdown: [[FACTURA VF1RFK00673934303.md]]
 - Comunidad Autónoma: Comunidad Valenciana | Derivada de `base_ubicacion` ("CL GRAN VIA MARQUES DEL TURIA 19, 46005 VALENCIA"), provincia de Valencia.
-- Fecha Inicio: 2024-12-17 | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
+- Fecha Inicio: 2024-12-17 | Origen: PDF: [[FACTURA VF1RFK00673934303.pdf]] | Markdown: [[FACTURA VF1RFK00673934303.md]]
 - Fecha Fin: NO_APLICA
 - Días Arrendamiento / Tenencia: NO_APLICA
 - Fecha Matriculación: NO_CONSTA
 
 ## INVENTARIO DOCUMENTAL
-- PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]] (Tipo: FACTURA_VE, Formato: PDF, Estado: VALIDO)
+- PDF: [[FACTURA VF1RFK00673934303.pdf]] | Markdown: [[FACTURA VF1RFK00673934303.md]] (Tipo: FACTURA_VE, Formato: PDF, Estado: VALIDO)

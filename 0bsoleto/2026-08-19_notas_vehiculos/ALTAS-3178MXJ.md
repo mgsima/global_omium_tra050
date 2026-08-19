@@ -1,5 +1,5 @@
 ---
-matricula: "3178MXJ FACTURA NUEVO"
+matricula: "3178MXJ"
 rol: "ALTA"
 tags:
   - vehiculo
@@ -32,7 +32,7 @@ emparejamiento_revision: "v3 2026-08-07"
 regimen_a_verificar: false
 ---
 
-# FICHA VEHÍCULO: 3178MXJ FACTURA NUEVO (ALTA)
+# FICHA VEHÍCULO: 3178MXJ (ALTA)
 
 ## TRAZABILIDAD Y ORIGEN DE DATOS
 - Coche Emparejado: [[6987LLV]]

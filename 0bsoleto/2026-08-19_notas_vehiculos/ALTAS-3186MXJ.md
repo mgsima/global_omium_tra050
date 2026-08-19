@@ -1,5 +1,5 @@
 ---
-matricula: "3214MXJ FACTURA NUEVO"
+matricula: "3186MXJ"
 rol: "ALTA"
 tags:
   - vehiculo
@@ -7,7 +7,7 @@ tags:
   - global_omnium
 tipo_vehiculo: "ELECTRICO_BEV"
 marca_modelo: "RENAULT KANGOO FURGON E-TECH 100% ELECTRIC"
-bastidor: "VF1RFK00873934299"
+bastidor: "VF1RFK00473934266"
 combustible: "ELECTRICO"
 categoria: "N1"
 regimen: "PROPIEDAD"
@@ -32,26 +32,26 @@ emparejamiento_revision: "v3 2026-08-07"
 regimen_a_verificar: false
 ---
 
-# FICHA VEHÍCULO: 3214MXJ FACTURA NUEVO (ALTA)
+# FICHA VEHÍCULO: 3186MXJ (ALTA)
 
 ## TRAZABILIDAD Y ORIGEN DE DATOS
 - Coche Emparejado: SIN_EMPAREJAMIENTO
-- Marca / Modelo: RENAULT KANGOO FURGON E-TECH 100% ELECTRIC | Origen: PDF: [[FACTURA VF1RFK00873934299.pdf]] | Markdown: [[FACTURA VF1RFK00873934299.md]]
-- Bastidor: VF1RFK00873934299 | Origen: PDF: [[FACTURA VF1RFK00873934299.pdf]] | Markdown: [[FACTURA VF1RFK00873934299.md]]
+- Marca / Modelo: RENAULT KANGOO FURGON E-TECH 100% ELECTRIC | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
+- Bastidor: VF1RFK00473934266 | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
 - Categoría: N1
 - Tipo Vehículo / Motorización: ELECTRICO_BEV
 - Combustible: ELECTRICO
 - Régimen: PROPIEDAD
 - Servicio DGT: NO_ESPECIFICADO
-- Titular: AYWA SERVICIOS AMBIENTALES S.L (CIF: B90162116) | Origen: PDF: [[FACTURA VF1RFK00873934299.pdf]] | Markdown: [[FACTURA VF1RFK00873934299.md]]
+- Titular: AYWA SERVICIOS AMBIENTALES S.L (CIF: B90162116) | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
 - Conductor: NO_CONSTA (DNI: NO_CONSTA)
 - Número Contrato: NO_CONSTA
-- Base / Ubicación: CL GRAN VIA MARQUES DEL TURIA 19, 46005 VALENCIA | Origen: PDF: [[FACTURA VF1RFK00873934299.pdf]] | Markdown: [[FACTURA VF1RFK00873934299.md]]
+- Base / Ubicación: CL GRAN VIA MARQUES DEL TURIA 19, 46005 VALENCIA | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
 - Comunidad Autónoma: Comunidad Valenciana | Derivada de `base_ubicacion` ("CL GRAN VIA MARQUES DEL TURIA 19, 46005 VALENCIA"), provincia de Valencia.
-- Fecha Inicio: 2024-12-17 | Origen: PDF: [[FACTURA VF1RFK00873934299.pdf]] | Markdown: [[FACTURA VF1RFK00873934299.md]]
+- Fecha Inicio: 2024-12-17 | Origen: PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]]
 - Fecha Fin: NO_APLICA
 - Días Arrendamiento / Tenencia: NO_APLICA
 - Fecha Matriculación: NO_CONSTA
 
 ## INVENTARIO DOCUMENTAL
-- PDF: [[FACTURA VF1RFK00873934299.pdf]] | Markdown: [[FACTURA VF1RFK00873934299.md]] (Tipo: FACTURA_VE, Formato: PDF, Estado: VALIDO)
+- PDF: [[FACTURA VF1RFK00473934266.pdf]] | Markdown: [[FACTURA VF1RFK00473934266.md]] (Tipo: FACTURA_VE, Formato: PDF, Estado: VALIDO)

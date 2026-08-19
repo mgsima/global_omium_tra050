@@ -1,3 +1,11 @@
+> [!warning] Superado en parte — 2026-08-19
+> Este informe se genero antes de dos decisiones que no estan recogidas aqui:
+>
+> 1. **R2 se mide por posesion real acreditada por contrato**, no por la antiguedad del vehiculo ni por la etiqueta del Excel. Con ese criterio **`0767MJM ← 5875KPY` (149d) y `2120MFK ← 4535KFH` (230d) decaen** (retiradas a `03_expedientes/0bsoleto/2026-08-19_parejas_no_viables_r2/`) y **`5566KSD ← 6994KGK` (815d) sube a `A_ACREDITADO`**. No hay baja sustituta para los dos caidos: el barrido de las 44 bajas de CGAC dejo solo `6586KPD`, ya asignada a `2076MJP`.
+> 2. **El CVN sale de la ficha del IDAE**, no del valor de respaldo del Anexo II.A. El ahorro de 2023 es de **28.851,06 kWh/ano** sobre 5 expedientes; la campana pasa de 69 a 65.
+>
+> Los recuentos y veredictos de este documento **no** reflejan lo anterior. La fuente de verdad es la nota de cada expediente en `03_expedientes/` y la vista `global_omnium.base`. Este fichero no se regenera a proposito: se perderian las correcciones manuales.
+
 ---
 doc_type: informe_situacion_ejercicio
 ejercicio: 2023

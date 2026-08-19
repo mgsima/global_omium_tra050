@@ -1,0 +1,167 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+views:
+  - type: table
+    name: Expedientes
+    filters:
+      and:
+        - file.tags.contains("expediente")
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - ejercicio
+      - sociedad
+      - categoria
+      - nivel
+      - estado
+      - fecha_adquisicion_alta
+      - fecha_baja
+      - ahorro_anual_kwh
+      - ahorro_fuente
+      - accion_pendiente
+    sort:
+      - property: ejercicio
+        direction: ASC
+      - property: sociedad
+        direction: ASC
+    columnSize:
+      file.name: 180
+      note.accion_pendiente: 320
+  - type: table
+    name: Ejercicio 2023
+    filters:
+      and:
+        - file.tags.contains("expediente")
+        - ejercicio == "2023"
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - nivel
+      - estado
+      - estado_posesion
+      - dias_posesion
+      - regimen_baja
+      - accion_pendiente
+      - ahorro_anual_kwh
+      - ahorro_fuente
+      - ficha_idae
+    sort:
+      - property: ahorro_anual_kwh
+        direction: DESC
+      - property: nivel
+        direction: ASC
+    summaries:
+      ahorro_anual_kwh: Sum
+    columnSize:
+      file.name: 180
+      note.accion_pendiente: 320
+  - type: table
+    name: Riesgo de posesion (R2)
+    filters:
+      and:
+        - file.tags.contains("expediente")
+        - or:
+            - estado_posesion != "ACREDITADA"
+            - dias_posesion < 730
+    groupBy:
+      property: ejercicio
+      direction: ASC
+    order:
+      - file.name
+      - ejercicio
+      - sociedad
+      - dias_posesion
+      - estado_posesion
+      - regimen_baja
+      - accion_pendiente
+    sort:
+      - property: dias_posesion
+        direction: ASC
+    columnSize:
+      file.name: 180
+      note.accion_pendiente: 320
+  - type: table
+    name: Sin auditar
+    filters:
+      and:
+        - file.tags.contains("expediente")
+        - estado == "SIN_AUDITAR"
+    groupBy:
+      property: ejercicio
+      direction: ASC
+    order:
+      - file.name
+      - ejercicio
+      - sociedad
+      - nivel
+      - candidatas_admisibles
+    columnSize:
+      file.name: 180
+  - type: table
+    name: Vehiculos
+    filters:
+      and:
+        - file.tags.contains("vehiculo")
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - rol
+      - sociedad
+      - marca_modelo
+      - excel_marca_modelo
+      - categoria
+      - excel_categoria
+      - regimen
+      - excel_regimen
+      - coche_emparejado
+    sort:
+      - property: sociedad
+        direction: ASC
+    columnSize:
+      file.name: 140
+  - type: table
+    name: Excel contra documento
+    filters:
+      and:
+        - file.tags.contains("vehiculo")
+        - or:
+            - regimen != excel_regimen
+            - marca_modelo != excel_marca_modelo
+    order:
+      - file.name
+      - rol
+      - marca_modelo
+      - excel_marca_modelo
+      - regimen
+      - excel_regimen
+      - categoria
+      - excel_categoria
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 140
+  - type: table
+    name: Comunidad por verificar
+    filters:
+      and:
+        - file.tags.contains("vehiculo")
+        - file.tags.contains("comunidad_dudosa")
+    groupBy:
+      property: comunidad_fuente
+      direction: ASC
+    order:
+      - file.name
+      - comunidad_autonoma
+      - comunidad_fuente
+      - rol
+      - titular_empresa
+    columnSize:
+      file.name: 140

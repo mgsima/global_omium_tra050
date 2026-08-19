@@ -1,5 +1,6 @@
 ---
 documento_origen: 9853KXP FICHA Y PERMISO.pdf
+original: "[[data/global_omium_tra050/06_trabajo/04_preparados_verificar/0696MWT/9853KXP FICHA Y PERMISO.pdf]]"
 tipo_documento: PERMISO_CIRCULACION
 motor_conversion: LlamaCloud Parser (Cloud-OCR directo)
 estado_extraccion: ERROR

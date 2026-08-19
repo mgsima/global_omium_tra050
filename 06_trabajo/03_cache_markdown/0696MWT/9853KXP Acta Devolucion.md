@@ -1,5 +1,6 @@
 ---
 documento_origen: 9853KXP Acta Devolucion.pdf
+original: "[[data/global_omium_tra050/06_trabajo/04_preparados_verificar/0696MWT/9853KXP Acta Devolucion.pdf]]"
 tipo_documento: BAJA_VEHICULO
 motor_conversion: Liteparse Local (con OCR)
 estado_extraccion: VALIDADO

@@ -21,6 +21,7 @@ views:
       - ahorro_anual_kwh
       - ahorro_fuente
       - accion_pendiente
+      - comunidad_autonoma
     sort:
       - property: ejercicio
         direction: ASC

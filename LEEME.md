@@ -1,77 +1,61 @@
 # Global Omnium TRA050 — mapa de la carpeta
 
-Repositorio de la campaña de actuaciones TRA050 del grupo **Global Omnium** (`git@github.com:mgsima/global_omium_tra050.git`). Contiene **toda** la documentación de la campaña: lo que entrega el cliente, lo que genera el programa y los análisis. El repositorio de código (`tra050`) no guarda material de esta campaña de ningún tipo.
+Repositorio de la campaña TRA050 del grupo **Global Omnium** (`git@github.com:mgsima/global_omium_tra050.git`). Contiene toda la documentación de la campaña: lo que entrega el cliente, lo que genera el programa y los análisis. El repositorio de código (`tra050`) no guarda material de esta campaña de ningún tipo.
 
-**La raíz es el flujo.** El número dice en qué orden te encuentras cada cosa, de lo que entra a lo que sale, y después lo que se produce por el camino. Cada zona tiene un ciclo de vida distinto, y por eso son zonas y no subcarpetas de un cajón común.
+**La raíz es el flujo.** El número dice en qué orden te encuentras cada cosa, de lo que entra a lo que sale. Desde el 2026-10-22 el emparejamiento se rehace desde cero sobre esta estructura: primero se audita cada coche por separado y después se combinan en parejas.
 
 ## Qué hay en cada sitio
 
-| Carpeta | Qué contiene | Quién escribe |
-| :--- | :--- | :--- |
-| `01_entrada/_flota/` | Los dos Excel: el de cálculo CAE, que es **la fuente de datos de la campaña**, y el listado de solicitud de facturas | El cliente. **Nunca un script** |
-| `01_entrada/ALTAS\|BAJAS/<MATRICULA>/` | **Lo que llega.** Una carpeta por vehículo con sus documentos tal y como los entregó el cliente. 156 altas, 161 bajas, 745 documentos | El cliente. **Nunca un script** |
-| `02_verificacion/<EJERCICIO>/<ALTA>_<BAJA>/` | **Lo que sale al verificador**: el expediente de la pareja montado. Vacía todavía | El generador |
-| `03_expedientes/<SOCIEDAD>/<ALTA>_<BAJA>.md` | **Una nota por pareja.** Es la unidad de negocio de esta campaña **y la fuente de verdad de la auditoría**. 69 expedientes en 13 sociedades | El auditor, a mano; el script sólo recalcula lo derivado |
-| `03_expedientes/_VEHICULOS/<MATRICULA>.md` | Ficha de cada vehículo **documentado**: 317, una por carpeta de entrada | `fusionar_expedientes.py`, conservando lo escrito a mano |
-| `03_expedientes/_*.md` | Los cuatro índices: `_SOLO_EXCEL`, `_SIN_PAREJA`, `_NO_ELEGIBLES`, `_SOCIEDADES` | El script |
-| `04_extraido/ALTAS\|BAJAS/<MATRICULA>/` | Conversión a Markdown de cada documento, **1:1 con el original**. 744 ficheros | `convert_all_to_markdown.py` |
-| `04_extraido/_datos/<MATRICULA>.json` | Datos extraídos por LLM, **uno por vehículo**, no por documento. 317 | `extract_vehicle_json_deepseek.py` |
-| `04_extraido/_flota/` | El Excel volcado: 10 CSV, 10 JSON, `global_omium.db` y su índice | El extractor |
-| `05_planes/` | Planes de trabajo de la campaña | A mano |
-| `06_reportes/<EJERCICIO>/` | Informes y cartas al cliente, por ejercicio. Hoy sólo `2023/` | Los scripts |
-| `07_experimentos/<fecha>_<nombre>/` | Pruebas fechadas y autocontenidas | A mano |
-| `08_generado/` | Datos de relleno de los documentos que redactamos nosotros | Los scripts |
-| `0bsoleto/` | Material retirado, con la fecha en el nombre y el motivo en su `LEEME.md` | Se mueve a mano |
-| `Consideraciones.md` | Requisitos de la campaña y las seis reglas de emparejamiento | A mano |
-| `global_omnium.base` | Base de Obsidian sobre `03_expedientes/` | A mano |
+- `00_control/`: lo que gobierna la campaña. Se escribe a mano, salvo `emparejamiento/`.
+    - `REGLAS_EMPAREJAMIENTO.md`: las reglas activas, R1 Sociedad a R9 Salida, y cómo se elige entre parejas válidas.
+    - `ESQUEMA_COCHE.md` y `ESQUEMA_PAREJA.md`: qué lleva el YAML y el cuerpo de cada nota.
+    - `00_global_omnium.base`: la base de Obsidian.
+    - `emparejamiento/`: la salida del emparejador (resumen con el certificado de máximo, aristas admisibles y potenciales). Se regenera entera en cada pasada.
+- `01_entrada/`: lo que entrega el cliente. **Nunca lo escribe un script.**
+    - `_flota/`: los dos Excel. El de cálculo CAE es la fuente de datos de la campaña, pero **no es prueba documental**.
+    - `ALTAS/<MATRICULA>/` y `BAJAS/<MATRICULA>/`: una carpeta por vehículo con sus documentos tal como llegaron. 156 altas y 161 bajas.
+- `02_extraido/`: lo derivado de la entrada. **No se renombra nunca**: el 1:1 con el original es la trazabilidad, y regenerarlo cuesta tokens de APIs externas.
+    - `ALTAS/` y `BAJAS/`: conversión a Markdown de cada documento.
+    - `_datos/<MATRICULA>.json`: datos extraídos por LLM, uno por vehículo.
+    - `_flota/`: el Excel volcado (CSV, JSON y `global_omium.db`).
+- `03_coches/<MATRICULA>.md`: **una ficha por vehículo del universo**, 473. Es la fuente de verdad del coche.
+    - Incluye los que solo están en el Excel, con `tiene_documentos: false`.
+    - Cada dato que decide una regla lleva su fuente: `DOCUMENTO`, `MANUAL`, `EXTRACCION` o `EXCEL`.
+    - La escribe `scripts/global_omnium/coches.py`, que conserva lo escrito a mano.
+- `04_parejas/<SOCIEDAD>/<ALTA>_<BAJA>.md`: una nota por pareja, la unidad que se presenta a verificación. Vacía todavía.
+    - La sociedad es la carpeta, así la R1 Sociedad no se puede saltar.
+    - `PROPUESTA` la puede deshacer el emparejador; `FIJADA` ya no la toca.
+    - La escribe `scripts/global_omnium/emparejar_v4.py`.
+- `05_generado/`: datos de relleno de los documentos que redactamos nosotros (cesión, Anexo I, ficha TRA050).
+- `06_verificacion/`: lo que sale al verificador, montado por pareja.
+- `_0bsoleto/`: material retirado, con la fecha en el nombre y el motivo en su `LEEME.md`. Ahí está el emparejamiento de agosto (`03_expedientes/`), del que se trajo lo escrito a mano.
+- `Consideraciones.md`: contexto del cliente y requisitos de la campaña.
 
-## La unidad de negocio es la pareja, no el vehículo
+## Cómo se trabaja
 
-En particulares hay una persona por expediente y el broker lo entrega montado. Aquí no: llegan 317 carpetas sueltas y **las parejas son el resultado de un análisis**. Un vehículo por su cuenta no acredita nada; lo que se presenta a verificación es que un vehículo eléctrico nuevo **sustituye** a uno de combustión concreto.
-
-De ahí que el expediente sea `<ALTA>_<BAJA>.md` y que los vehículos vivan en un índice, `_VEHICULOS/`, con el nombre desnudo de la matrícula para que los `[[5875KPY]]` de toda la campaña sigan resolviendo.
-
-## La sociedad es la carpeta; el ejercicio, una propiedad
-
-La regla R1 exige que alta y baja sean de la misma sociedad del grupo. Con la sociedad como carpeta, **R1 deja de ser una comprobación y pasa a ser una imposibilidad física**: no se puede emparejar a través de una frontera de carpeta. Y el techo estructural de cada sociedad —cuántas parejas caben ahí dentro como máximo— se lee mirando la tabla de `_SOCIEDADES.md`.
-
-El **ejercicio** (2023, 2024, 2025) no es carpeta en `03_expedientes/` porque no restringe nada: es una propiedad del expediente y una vista de la base. Sí manda donde se entrega, que es `02_verificacion/` y `06_reportes/`.
-
-## El Excel es fuente de datos y no es prueba documental
-
-Es la distinción más importante de la campaña, y es la que produjo el único riesgo real del lote 2023: tres expedientes cuyo periodo de posesión sólo consta en el histórico del Excel, que no vale ante la verificación.
-
-Por eso están separados físicamente —`01_entrada/_flota/` frente a las carpetas de documentos— **y también en el vocabulario**: en las fichas de vehículo, todo dato que venga del Excel lleva prefijo `excel_` y el que venga de un documento conserva su nombre. Así se ven los dos uno al lado del otro y se nota cuándo discrepan. En `5875KPY`, por ejemplo, el documento dice `regimen: RENTING` y el Excel dice `excel_regimen: ALQUILER_CORTA_DURACION`, que es justo el campo en disputa de su R2.
-
-Hasta el 2026-08-19 esas dos vistas vivían en dos juegos de notas separados que usaban los mismos nombres de clave, y por eso hacían falta dos bases de Obsidian que no se podían juntar.
-
-## Dos universos, y sólo uno es auditable
-
-* **El Excel: 490 vehículos** (245 altas y 245 bajas). Es el universo del emparejador.
-* **Los documentos: 317 vehículos**, uno por carpeta de `01_entrada/`.
-
-Los **174 que sólo están en el Excel** no tienen ni un papel detrás, así que no son expedientes ni merecen carpeta: están listados en `_SOLO_EXCEL.md` para que el cliente los localice o los descarte.
-
-## La caché no es desechable
-
-`04_extraido/` es la superficie de lectura de cada nota. El par «documento en `01_entrada/` ↔ conversión aquí» es lo que da la trazabilidad dato a dato: de qué documento salió cada matrícula, cada bastidor y cada fecha.
-
-De ahí la regla: **los ficheros de la caché no se renombran nunca.** El 1:1 con el original *es* el mecanismo. La organización va en la carpeta de encima y en el frontmatter, jamás en el nombre. Y regenerarla cuesta tokens de APIs externas, así que se versiona a propósito: quien clone la campaña debe recibirla hecha.
+- **1 · Fichas de coche:** `python scripts/global_omnium/coches.py --todas`. Con `--matricula X --seco` enseña una ficha sin escribirla.
+- **2 · Auditoría del coche:** a mano, en su ficha. Se editan los `doc_*`, `estado`, los datos que haya que corregir (con `<dato>_fuente: "MANUAL"`) y las secciones «Notas de auditoría», «Incidencias» e «Historial».
+- **3 · Emparejamiento:** `python scripts/global_omnium/emparejar_v4.py --seco` cuenta cuántas parejas salen y lo demuestra; sin `--seco`, escribe `04_parejas/` y `00_control/emparejamiento/`.
+- **4 · Fijar:** cuando una pareja tenga trabajo encima o se le pidan papeles al cliente, `estado_pareja: "FIJADA"`.
 
 ## Reglas de esta carpeta
 
-1. **No se borra nada.** Lo superado se mueve a `0bsoleto/` con la fecha por delante en el nombre y una entrada en su `LEEME.md`.
-2. **Los documentos fuente son de solo lectura.** No se reescriben ni se renombran los documentos de `01_entrada/`, ni sus conversiones en `04_extraido/`.
-3. **La nota del expediente es la fuente de verdad de la auditoría.** El script valida y recalcula lo derivado; el juicio se escribe a mano y el script lo conserva.
+1. **No se borra nada.** Lo superado se mueve a `_0bsoleto/` con la fecha por delante en el nombre y una entrada en su `LEEME.md`.
+2. **Los documentos fuente son de solo lectura.** No se reescriben ni se renombran los de `01_entrada/`, ni sus conversiones en `02_extraido/`.
+3. **La ficha del coche y la nota de la pareja son la fuente de verdad.** El script recalcula lo derivado; el juicio se escribe a mano y el script lo conserva.
 4. **Ningún script escribe fuera de esta carpeta.**
 5. **Nunca commit ni push sin que el usuario lo pida** en esa conversación: este remoto lo ve el equipo.
+6. **Las reglas se citan con código y nombre**: «R5 Ventana», nunca «R5» a secas.
 
 ## Historial
 
-* **2026-08-19** — **Reorganización de la campaña**, siguiendo la filosofía de `data/particulares/`. Detalle y motivos en `05_planes/2026-08-19_reorganizacion.md`.
-    * Desaparece `06_trabajo/` como cajón: la entrada y la salida ganan carpeta explícita (`01_entrada/`, `02_verificacion/`), lo derivado se queda con nombre propio (`04_extraido/`) y lo que tiene lectores humanos sube a la raíz (`03_expedientes/`, `05_planes/`, `06_reportes/`).
-    * **Se fusionan los dos juegos de notas.** Las 491 fichas de emparejamiento y las 317 notas de vehículo pasan a 69 expedientes por pareja y 317 fichas de vehículo, con los datos del Excel prefijados `excel_`. Antes de fusionar se comprobó que los dos juegos **no discrepaban en ningún veredicto** de emparejamiento. Las 68 secciones `## REVISIÓN MANUAL` escritas a mano se copiaron íntegras.
-    * **Se corrige un defecto de nombre en cinco vehículos.** `3154MXJ FACTURA NUEVO`, `3178MXJ`, `3186MXJ`, `3214MXJ` y `8711MXK` llevaban el sufijo pegado a la matrícula, y por eso el generador los declaró «fuera del universo del Excel». Están en las ocho hojas del Excel: la afirmación era falsa y venía del nombre de la carpeta. Corregido en entrada, caché, JSON y notas.
-    * **Dos duplicados exactos se retiran**, verificados por MD5: `datos_extraidos/` entero y la caché suelta del prototipo `0696MWT`.
-    * `requisitos_campana.md` sube a `Consideraciones.md`, y la tabla de las seis reglas de emparejamiento se traslada allí desde el índice de las fichas.
-    * Las dos bases de Obsidian se unifican en `global_omnium.base`, con una vista nueva —**Excel contra documento**— que sólo es posible desde que las claves dejaron de colisionar.
+- **2026-10-27** — **`_0bsoleto/03_expedientes/0bsoleto/` pasa a `_0bsoleto/03_expedientes/_0bsoleto/`**, el último `0bsoleto/` que quedaba en la campaña, para que todo el proyecto use el mismo nombre. Sin tocar el contenido.
+
+- **2026-10-22** — **El emparejamiento se rehace desde cero.**
+    - Estructura nueva: `00_control/`, `03_coches/` y `04_parejas/`. `04_extraido/` pasa a `02_extraido/`, `08_generado/` a `05_generado/` y `02_verificacion/` a `06_verificacion/`. `05_planes/`, `06_reportes/` y `07_experimentos/` se retiraron (siguen en el historial de git).
+    - `03_expedientes/` va entero a `_0bsoleto/03_expedientes/`.
+    - Reglas v4 en `00_control/REGLAS_EMPAREJAMIENTO.md`. Respecto a agosto: R6 Año desde 2024, R4 Categoría por homologación y no por el Excel, sin posesión contada desde la matriculación, y R7 Alta nueva, R8 Titularidad y R9 Salida explícitas.
+    - Se escriben las 473 fichas de `03_coches/`. Se migran las 68 revisiones manuales de agosto y los datos corregidos a mano (fuente `MANUAL`).
+    - El emparejador v4, en seco, propone 63 parejas con el máximo demostrado. Las parejas todavía no se han escrito.
+- **2026-10-22** — **El ejercicio 2023 queda rechazado entero.** Las compras de 2023 ya no son susceptibles de CAE. Lo montado para el verificador está en `_0bsoleto/2026-10-22_lote_2023_no_apto/`.
+- **2026-08-19** — **Reorganización de la campaña** por fases, con un expediente por pareja en `03_expedientes/` y fichas de vehículo con los datos del Excel prefijados `excel_`. Hoy en `_0bsoleto/`.

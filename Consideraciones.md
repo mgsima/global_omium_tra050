@@ -86,6 +86,8 @@ El motor de reglas de [rules.py](file:///home/msimarro/03_code/tra050/src/tra050
 
 ## 🔗 5. Reglas de emparejamiento alta ↔ baja
 
+> **Superado el 2026-10-22.** Las reglas activas son las de `00_control/REGLAS_EMPAREJAMIENTO.md` (R1 Sociedad a R9 Salida). Lo que sigue es el criterio de agosto y se conserva como historia.
+
 Las seis reglas que decide el emparejador y que cada expediente de `03_expedientes/` verifica una a una. Venian del indice de las fichas de emparejamiento, retirado el 2026-08-19.
 
 | # | Regla | Umbral |

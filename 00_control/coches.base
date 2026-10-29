@@ -1,0 +1,221 @@
+filters:
+  and:
+    - file.folder.contains("global_omium_tra050/03_coches")
+    - file.tags.contains("coche")
+formulas:
+  anios_posesion: if(note.dias_posesion, (note.dias_posesion / 365).toFixed(1), "")
+properties:
+  file.name:
+    displayName: Matrícula
+  note.rol:
+    displayName: Rol
+  note.sociedad:
+    displayName: Sociedad
+  note.marca_modelo:
+    displayName: Marca y modelo
+  note.categoria:
+    displayName: Categoría
+  note.categoria_fuente:
+    displayName: Respaldo categoría
+  note.categoria_doc:
+    displayName: Doc. categoría
+  note.combustible:
+    displayName: Combustible
+  note.combustible_fuente:
+    displayName: Respaldo combustible
+  note.regimen:
+    displayName: Régimen
+  note.regimen_fuente:
+    displayName: Respaldo régimen
+  note.fecha_inicio_posesion:
+    displayName: Inicio posesión
+  note.fecha_inicio_posesion_fuente:
+    displayName: Respaldo inicio
+  note.fecha_salida:
+    displayName: Salida
+  note.fecha_salida_fuente:
+    displayName: Respaldo salida
+  note.salida_tipo:
+    displayName: Tipo de salida
+  note.dias_posesion:
+    displayName: Días
+  formula.anios_posesion:
+    displayName: Años
+  note.estado_posesion:
+    displayName: Posesión
+  note.documentos_en_carpeta:
+    displayName: Docs.
+  note.elegible:
+    displayName: Elegible
+  note.estado:
+    displayName: Estado
+  note.pareja:
+    displayName: Pareja
+  note.motivos_no_elegible:
+    displayName: Motivos
+views:
+  - type: table
+    name: Todos
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - marca_modelo
+      - categoria
+      - estado
+      - combustible
+      - regimen
+      - dias_posesion
+      - formula.anios_posesion
+      - estado_posesion
+      - fecha_inicio_posesion
+      - fecha_salida
+      - salida_tipo
+      - elegible
+      - pareja
+    sort:
+      - property: estado
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.estado: 127
+  - type: table
+    name: Altas elegibles
+    filters:
+      and:
+        - note.rol == "ALTA"
+        - note.elegible == true
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - marca_modelo
+      - categoria
+      - categoria_fuente
+      - combustible
+      - regimen
+      - fecha_inicio_posesion
+      - estado
+      - pareja
+      - fecha_adquisicion
+    sort:
+      - property: fecha_adquisicion
+        direction: ASC
+      - property: fecha_inicio_posesion
+        direction: ASC
+  - type: table
+    name: Bajas elegibles
+    filters:
+      and:
+        - note.rol == "BAJA"
+        - note.elegible == true
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - marca_modelo
+      - categoria
+      - categoria_fuente
+      - combustible
+      - regimen
+      - dias_posesion
+      - formula.anios_posesion
+      - estado_posesion
+      - fecha_salida
+      - salida_tipo
+      - estado
+      - pareja
+    sort:
+      - property: fecha_salida
+        direction: ASC
+  - type: table
+    name: No elegibles
+    filters:
+      and:
+        - note.elegible == false
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - motivos_no_elegible
+      - sociedad
+      - marca_modelo
+      - categoria
+      - combustible
+      - regimen
+      - dias_posesion
+      - estado_posesion
+      - fecha_salida
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.motivos_no_elegible: 420
+  - type: table
+    name: Sin pareja
+    filters:
+      and:
+        - note.elegible == true
+        - note.pareja.isEmpty()
+    groupBy:
+      property: rol
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - marca_modelo
+      - categoria
+      - categoria_fuente
+      - fecha_inicio_posesion
+      - fecha_salida
+      - estado
+      - fecha_adquisicion
+    sort:
+      - property: sociedad
+        direction: ASC
+  - type: table
+    name: Respaldo documental
+    groupBy:
+      property: categoria_fuente
+      direction: ASC
+    order:
+      - file.name
+      - rol
+      - sociedad
+      - categoria
+      - categoria_doc
+      - combustible
+      - combustible_fuente
+      - regimen_fuente
+      - fecha_inicio_posesion_fuente
+      - fecha_salida_fuente
+      - documentos_en_carpeta
+      - elegible
+    sort:
+      - property: rol
+        direction: ASC
+  - type: table
+    name: Posesión
+    groupBy:
+      property: estado_posesion
+      direction: ASC
+    order:
+      - file.name
+      - rol
+      - sociedad
+      - regimen
+      - regimen_fuente
+      - fecha_inicio_posesion
+      - fecha_salida
+      - dias_posesion
+      - formula.anios_posesion
+      - elegible
+    sort:
+      - property: dias_posesion
+        direction: ASC

@@ -1,20 +1,20 @@
 # Requisitos de la Campaña - Proyecto Global Omnium 📋🛡️
 
-Este documento recopila el contexto del cliente, la estructura de la campaña, la cadena de trazabilidad de los ahorros energéticos y las condiciones de validación para los expedientes del lote corporativo **Global Omnium** bajo la ficha **TRA050 v1.1**.
+Contexto cliente, estructura campaña, cadena trazabilidad ahorros energéticos y condiciones validación de expedientes lote corporativo **Global Omnium**, ficha **TRA050 v1.1**.
 
 ---
 
 ## 🏛️ 1. Contexto de Global Omnium y Estructura del Grupo
 
-**Global Omnium** es un grupo empresarial líder en la gestión y tratamiento del ciclo completo del agua. Su actividad principal abarca:
-* **Extracción de recursos hídricos** (pozos, captaciones, acuíferos).
-* **Producción y potabilización de agua** (plantas de tratamiento ETAP, desoladoras).
-* **Distribución y saneamiento** (mantenimiento y explotación de redes de distribución urbana y depuración EDAR).
+**Global Omnium**: grupo líder en gestión y tratamiento ciclo completo del agua. Actividad:
+* **Extracción recursos hídricos** (pozos, captaciones, acuíferos).
+* **Producción y potabilización** (plantas ETAP, desoladoras).
+* **Distribución y saneamiento** (redes distribución urbana, depuración EDAR).
 
 ### Estructura de Sociedades (Filiales)
-Debido a la naturaleza descentralizada de los servicios públicos municipales y las concesiones locales, el grupo se divide en una gran cantidad de filiales, empresas mixtas y Uniones Temporales de Empresas (UTEs). Cada una gestiona activos y flotas de vehículos de forma independiente.
+Servicios municipales descentralizados y concesiones locales → grupo dividido en muchas filiales, empresas mixtas y UTEs. Cada una gestiona activos y flotas independiente.
 
-Las principales sociedades y filiales identificadas en el inventario son:
+Sociedades principales en inventario:
 * **AGUAS DE VALENCIA SA** (AVSA)
 * **EMPRESA MIXTA VALENCIANA DE AGUAS SA** (EMIVASA)
 * **EGEVASA** (Diputación de Valencia)
@@ -30,9 +30,9 @@ Las principales sociedades y filiales identificadas en el inventario son:
 
 ## 🔄 2. Procedimiento de Centralización de Ahorros (Cadena de Custodia)
 
-A pesar de que los vehículos nuevos y antiguos pertenecen a múltiples filiales (Empresa X), a efectos de la emisión de Certificados de Ahorro Energético (CAE) se ha definido un **procedimiento de centralización a través de Global Omnium**.
+Vehículos nuevos y antiguos de múltiples filiales (Empresa X), pero para emisión CAE: **centralización vía Global Omnium**.
 
-Para garantizar la validez legal ante el verificador acreditado y evitar la fragmentación en cientos de convenios, la cesión de ahorros se estructurará en dos niveles:
+Validez legal ante verificador acreditado y evitar cientos de convenios → cesión en dos niveles:
 
 ```mermaid
 flowchart TD
@@ -41,86 +41,86 @@ flowchart TD
 ```
 
 1. **Contrato de Cesión Interno (Nivel 1):**
-   * Un contrato de cesión de ahorros energéticos entre la **Filial X** (como Cedente original del ahorro) y **Global Omnium** (como Cesionario y centralizador).
-   * Este contrato justifica que Global Omnium adquiere legalmente los derechos sobre los kWh acumulados por la flota de esa filial.
+   * Cesión ahorros entre **Filial X** (Cedente original) y **Global Omnium** (Cesionario, centralizador).
+   * Justifica que Global Omnium adquiere legalmente derechos sobre kWh de flota de esa filial.
 2. **Convenio CAE Final (Nivel 2):**
-   * Convenio de cesión de ahorros final entre **Global Omnium** (como Cedente centralizador) y **ACT Group** (como Sujeto Obligado/Delegado que tramita los CAEs).
+   * Convenio final entre **Global Omnium** (Cedente centralizador) y **ACT Group** (Sujeto Obligado/Delegado que tramita CAEs).
 3. **Estrategia de Lotes:**
-   * La firma de los Convenios CAE finales de Global Omnium con ACT Group se organizará **por lotes consolidados** (por ejemplo, agrupando las actuaciones por año de compra de vehículo nuevo y Comunidad Autónoma de la actuación) para simplificar la firma digital final por parte de los representantes autorizados.
+   * Convenios CAE finales Global Omnium–ACT Group firmados **por lotes consolidados** (ej: por año compra vehículo nuevo y Comunidad Autónoma) para simplificar firma digital de representantes autorizados.
 
 ---
 
 ## 📄 3. Requisitos Documentales y Renting
 
-Dado que la mayor parte de la flota de Global Omnium está gestionada a través de contratos de renting corporativos con financieras, aplicamos la actualización del criterio del organismo rector:
+Mayoría flota Global Omnium en renting corporativo con financieras → aplica criterio actualizado del organismo rector:
 
 ### A. Justificantes del Vehículo Nuevo (Alta):
-1. **Factura de Adquisición/Renting:** Factura emitida por el concesionario o la empresa de renting. Debe incluir la matrícula, marca, modelo y número de bastidor (VIN).
-2. **Permiso de Circulación Nuevo:** Matriculado a nombre de la empresa de renting o de la filial (en el primer caso, acompañado del contrato de renting correspondiente).
-3. **Ficha Técnica (eITV):** Certificado con el consumo homologado $CVN$ (en kWh/100km).
+1. **Factura Adquisición/Renting:** de concesionario o empresa renting. Incluye matrícula, marca, modelo, bastidor (VIN).
+2. **Permiso Circulación Nuevo:** a nombre de empresa renting o filial (primer caso: con contrato renting).
+3. **Ficha Técnica (eITV):** consumo homologado $CVN$ (kWh/100km).
 
 ### B. Justificantes del Vehículo Antiguo (Baja):
-1. **Ficha Técnica Antigua:** ITV del vehículo de combustión viejo para catalogación y consumos.
+1. **Ficha Técnica Antigua:** ITV vehículo combustión viejo, para catalogación y consumos.
 2. **Justificante de Posesión Antigua (Umbrales de Duración):**
-   * **Caso Propiedad (1 Año):** Si el coche era propiedad de la filial, Permiso de Circulación antiguo o recibo del IVTM que demuestre la titularidad de la filial durante al menos **1 año (365 días)**.
-   * **Caso Renting (2 Años - Criterio Oficial):** Si el coche sustituido estaba en régimen de renting, es obligatorio demostrar una posesión mínima de **2 años (730 días)** entregando en lugar del justificante de propiedad:
+   * **Caso Propiedad (1 Año):** coche propiedad filial → Permiso Circulación antiguo o recibo IVTM demostrando titularidad filial mínimo **1 año (365 días)**.
+   * **Caso Renting (2 Años - Criterio Oficial):** coche sustituido en renting → obligatorio posesión mínima **2 años (730 días)**, entregando en lugar de justificante propiedad:
      * a) Contrato de la operación de renting en el que figure la filial solicitante como arrendataria/usuario.
      * b) Acta de entrega del vehículo firmada en conformidad entre el arrendador y el arrendatario/usuario.
 3. **Acreditación de la Baja / Pérdida de Posesión:**
-   * **Caso Propiedad:** Certificado de destrucción o solicitud de cambio de titularidad en DGT.
-   * **Caso Renting:** Acta de devolución del vehículo antiguo al proveedor de renting, acreditando su entrega física y la finalización de su uso.
+   * **Caso Propiedad:** Certificado destrucción o solicitud cambio titularidad DGT.
+   * **Caso Renting:** Acta devolución vehículo antiguo al proveedor renting, acreditando entrega física y fin de uso.
 
 ---
 
 ## ⚙️ 4. Reglas de Validación y Consistencia del Código
 
-El motor de reglas de [rules.py](file:///home/msimarro/03_code/tra050/src/tra050_auditor/rules.py) comprobará:
+Motor reglas de [rules.py](file:///home/msimarro/03_code/tra050/src/tra050_auditor/rules.py) comprueba:
 
 * **Posesión Dinámica:** 
-  * Si `es_renting` = `True` $\rightarrow$ Validar posesión $\ge$ 730 días.
-  * Si `es_renting` = `False` $\rightarrow$ Validar propiedad $\ge$ 365 días.
+  * `es_renting` = `True` $\rightarrow$ posesión $\ge$ 730 días.
+  * `es_renting` = `False` $\rightarrow$ propiedad $\ge$ 365 días.
 * **Trazabilidad de la Cesión:**
-  * Verificar la presencia física de ambos contratos de cesión (Contrato Interno Filial $\rightarrow$ Global Omnium y Convenio CAE Colectivo Global Omnium $\rightarrow$ ACT Group).
+  * Presencia física ambos contratos (Interno Filial $\rightarrow$ Global Omnium y Convenio CAE Colectivo Global Omnium $\rightarrow$ ACT Group).
 * **Consistencia de NIF y Nombres:**
-  * El NIF y nombre en las facturas de alta y contratos de renting debe coincidir con la Filial X correspondiente.
+  * NIF y nombre en facturas alta y contratos renting = Filial X correspondiente.
 
 ## 🔗 5. Reglas de emparejamiento alta ↔ baja
 
-> **Superado el 2026-10-22.** Las reglas activas son las de `00_control/REGLAS_EMPAREJAMIENTO.md` (R1 Sociedad a R9 Salida). Lo que sigue es el criterio de agosto y se conserva como historia.
+> **Superado el 2026-10-22.** Reglas activas en `00_control/REGLAS_EMPAREJAMIENTO.md` (R1 Sociedad a R9 Salida). Lo siguiente: criterio de agosto, conservado como historia.
 
-Las seis reglas que decide el emparejador y que cada expediente de `03_expedientes/` verifica una a una. Venian del indice de las fichas de emparejamiento, retirado el 2026-08-19.
+Seis reglas del emparejador; cada expediente de `03_expedientes/` las verifica una a una. Venían del índice de fichas de emparejamiento, retirado 2026-08-19.
 
 | # | Regla | Umbral |
 | :- | :--- | :--- |
 | R1 | Misma sociedad del grupo | `Cod.Sociedad` alta = baja |
-| R2 | Posesion minima | 365d en propiedad / 730d si se tuvo por contrato. **Cuentan los dias reales de posesion acreditados por contrato**, no la antiguedad del vehiculo ni la etiqueta que le ponga el Excel. Ver el apartado de abajo |
-| R3 | Alta electrica pura; baja de combustion, **hibrido incluido** (solo se excluye el electrico puro como sustituido) | |
-| R4 | Misma categoria | no se admite sustitucion entre categorias |
+| R2 | Posesion minima | 365d propiedad / 730d por contrato. **Cuentan dias reales de posesion acreditados por contrato**, no antiguedad vehiculo ni etiqueta del Excel. Ver apartado abajo |
+| R3 | Alta electrica pura; baja combustion, **hibrido incluido** (solo excluido electrico puro como sustituido) | |
+| R4 | Misma categoria | sin sustitucion entre categorias |
 | R5 | Ventana | −3 / +6 meses |
 | R6 | Ambito CAE | adquisicion posterior al 2023-01-25 |
 
 
 ## R2: que cuenta como posesion (criterio del 2026-08-19)
 
-Cuestion cerrada por el usuario. Se cierra en dos mitades, y hay que aplicar las dos:
+Cerrada por usuario. Dos mitades, aplicar ambas:
 
-**1. La denominacion del contrato no descarta.** El criterio 25-11.01 no exige que el contrato se llame de una forma concreta; exige posesion efectiva de mas de dos anos y que ya no lo este. Que el Excel etiquete un contrato como `ALQUILER_CORTA_DURACION` no lo tumba por si solo.
+**1. Denominacion del contrato no descarta.** Criterio 25-11.01 no exige nombre concreto; exige posesion efectiva >2 anos y que ya no lo este. Etiqueta Excel `ALQUILER_CORTA_DURACION` no lo tumba por si sola.
 
-**2. Lo que descarta es el tiempo real.** Un alquiler de corta duracion decae **porque el vehiculo estuvo menos de dos anos en poder del solicitante**, no por como se llame. Y ese tiempo se mide **del contrato**, entre `fecha_inicio` y `fecha_fin`.
+**2. Descarta el tiempo real.** Alquiler corta duracion decae **porque vehiculo estuvo <2 anos en poder del solicitante**, no por nombre. Tiempo medido **del contrato**, entre `fecha_inicio` y `fecha_fin`.
 
-> ⛔ **Contar desde la matriculacion no vale nunca.** Prueba la edad del coche, no que lo tuviera el solicitante. Cualquier pareja que solo se sostenga por esa via esta incumpliendo R2, aunque el numero pase de 730.
+> ⛔ **Contar desde matriculacion no vale nunca.** Prueba edad del coche, no que lo tuviera solicitante. Pareja sostenida solo por esa via incumple R2, aunque pase de 730.
 
-Consecuencia de aplicarlo al ejercicio 2023 (2026-08-19):
+Aplicado a ejercicio 2023 (2026-08-19):
 
 | Expediente | Posesion real | Veredicto |
 | :--- | ---: | :--- |
-| `5566KSD ← 6994KGK` | 815d | **se salva** aunque el Excel lo llame alquiler de corta duracion → `A_ACREDITADO` |
+| `5566KSD ← 6994KGK` | 815d | **se salva** aunque Excel diga alquiler corta duracion → `A_ACREDITADO` |
 | `0767MJM ← 5875KPY` | 149d | decae → **retirado** |
 | `2120MFK ← 4535KFH` | 230d | decae → **retirado** |
 
-Los dos que decaen **no tienen baja sustituta**: el barrido de las 44 bajas de CGAC dejo una sola compatible, `6586KPD`, ya asignada a `2076MJP`. Detalle en cada nota de expediente.
+Los dos que decaen **sin baja sustituta**: barrido de 44 bajas CGAC dejo una sola compatible, `6586KPD`, ya asignada a `2076MJP`. Detalle en cada nota de expediente.
 
-El criterio se aplico a **toda la campana**, no solo a 2023. Barrido de las 69 parejas: cuatro tienen la posesion real por debajo del umbral y **ninguna tiene sustituta libre**.
+Criterio aplicado a **toda la campana**, no solo 2023. Barrido 69 parejas: cuatro bajo umbral y **ninguna con sustituta libre**.
 
 | Expediente | Ejercicio | Sociedad | Posesion real | Alternativas |
 | :--- | :-: | :--- | ---: | :--- |
@@ -129,20 +129,19 @@ El criterio se aplico a **toda la campana**, no solo a 2023. Barrido de las 69 p
 | `1066MWL ← 1947LMM` | 2024 | CGAC | 372d | `0019LLR` y `9413LKC`, ocupadas |
 | `1108KHK ← 2653LTG` | 2024 | G.O. Medioambiente | 30d | `9019LBN`, ocupada |
 
-**Las cuatro decaen.** Es un patron, no cuatro casos sueltos: son los unicos alquileres de corta duracion de la campana, todos con NORTHGATE o AYVENS, y el unico que se salva es `6994KGK` porque su alquiler duro 815 dias.
+**Las cuatro decaen.** Patron, no casos sueltos: unicos alquileres corta duracion de campana, todos NORTHGATE o AYVENS; unico salvado `6994KGK` porque alquiler duro 815 dias.
 
 ### Una pareja que no se sostiene no es un expediente
 
-**Criterio del usuario del 2026-08-19.** Cuando una pareja incumple una regla y no tiene arreglo, **no se queda marcada: se retira**. Un expediente es una cosa real; dejar dentro de `03_expedientes/` emparejamientos que no se pueden presentar ensucia todos los recuentos y obliga a filtrar en cada consulta.
+**Criterio usuario 2026-08-19.** Pareja que incumple regla sin arreglo **no se marca: se retira**. Expediente = cosa real; dejar en `03_expedientes/` emparejamientos no presentables ensucia recuentos y obliga a filtrar cada consulta.
 
-El procedimiento, que es el mismo de siempre porque **nada se borra**:
+Procedimiento de siempre, **nada se borra**:
 
-1. La nota de la pareja se mueve a `03_expedientes/0bsoleto/<fecha>_<motivo>/`, con un `LEEME.md` que explique por que decayo y que se busco antes de retirarla.
-2. **El alta vuelve a `_SIN_PAREJA.md`**: sigue siendo elegible y sigue buscando vehiculo sustituido.
-3. **La baja va a `_NO_ELEGIBLES.md`** si el motivo la descarta para cualquier pareja (posesion corta, categoria, combustible); si solo fallaba para esa alta concreta, vuelve tambien a `_SIN_PAREJA.md`.
-4. En las fichas de vehiculo se restituye el vocabulario que ya usa la campana: `estado_emparejamiento: ELEGIBLE_SIN_PAREJA` o `NO_ELEGIBLE`, `estado_posesion: INSUFICIENTE`, `coche_emparejado: SIN_EMPAREJAMIENTO`.
+1. Nota de pareja → `03_expedientes/0bsoleto/<fecha>_<motivo>/`, con `LEEME.md` explicando por que decayo y que se busco antes de retirar.
+2. **Alta vuelve a `_SIN_PAREJA.md`**: sigue elegible, busca vehiculo sustituido.
+3. **Baja va a `_NO_ELEGIBLES.md`** si motivo la descarta para cualquier pareja (posesion corta, categoria, combustible); si solo fallaba para esa alta, vuelve tambien a `_SIN_PAREJA.md`.
+4. En fichas vehiculo se restituye vocabulario de campana: `estado_emparejamiento: ELEGIBLE_SIN_PAREJA` o `NO_ELEGIBLE`, `estado_posesion: INSUFICIENTE`, `coche_emparejado: SIN_EMPAREJAMIENTO`.
 
-Por eso **no existe ningun nivel de «no viable»** ni ninguna clave `viable` en el YAML: seria informacion sobre algo que ya no esta. El vocabulario de `nivel` sigue siendo `A_ACREDITADO` · `B_INDICIO` · `C_CONDICIONADO`, y los tres describen expedientes reales en distinto grado de acreditacion.
+Por eso **no existe nivel «no viable»** ni clave `viable` en YAML: seria info sobre algo que ya no esta. Vocabulario `nivel` sigue `A_ACREDITADO` · `B_INDICIO` · `C_CONDICIONADO`; los tres = expedientes reales en distinto grado de acreditacion.
 
-> Lo aplicado el 2026-08-19: las cuatro parejas de la tabla anterior se fueron a `03_expedientes/0bsoleto/2026-08-19_parejas_no_viables_r2/`. La campana pasa de **69 a 65 expedientes**; `_SIN_PAREJA.md` de 278 a 282 vehiculos y `_NO_ELEGIBLES.md` de 74 a 78.
-
+> Aplicado 2026-08-19: cuatro parejas de tabla anterior → `03_expedientes/0bsoleto/2026-08-19_parejas_no_viables_r2/`. Campana pasa de **69 a 65 expedientes**; `_SIN_PAREJA.md` de 278 a 282 vehiculos y `_NO_ELEGIBLES.md` de 74 a 78.

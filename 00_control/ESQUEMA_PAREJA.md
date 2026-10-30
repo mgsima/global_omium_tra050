@@ -15,8 +15,8 @@ Una nota por pareja alta ↔ baja. Es la unidad que se presenta a verificación 
 
 ## Ciclo de vida
 
-- **`PROPUESTA`**: la crea el emparejador. Mientras está así, la siguiente pasada puede deshacerla y proponer otra mejor. La nota vieja va a `_0bsoleto/` y no se pisa.
-- **`FIJADA`**: una persona la da por buena, o empieza a pedirle papeles al cliente. El emparejador ya no la toca y sus dos coches salen del grafo.
+- **`propuesta`**: la crea el emparejador. Mientras está así, la siguiente pasada puede deshacerla y proponer otra mejor. La nota vieja va a `_0bsoleto/` y no se pisa.
+- **`fijada`**: una persona la da por buena, o empieza a pedirle papeles al cliente. El emparejador ya no la toca y sus dos coches salen del grafo.
 - **Retirada**: incumple una regla sin arreglo. La nota se mueve a `_0bsoleto/<fecha>_<motivo>/` y los dos coches vuelven al grafo.
 
 `estado_pareja` dice si la pareja se mueve. `estado` dice cómo va la auditoría, con el mismo vocabulario que KnowCapital y particulares.
@@ -34,7 +34,7 @@ ejercicio: "2024"                # año de ejecución: factura del alta, o la sa
 categoria: "M1"
 
 # --- Ciclo de vida ---
-estado_pareja: "PROPUESTA"       # PROPUESTA | FIJADA
+estado_pareja: "propuesta"       # propuesta | dudosa | fijada
 fecha_propuesta: "2026-10-23"
 emparejador: "v4"
 fijada_por: null                 # quién la fijó
@@ -49,20 +49,20 @@ desfase_dias: 16                 # salida − adquisición; dentro si está entr
 dias_posesion_baja: 1102
 umbral_posesion: 730
 
-# --- Reglas: OK | FALLA | SIN_DATOS, y con qué se acreditan ---
-r1_sociedad: "OK"
-r2_posesion: "OK"
+# --- Reglas: ok | falla | sin_datos, y con qué se acreditan ---
+r1_sociedad: "ok"
+r2_posesion: "ok"
 r2_fuente: "DOCUMENTO"
-r3_propulsion: "OK"
+r3_propulsion: "ok"
 r3_fuente: "DOCUMENTO"
-r4_categoria: "OK"
+r4_categoria: "ok"
 r4_fuente: "EXCEL"               # regla solo por Excel -> va a pendientes
-r5_ventana: "OK"
+r5_ventana: "ok"
 r5_fuente: "DOCUMENTO"
-r6_anio: "OK"
-r7_alta_nueva: "OK"
-r8_titularidad: "OK"
-r9_salida: "OK"
+r6_anio: "ok"
+r7_alta_nueva: "ok"
+r8_titularidad: "ok"
+r9_salida: "ok"
 reparos: []                      # lo que pide una decisión
 pendientes:                      # papel ordinario que falta
     - "categoria de la baja solo por Excel: ficha tecnica de 0246LLK"
@@ -83,23 +83,23 @@ ahorro_anual_kwh: 7269.78
 
 # --- Documentos del expediente ---
 # Los de cada coche se leen de su ficha y se copian aquí con el mismo nombre.
-doc_01_cesion: "FALTAN_DATOS"    # FALTAN_DATOS = sin generar; FALTA = generado sin firmar
-doc_02_anexo_i: "FALTAN_DATOS"
-doc_03_factura: "OK"
-doc_04_permiso_ve: "OK"
-doc_05_ft_ve: "OK"
-doc_06_consumo_idae: "OK"
-doc_07_propiedad: "OK"
-doc_08_ft_antiguo: "FALTA"
-doc_09_entrega: "OK"
-doc_20_ficha: "FALTAN_DATOS"
+doc_01_cesion: "faltan_datos"    # faltan_datos = sin generar; falta = generado sin firmar
+doc_02_anexo_i: "faltan_datos"
+doc_03_factura: "ok"
+doc_04_permiso_ve: "ok"
+doc_05_ft_ve: "ok"
+doc_06_consumo_idae: "ok"
+doc_07_propiedad: "ok"
+doc_08_ft_antiguo: "falta"
+doc_09_entrega: "ok"
+doc_20_ficha: "faltan_datos"
 docs_ok: 6
 docs_pendientes: 4
 docs_pide_cliente:
     - "8 · Ficha técnica del antiguo (0246LLK)"
 
 # --- Auditoría ---
-estado: "SIN_AUDITAR"            # SIN_AUDITAR | OK | PENDIENTE_SUBSANACION | REVISAR | RECHAZADO
+estado: "sin_auditar"            # sin_auditar | ok | pendiente_subsanacion | revisar | rechazado
 num_incidencias: 0
 verificado_manualmente: false
 fecha_verificacion: null

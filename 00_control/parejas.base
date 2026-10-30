@@ -1,0 +1,273 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+filters:
+  and:
+    - file.folder.contains("global_omium_tra050/04_parejas")
+    - '!file.folder.contains("_0bsoleto")'
+    - file.tags.contains("pareja")
+formulas:
+  anios_posesion: if(note.dias_posesion_baja, (note.dias_posesion_baja / 365).toFixed(1), "")
+properties:
+  file.name:
+    displayName: Pareja
+  note.sociedad:
+    displayName: Sociedad
+  note.cod_sociedad:
+    displayName: Cód.
+  note.alta:
+    displayName: Alta (VE)
+  note.baja:
+    displayName: Baja
+  note.categoria:
+    displayName: Categoría
+  note.ejercicio:
+    displayName: Ejercicio
+  note.estado_pareja:
+    displayName: Estado pareja
+  note.estado:
+    displayName: Auditoría
+  note.ahorro_anual_kwh:
+    displayName: Ahorro (kWh/año)
+  note.fecha_adquisicion_alta:
+    displayName: Factura VE
+  note.fecha_adquisicion_alta_fuente:
+    displayName: Respaldo factura
+  note.fecha_salida_baja:
+    displayName: Salida baja
+  note.fecha_salida_baja_fuente:
+    displayName: Respaldo salida
+  note.desfase_dias:
+    displayName: Desfase (d)
+  note.dias_posesion_baja:
+    displayName: Posesión (d)
+  formula.anios_posesion:
+    displayName: Años
+  note.r2_fuente:
+    displayName: R2 Posesión
+  note.r3_fuente:
+    displayName: R3 Propulsión
+  note.r4_fuente:
+    displayName: R4 Categoría
+  note.r5_fuente:
+    displayName: R5 Ventana
+  note.r8_fuente:
+    displayName: R8 Titularidad
+  note.r9_fuente:
+    displayName: R9 Salida
+  note.reparos:
+    displayName: Reparos
+  note.pendientes:
+    displayName: Pendientes
+  note.alternativas_alta:
+    displayName: Alt. alta
+  note.alternativas_baja:
+    displayName: Alt. baja
+  note.cva:
+    displayName: CVA
+  note.factor_conversion:
+    displayName: Factor
+  note.cvn:
+    displayName: CVN
+  note.cvn_fuente:
+    displayName: Origen CVN
+  note.ficha_idae:
+    displayName: Ficha IDAE
+  note.km_anuales:
+    displayName: Km/año
+  note.doc_01_cesion:
+    displayName: 1 Cesión
+  note.doc_02_anexo_i:
+    displayName: 2 Anexo I
+  note.doc_03_factura:
+    displayName: 3 Factura VE
+  note.doc_04_permiso_ve:
+    displayName: 4 Permiso VE
+  note.doc_05_ft_ve:
+    displayName: 5 FT VE
+  note.doc_06_consumo_idae:
+    displayName: 6 IDAE
+  note.doc_07_propiedad:
+    displayName: 7 Propiedad
+  note.doc_08_ft_antiguo:
+    displayName: 8 FT antiguo
+  note.doc_09_entrega:
+    displayName: 9 Salida
+  note.doc_20_ficha:
+    displayName: 20 Ficha
+  note.docs_ok:
+    displayName: Docs OK
+  note.docs_pendientes:
+    displayName: Docs pend.
+  note.docs_pide_cliente:
+    displayName: Pedir al cliente
+views:
+  - type: table
+    name: Todas
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - alta
+      - baja
+      - categoria
+      - ejercicio
+      - estado_pareja
+      - fecha_adquisicion_alta
+      - fecha_salida_baja
+      - desfase_dias
+      - dias_posesion_baja
+      - formula.anios_posesion
+      - ahorro_anual_kwh
+      - r4_fuente
+      - reparos
+      - pendientes
+    sort:
+      - property: estado_pareja
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+      ahorro_anual_kwh: Sum
+    columnSize:
+      file.name: 165
+      note.reparos: 300
+      note.pendientes: 340
+  - type: table
+    name: Limpias (PROPUESTA)
+    filters:
+      and:
+        - note.estado_pareja == "propuesta"
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - alta
+      - baja
+      - categoria
+      - ejercicio
+      - fecha_adquisicion_alta
+      - fecha_salida_baja
+      - desfase_dias
+      - dias_posesion_baja
+      - ahorro_anual_kwh
+      - r4_fuente
+      - pendientes
+    sort:
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+      ahorro_anual_kwh: Sum
+    columnSize:
+      file.name: 165
+      note.pendientes: 360
+  - type: table
+    name: Dudosas por siniestro
+    filters:
+      and:
+        - note.estado_pareja == "dudosa"
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - alta
+      - baja
+      - categoria
+      - ejercicio
+      - fecha_adquisicion_alta
+      - fecha_salida_baja
+      - desfase_dias
+      - dias_posesion_baja
+      - ahorro_anual_kwh
+      - reparos
+      - pendientes
+    sort:
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+      ahorro_anual_kwh: Sum
+    columnSize:
+      file.name: 165
+      note.reparos: 340
+  - type: table
+    name: Respaldo de reglas
+    groupBy:
+      property: r4_fuente
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - categoria
+      - estado_pareja
+      - r2_fuente
+      - r3_fuente
+      - r4_fuente
+      - r5_fuente
+      - r8_fuente
+      - r9_fuente
+      - reparos
+      - pendientes
+    sort:
+      - property: sociedad
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 165
+      note.pendientes: 360
+  - type: table
+    name: Documentos
+    groupBy:
+      property: sociedad
+      direction: ASC
+    order:
+      - file.name
+      - estado_pareja
+      - estado
+      - doc_01_cesion
+      - doc_02_anexo_i
+      - doc_03_factura
+      - doc_04_permiso_ve
+      - doc_05_ft_ve
+      - doc_06_consumo_idae
+      - doc_07_propiedad
+      - doc_08_ft_antiguo
+      - doc_09_entrega
+      - doc_20_ficha
+      - docs_ok
+      - docs_pendientes
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 165
+  - type: table
+    name: Ahorros
+    groupBy:
+      property: ejercicio
+      direction: ASC
+    order:
+      - file.name
+      - sociedad
+      - ejercicio
+      - estado_pareja
+      - cva
+      - factor_conversion
+      - cvn
+      - cvn_fuente
+      - ficha_idae
+      - km_anuales
+      - ahorro_anual_kwh
+    sort:
+      - property: ahorro_anual_kwh
+        direction: ASC
+    summaries:
+      file.name: Filled
+      ahorro_anual_kwh: Sum
+    columnSize:
+      file.name: 165

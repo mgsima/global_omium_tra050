@@ -9,7 +9,7 @@ Repositorio de la campaña TRA050 del grupo **Global Omnium** (`git@github.com:m
 - `00_control/`: lo que gobierna la campaña. Se escribe a mano, salvo `emparejamiento/`.
     - `REGLAS_EMPAREJAMIENTO.md`: las reglas activas, R1 Sociedad a R9 Salida, y cómo se elige entre parejas válidas.
     - `ESQUEMA_COCHE.md` y `ESQUEMA_PAREJA.md`: qué lleva el YAML y el cuerpo de cada nota.
-    - `00_global_omnium.base`: la base de Obsidian.
+    - `coches.base` y `parejas.base`: las bases de Obsidian de vehículos y parejas.
     - `emparejamiento/`: la salida del emparejador (resumen con el certificado de máximo, aristas admisibles y potenciales). Se regenera entera en cada pasada.
 - `01_entrada/`: lo que entrega el cliente. **Nunca lo escribe un script.**
     - `_flota/`: los dos Excel. El de cálculo CAE es la fuente de datos de la campaña, pero **no es prueba documental**.
@@ -22,9 +22,9 @@ Repositorio de la campaña TRA050 del grupo **Global Omnium** (`git@github.com:m
     - Incluye los que solo están en el Excel, con `tiene_documentos: false`.
     - Cada dato que decide una regla lleva su fuente: `DOCUMENTO`, `MANUAL`, `EXTRACCION` o `EXCEL`.
     - La escribe `scripts/global_omnium/coches.py`, que conserva lo escrito a mano.
-- `04_parejas/<SOCIEDAD>/<ALTA>_<BAJA>.md`: una nota por pareja, la unidad que se presenta a verificación. Vacía todavía.
+- `04_parejas/<SOCIEDAD>/<ALTA>_<BAJA>.md`: una nota por pareja (66 propuestas: 51 limpias y 15 dudosas por siniestro), la unidad que se presenta a verificación.
     - La sociedad es la carpeta, así la R1 Sociedad no se puede saltar.
-    - `PROPUESTA` la puede deshacer el emparejador; `FIJADA` ya no la toca.
+    - `propuesta` la puede deshacer el emparejador; `fijada` ya no la toca.
     - La escribe `scripts/global_omnium/emparejar_v4.py`.
 - `05_generado/`: datos de relleno de los documentos que redactamos nosotros (cesión, Anexo I, ficha TRA050).
 - `06_verificacion/`: lo que sale al verificador, montado por pareja.
@@ -36,7 +36,7 @@ Repositorio de la campaña TRA050 del grupo **Global Omnium** (`git@github.com:m
 - **1 · Fichas de coche:** `python scripts/global_omnium/coches.py --todas`. Con `--matricula X --seco` enseña una ficha sin escribirla.
 - **2 · Auditoría del coche:** a mano, en su ficha. Se editan los `doc_*`, `estado`, los datos que haya que corregir (con `<dato>_fuente: "MANUAL"`) y las secciones «Notas de auditoría», «Incidencias» e «Historial».
 - **3 · Emparejamiento:** `python scripts/global_omnium/emparejar_v4.py --seco` cuenta cuántas parejas salen y lo demuestra; sin `--seco`, escribe `04_parejas/` y `00_control/emparejamiento/`.
-- **4 · Fijar:** cuando una pareja tenga trabajo encima o se le pidan papeles al cliente, `estado_pareja: "FIJADA"`.
+- **4 · Fijar:** cuando una pareja tenga trabajo encima o se le pidan papeles al cliente, `estado_pareja: "fijada"`.
 
 ## Reglas de esta carpeta
 

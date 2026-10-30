@@ -10,15 +10,15 @@ R4b Misma subcategoría solo queda acreditada con el permiso de circulación o l
 
 ## Alcance
 
-- Coches que podrían formar pareja: 196 altas y 143 bajas. No fallan ninguna regla del coche por sí solo y están en una sociedad con altas y bajas candidatas.
-- Hay que pedir el documento de 262 coches: 195 altas y 67 bajas. No se piden los coches cuya subcategoría ya sale de un documento, ni las motos.
+- Coches que podrían formar pareja: 197 altas y 142 bajas. No fallan ninguna regla del coche por sí solo y están en una sociedad con altas y bajas candidatas.
+- Hay que pedir el documento de 262 coches: 196 altas y 66 bajas. No se piden los coches cuya subcategoría ya sale de un documento, ni las motos.
 - Lista para el cliente: `05_generado/peticiones/2026-10-29_permisos_y_fichas.xlsx`.
 
 ## Por prioridad
 
-- Prioridad 1, en una pareja propuesta: 64 altas y 28 bajas.
-- Prioridad 2, con alguna arista admisible o potencial: 104 altas y 8 bajas.
-- Prioridad 3, candidato sin arista hoy (el que puede subir el número de parejas): 27 altas y 31 bajas.
+- Prioridad 1, en una pareja propuesta: 66 altas y 30 bajas.
+- Prioridad 2, con alguna arista admisible o potencial: 103 altas y 4 bajas.
+- Prioridad 3, candidato sin arista hoy (el que puede subir el número de parejas): 27 altas y 32 bajas.
 
 ## Por sociedad
 
@@ -34,9 +34,9 @@ R4b Misma subcategoría solo queda acreditada con el permiso de circulación o l
 - 1200 EMIVASA: 57 altas y 1 baja.
 - 1203 E.Mixta Metropolitana, SA: 2 altas y 1 baja.
 - 1319 UTE CHIVA(AV/EG): 2 altas y 0 bajas.
-- 1400 EGEVASA: 2 altas y 13 bajas.
-- 1490 EMPRESA MIXTA CALPE: 1 alta y 0 bajas.
-- 1505 CGAC: 19 altas y 12 bajas.
+- 1400 EGEVASA: 2 altas y 12 bajas.
+- 1490 EMPRESA MIXTA CALPE: 1 alta y 1 baja.
+- 1505 CGAC: 20 altas y 11 bajas.
 - 1507 EMP.AG.POTABL.MALGRAT SA: 4 altas y 0 bajas.
 
 ## Cuando lleguen

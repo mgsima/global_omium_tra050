@@ -20,7 +20,7 @@ La ficha es la fuente de verdad **del coche**. Lo que se decide sobre la sustitu
     - `MANUAL` si lo fijó una persona revisando el documento. El script no lo pisa nunca.
 - Los datos del Excel se conservan aparte con prefijo `excel_`, para ver cuándo discrepan del documento.
 - Lo que el script no sabe va a `null`, nunca a un valor inventado.
-- Vocabulario de documentos y estados igual que en particulares y KnowCapital: `doc_NN_<nombre>` con `OK`, `FALTA`, `REHACER`, `REVISAR`, `NA`, `SIN_AUDITAR`.
+- Vocabulario de documentos y estados igual que en particulares y KnowCapital: `doc_NN_<nombre>` con `ok`, `falta`, `rehacer`, `revisar`, `na`, `sin_auditar`.
 
 ## YAML
 
@@ -66,7 +66,7 @@ fecha_salida_doc: "ACTA DEVOLUCION.pdf"
 salida_tipo: "DEVOLUCION"        # DEVOLUCION | VENTA | DESGUACE | SINIESTRO
 dias_posesion: 815               # derivado de las dos fechas; nunca desde la matriculación
 umbral_posesion: 730             # 365 en propiedad, 730 por contrato
-estado_posesion: "ACREDITADA"    # ACREDITADA (documento) | INDICIO (Excel) | INSUFICIENTE | SIN_DATOS
+estado_posesion: "acreditada"    # acreditada (documento) | indicio (Excel) | insuficiente | sin_datos
 
 # --- Datos del Excel, tal cual ---
 excel_categoria: "Turismo"
@@ -80,21 +80,21 @@ excel_marca_modelo: "RENAULT ZOE 40"
 # --- Elegibilidad del coche por sí solo ---
 elegible: true                   # cumple todo lo que no depende de la pareja
 motivos_no_elegible: []          # ej. "Posesion 58d < 730d"
-datos_que_faltan: []             # ej. "fecha_salida": lo que lo sacaría de SIN_DATOS
+datos_que_faltan: []             # ej. "fecha_salida": lo que lo sacaría de sin_datos
 
 # --- Documentos (los de este coche; los de la pareja van en la pareja) ---
 # ALTA
-doc_03_factura: "OK"
-doc_04_permiso_ve: "OK"
-doc_05_ft_ve: "OK"
-doc_06_consumo_idae: "OK"
+doc_03_factura: "ok"
+doc_04_permiso_ve: "ok"
+doc_05_ft_ve: "ok"
+doc_06_consumo_idae: "ok"
 # BAJA
-doc_07_propiedad: "OK"           # contrato de renting o justificante de propiedad
-doc_08_ft_antiguo: "OK"
-doc_09_entrega: "OK"             # acta de devolución, compraventa o certificado de desguace
+doc_07_propiedad: "ok"           # contrato de renting o justificante de propiedad
+doc_08_ft_antiguo: "ok"
+doc_09_entrega: "ok"             # acta de devolución, compraventa o certificado de desguace
 
 # --- Estado ---
-estado: "SIN_AUDITAR"            # SIN_AUDITAR | AUDITADO | REVISAR | NO_ELEGIBLE
+estado: "sin_auditar"            # sin_auditar | auditado | revisar | no_elegible
 verificado_manualmente: false
 fecha_verificacion: null
 

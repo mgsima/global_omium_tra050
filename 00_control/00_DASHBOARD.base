@@ -1,0 +1,213 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+filters:
+  and:
+    - file.folder.contains("global_omium_tra050/04_parejas")
+    - '!file.folder.contains("_0bsoleto")'
+    - file.tags.contains("pareja")
+formulas:
+  ccaa: if(sociedad == "CGAC", "Cataluña", if(sociedad == "ARAGONESA SER.PUBLICOS SL", "Aragón", "Comunitat Valenciana"))
+  es_siniestro: if(estado_pareja == "dudosa", true, false)
+  doc_base_completa: if(doc_03_factura == "ok" && doc_04_permiso_ve == "ok" && doc_07_propiedad == "ok" && doc_08_ft_antiguo == "ok" && doc_09_entrega == "ok", true, false)
+  estrategia_ficha: if(estado_pareja == "dudosa", "V1.1 URGENTE - Siniestro vence 20-Nov", if(formula.doc_base_completa && doc_odometro_itv == "ok", "V2.0 AHORRO - Odometro real", if(formula.doc_base_completa, "V1.1 RAPIDA - Poca doc", "PENDIENTE DOC BASE")))
+  lote_agrupacion: formula.ccaa + " · " + ejercicio + " (" + if(formula.estrategia_ficha.contains("V1.1"), "Ficha v1.1", "Ficha v2.0") + ")"
+  accion_prioritaria: if(estado_pareja == "dudosa", "EMITIR EN LOTE V1.1 ANTES 20-NOV - Siniestro no computable en v2.0", if(!formula.doc_base_completa, "RECABAR DOC BASE - Factura, permisos, entrega y cesion", if(doc_odometro_itv == "ok", "VERIFICAR CON V2.0 - Ahorro superior por odometro", "EMITIR EN LOTE V1.1 - Documentacion minima lista")))
+  ahorro_v2_kwh: if(categoria == "M1", ((cva * factor_conversion - cvn) / 100 * 12295).toFixed(0), if(categoria == "N1", ((cva * factor_conversion - cvn) / 100 * 14666).toFixed(0), ahorro_anual_kwh))
+  diferencia_kwh: (ahorro_anual_kwh - formula.ahorro_v2_kwh).toFixed(0)
+properties:
+  file.name:
+    displayName: Pareja
+  note.ejercicio:
+    displayName: Ejercicio
+  formula.ccaa:
+    displayName: CCAA
+  note.baja:
+    displayName: Matricula antiguo
+  note.alta:
+    displayName: Matricula nuevo
+  note.categoria:
+    displayName: Categoria
+  formula.estrategia_ficha:
+    displayName: Estrategia Ficha
+  formula.lote_agrupacion:
+    displayName: Grupo de Lote (10 ud)
+  formula.accion_prioritaria:
+    displayName: Accion Prioritaria
+  note.estado_pareja:
+    displayName: Estado pareja
+  note.reparos:
+    displayName: Reparos
+  note.pendientes:
+    displayName: Pendientes
+  note.doc_03_factura:
+    displayName: Factura VE
+  note.doc_04_permiso_ve:
+    displayName: Permiso VE
+  note.doc_05_ft_ve:
+    displayName: FT VE
+  note.doc_07_propiedad:
+    displayName: Propiedad VC
+  note.doc_08_ft_antiguo:
+    displayName: FT antiguo VC
+  note.doc_09_entrega:
+    displayName: Salida VC
+  note.doc_21_dni:
+    displayName: Poderes / DNI
+  note.doc_itv_9_meses:
+    displayName: ITV 9/12m VC
+  note.doc_clausula_holding:
+    displayName: Clausula Anti-holding
+  note.doc_leasing_ve:
+    displayName: Contrato leasing VE
+  note.doc_dos_ivtm:
+    displayName: 2 Recibos IVTM
+  note.doc_odometro_itv:
+    displayName: Odometro ITV real
+  note.doc_01_cesion:
+    displayName: Contrato cesion filial
+  note.convenio_cae:
+    displayName: Convenio CAE lote
+  note.doc_02_anexo_i:
+    displayName: Anexo I / Ayudas
+  note.doc_06_consumo_idae:
+    displayName: Ficha IDAE
+  note.doc_20_ficha:
+    displayName: Ficha TRA050
+  note.cva:
+    displayName: CVA
+  note.cvn:
+    displayName: CVN
+  note.km_anuales:
+    displayName: Km/año v1
+  note.ahorro_anual_kwh:
+    displayName: Ahorro v1 (kWh/año)
+  formula.ahorro_v2_kwh:
+    displayName: Ahorro v2 (kWh/año)
+  formula.diferencia_kwh:
+    displayName: Diferencia (kWh)
+views:
+  - type: table
+    name: 1 · Recoleccion v1 (Documentos Base)
+    groupBy:
+      property: formula.ccaa
+      direction: ASC
+    order:
+      - file.name
+      - ejercicio
+      - formula.ccaa
+      - baja
+      - alta
+      - doc_03_factura
+      - doc_04_permiso_ve
+      - doc_05_ft_ve
+      - doc_07_propiedad
+      - doc_08_ft_antiguo
+      - doc_09_entrega
+      - doc_21_dni
+    sort:
+      - property: ejercicio
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+    columnSize:
+      file.name: 170
+      formula.ccaa: 180
+      note.baja: 150
+      note.alta: 150
+  - type: table
+    name: 2 · Recoleccion v2 (Todos los Documentos a Recoger)
+    groupBy:
+      property: formula.ccaa
+      direction: ASC
+    order:
+      - file.name
+      - ejercicio
+      - formula.ccaa
+      - baja
+      - alta
+      - doc_03_factura
+      - doc_04_permiso_ve
+      - doc_05_ft_ve
+      - doc_07_propiedad
+      - doc_08_ft_antiguo
+      - doc_09_entrega
+      - doc_21_dni
+      - doc_itv_9_meses
+      - doc_clausula_holding
+      - doc_leasing_ve
+      - doc_dos_ivtm
+      - doc_odometro_itv
+    sort:
+      - property: ejercicio
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+    columnSize:
+      file.name: 170
+      formula.ccaa: 180
+      note.baja: 150
+      note.alta: 150
+  - type: table
+    name: 3 · Documentos Generados (Comun)
+    groupBy:
+      property: formula.ccaa
+      direction: ASC
+    order:
+      - file.name
+      - ejercicio
+      - formula.ccaa
+      - baja
+      - alta
+      - doc_01_cesion
+      - convenio_cae
+      - doc_02_anexo_i
+      - doc_06_consumo_idae
+      - doc_20_ficha
+    sort:
+      - property: ejercicio
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+    columnSize:
+      file.name: 170
+      formula.ccaa: 180
+      note.baja: 150
+      note.alta: 150
+  - type: table
+    name: 4 · Ahorro por Coche / Pareja
+    groupBy:
+      property: ejercicio
+      direction: ASC
+    order:
+      - file.name
+      - ejercicio
+      - formula.ccaa
+      - baja
+      - alta
+      - categoria
+      - cva
+      - cvn
+      - km_anuales
+      - ahorro_anual_kwh
+      - formula.ahorro_v2_kwh
+      - formula.diferencia_kwh
+    sort:
+      - property: ahorro_anual_kwh
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+      ahorro_anual_kwh: Sum
+      formula.ahorro_v2_kwh: Sum
+    columnSize:
+      file.name: 170
+      formula.ccaa: 180
+      note.baja: 150
+      note.alta: 150

@@ -34,7 +34,7 @@ Cada regla: código + nombre corto, citar siempre ambos: «R5 Ventana», nunca �
 - **R6 Año · Año de ejecución 2024 o posterior.** Factura del alta desde 1 enero 2024.
     - La ficha admite desde el 25/01/2023, pero las compras de 2023 ya no son susceptibles de CAE (decisión del usuario del 2026-09-24, confirmada el 2026-10-22).
 - **R7 Alta nueva · El alta es nueva**, o segunda mano con primera matriculación anterior a 25/01/2023 sin CAE generado.
-    - En Global Omnium todas las altas son nuevas. Si apareciera una de segunda mano, va a `REVISAR`.
+    - En Global Omnium todas las altas son nuevas. Si apareciera una de segunda mano, va a `revisar`.
 - **R8 Titularidad · El alta está matriculada a nombre de la sociedad**, o de empresa de renting si alta en renting.
 - **R9 Salida · La baja ya no está en poder del solicitante**, y consta fecha de salida.
     - Renting: acta de entrega firmada en conformidad.
@@ -52,9 +52,9 @@ Cada regla: código + nombre corto, citar siempre ambos: «R5 Ventana», nunca �
 ## Cómo se aplica cada regla
 
 - Cada regla da uno de tres resultados:
-    - `OK`: se cumple.
-    - `FALLA`: no se cumple. La pareja no existe.
-    - `SIN_DATOS`: falta el dato para decidir. La pareja no entra en el grafo, pero se apunta como **arista potencial** con el dato que falta, para pedírselo al cliente.
+    - `ok`: se cumple.
+    - `falla`: no se cumple. La pareja no existe.
+    - `sin_datos`: falta el dato para decidir. La pareja no entra en el grafo, pero se apunta como **arista potencial** con el dato que falta, para pedírselo al cliente.
 - Dato viene de documento o solo de Excel:
     - Con documento, la regla queda **acreditada**.
     - Con Excel, la regla queda **indiciaria**: la pareja entra en el grafo y el dato queda en `pendientes` de su nota, para pedir el documento.
@@ -72,10 +72,11 @@ Se exige al expediente, no cambia qué parejas existen. Se comprueba en nota de 
 
 ## Cómo se elige entre parejas válidas
 
+- **0 · Primero, parejas sin siniestro.** Baja que salió por siniestro (`salida_tipo: SINIESTRO`, que viene del Excel: «CANCELADO POR SINIESTRO») en general no se puede presentar. Su pareja queda `estado_pareja: dudosa` y el emparejador solo la usa si no hay otra sin siniestro que ocupe su sitio: maximiza antes las parejas limpias que el total (criterio usuario 2026-10-29).
 - **1 · Máximo número de parejas.** Emparejamiento de máxima cardinalidad sobre grafo de parejas que pasan todas las reglas, resuelto por separado por sociedad (R1 Sociedad ya las separa).
     - **Certificado**: para cada sociedad y categoría se calcula también la cobertura mínima de vértices. Por el teorema de König, si coincide con el número de parejas, está demostrado que no cabe ni una más con los datos actuales.
 - **2 · Entre los máximos, más ahorro.** Combinación con más kWh/año. Empate: pareja ya propuesta en agosto.
-- **Parejas fijadas.** Pareja en `estado_pareja: FIJADA` no se recalcula: sus dos coches salen del grafo antes de empezar. Emparejador solo reparte lo libre.
+- **Parejas fijadas.** Pareja en `estado_pareja: fijada` no se recalcula: sus dos coches salen del grafo antes de empezar. Emparejador solo reparte lo libre.
 
 ## Sin niveles
 

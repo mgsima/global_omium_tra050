@@ -1,0 +1,16 @@
+{
+  "huella": "082073fd7c7e211093b24ee7c82cd4ea063de50fd9855fc15a58950068f557f4",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3942LLT Condiciones.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Condiciones particulares de renting de LeasePlan (Ayvens) con matrícula y bastidor del vehículo y titular EMPRESA GENERAL VALENCIANA DEL AGUA, válido para acreditar el arrendamiento."
+  }
+}

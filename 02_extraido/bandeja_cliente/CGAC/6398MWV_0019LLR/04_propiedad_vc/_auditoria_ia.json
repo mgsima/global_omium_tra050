@@ -1,0 +1,17 @@
+{
+  "huella": "7cf22fdc8325a22ac238fcec7bf645836896c112ae0ff79cff80f451ac9a0a59",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0019LLR CONTRATO.pdf",
+    "MA0019LLR (1).pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con permiso de circulación del vehículo 0019LLR a nombre de la arrendadora, válido para acreditar la posesión."
+  }
+}

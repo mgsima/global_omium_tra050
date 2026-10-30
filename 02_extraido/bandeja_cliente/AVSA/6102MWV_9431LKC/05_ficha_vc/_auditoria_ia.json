@@ -1,0 +1,16 @@
+{
+  "huella": "1fd52fdb6e29e89b2108adace499125491680c6500770e2c3458cc74defc5127",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9431LKC FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica y permiso de circulación del SEAT ARONA 9431LKC (bastidor VSSZZZKJZLR193278), categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

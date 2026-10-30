@@ -1,0 +1,17 @@
+{
+  "huella": "e38aa1ffe14c7109facde70aefad0dee5ac9f5f9888619796fb1b9df74463ee5",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7970LKX CONTRATO.pdf",
+    "7970LKX PERMISO CIRCULACION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Permiso de circulación del vehículo 7970LKX (bastidor YV1ZWBFVDM1426649) a nombre de ARVAL SERVICE LEASE SA, arrendadora del renting."
+  }
+}

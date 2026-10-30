@@ -1,0 +1,16 @@
+{
+  "huella": "557616e5849fd0d1dbd0e201e297ff47e5b592dd6ec96fbd3758992ab8040bc5",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1505A4642125174000000632024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo con bastidor y titular coincidentes, con desglose de IVA."
+  }
+}

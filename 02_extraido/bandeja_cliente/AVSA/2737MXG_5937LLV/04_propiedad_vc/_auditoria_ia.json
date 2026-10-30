@@ -1,0 +1,17 @@
+{
+  "huella": "401c4a1861ef949e01bfa254d4948c94698f00b8d8a43d0cdf69cf18cd0a34a2",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5937LLV CONTRATO.pdf",
+    "MA5937LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con la UTE Agua y Alcantarillado Teruel para el vehículo 5937LLV, bastidor VR3EFYHYCLN564487, con plazo de 48 meses."
+  }
+}

@@ -1,276 +1,444 @@
 ---
 documento_origen: "MA9305LMG.pdf"
 original: "[[data/global_omium_tra050/01_entrada/BAJAS/9305LMG/MA9305LMG.pdf]]"
+conversion: "LlamaParse agentic 2026-10-30"
 ---
 
-E erke ERKE EQUIPAMIENTO PARA VEHICULOS, S.A.  D  (0/9
-P.l. Ibai Ondo, 3. Hernani. Guipúzcoa.  we  N.*deSerie.  0260747
-LNSG4518PE  MK
-|  e2'2007/46*0825*10  —  |  2785  Y
+logo: erke
 
-[K2   |  Ma|  —
-|
-| 1395/1482  ho| —
-564518  [e  |  NL  2ejes 4ruedas
-|  2409  -  —  2 | 1985  |  1.  delantero
-| 174.0
-111071075  4- 195/65
- e]  -  | PSA  R15  90U
-| —  SA  [F2.1  1985  Rs| YHO1  |
-PSA AUTOMOBILES
- [A2|  de l'Europe, 78300 Poissy, France  [Es  | 1110/1075  3| M/D
-|)  ERKE EQUIPAMIENTO  | 33395  | 1409
- [B2|  Ondo, 3,  Hernani,PARA VEHICULOS,  S.A.  | 3335  | 4enlinea
-|  Guipúzcoa (España)  CM  P2  |
- Di PEUGEOT/ERKE  |  | 750
-1119
-|  0
- Da PARTNERERIE  | —-  s2  2
- [E  |  VR3EFYHYCLN564518  013  10  —-
-0.1.4
-[Ra  | 690  [E  |
-Es  | 1880  [uz
-5000  E  |]  100  — |   265
-102
--  | 4008  EURO SAN
+ERKE EQUIPAMIENTO PARA VEHICULOS, S.A.
 
-Rd  |  1563  —
-De| —  Ez] 187  — A  —-  ||
-z  |  —
-El abajo  firmante, legalmente  Observaciones:
-autorizado  por:  D.2:E/F /YHYC-G2F021  EPTO1/F /  la  homologación  de
---  YHYCG2F021WX  perones ne  en   da Tomo  de tiTipo
-ERKE equip. para vehiculos,  L.2: 205/60 R16 96U. Masa real del vehículo 1560 kg. 2 Valor en punto de acoplamiento.
-Certifica que el vehículo  cuyas  POPE  A   E  E  E  E   A  E
-características
-completamente se
-conforme
-número de  reseñanconesel  HEEE A E  A  +  AECE  AAA
-homologación.
-Firma autorizada Registro de fabricantes y firmas autorizadas
-—  =  =  +   + E   +   +  E  +  +  E  +   +  +   ++ +
+P.I. Ibai Ondo, 3. Hernani. Guipuzcoa.
 
-de emisión:  45/12/2020  bón Castañaresñ  Etxezarreta  EN  H  ||
-Fecha
+icon: D
 
+N.º de Serie
 
+0260747
 
+logo: 1018
 
-                                                                                                                                               701 US
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Matrícula</th>
+        <th colspan="2">Certificado N.º</th>
+        <th>Código</th>
+        <th>Descripción</th>
+        <th>Código</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <th rowspan="3"> </th>
+        <th rowspan="3">barcode: 9305LMG 564518</th>
+        <th rowspan="3"> </th>
+        <th rowspan="3">LN564518PE</th>
+        <th>K</th>
+        <th>e2<em>2007/46</em>0625*10</th>
+        <th>M.1</th>
+        <th>2785</th>
+    </tr>
+    <tr>
+        <th>K.1</th>
+        <th>e9<em>NKS</em>11275*01</th>
+        <th>M.4</th>
+        <th>---</th>
+    </tr>
+    <tr>
+        <th>K.2</th>
+        <th>LN564518</th>
+        <th>L</th>
+        <th>2 ejes, 4 ruedas</th>
+    </tr>
+    <tr>
+        <th>C.L</th>
+        <th>2449</th>
+        <th> </th>
+        <th> </th>
+        <th>G</th>
+        <th>1395 / 1452</th>
+        <th>L.0</th>
+        <th>---</th>
+    </tr>
+    <tr>
+        <th>C.I</th>
+        <th>---</th>
+        <th> </th>
+        <th> </th>
+        <th>F.1</th>
+        <th>1985</th>
+        <th>L.1</th>
+        <th>1, delantero</th>
+    </tr>
+    <tr>
+        <th>C.V</th>
+        <th>---</th>
+        <th> </th>
+        <th> </th>
+        <th>F.1.1</th>
+        <th>1110 / 1075</th>
+        <th>L.2</th>
+        <th>4 - 195/65 R15 90U</th>
+    </tr>
+    <tr>
+        <th>A.1</th>
+        <th>PSA AUTOMOBILES SA</th>
+        <th> </th>
+        <th> </th>
+        <th>F.1.5</th>
+        <th>-- / 74 (2)</th>
+        <th>P.5.1</th>
+        <th>PSA</th>
+    </tr>
+    <tr>
+        <th>A.2</th>
+        <th>2-10 bld de l'Europe, 78300 Poissy, France</th>
+        <th> </th>
+        <th> </th>
+        <th>F.2</th>
+        <th>1985</th>
+        <th>P.5</th>
+        <th>YH01</th>
+    </tr>
+    <tr>
+        <th>B.1</th>
+        <th>ERKE EQUIPAMIENTO PARA VEHICULOS, S.A.</th>
+        <th> </th>
+        <th> </th>
+        <th>F.2.1</th>
+        <th>1110 / 1075</th>
+        <th>P.3</th>
+        <th>M / D</th>
+    </tr>
+    <tr>
+        <th>B.2</th>
+        <th>P.I. Ibai Ondo, 3, Hernani, Guipúzcoa (España)</th>
+        <th> </th>
+        <th> </th>
+        <th>F.3</th>
+        <th>3335</th>
+        <th>P.1</th>
+        <th>1499</th>
+    </tr>
+    <tr>
+        <th>D.1</th>
+        <th>PEUGEOT / ERKE</th>
+        <th> </th>
+        <th> </th>
+        <th>F.3.1</th>
+        <th>3335</th>
+        <th>P.1.1</th>
+        <th>4, en línea</th>
+    </tr>
+    <tr>
+        <th>D.2</th>
+        <th>*</th>
+        <th> </th>
+        <th> </th>
+        <th>O.1</th>
+        <th>---</th>
+        <th>P.2</th>
+        <th>75,0</th>
+    </tr>
+    <tr>
+        <th>D.3</th>
+        <th>PARTNER ERKE</th>
+        <th> </th>
+        <th> </th>
+        <th>O.1.1</th>
+        <th>---</th>
+        <th>P.2.1</th>
+        <th>11,19</th>
+    </tr>
+    <tr>
+        <th>E</th>
+        <th>VR3EFYHYCLN564518</th>
+        <th> </th>
+        <th> </th>
+        <th>O.1.2</th>
+        <th>---</th>
+        <th>S.1</th>
+        <th>2</th>
+    </tr>
+    <tr>
+        <th>J</th>
+        <th>N1</th>
+        <th> </th>
+        <th> </th>
+        <th>O.1.3</th>
+        <th>1350</th>
+        <th>S.2</th>
+        <th>---</th>
+    </tr>
+    <tr>
+        <th>J.1</th>
+        <th>BB 99</th>
+        <th> </th>
+        <th> </th>
+        <th>O.1.4</th>
+        <th>690</th>
+        <th>U.1</th>
+        <th>73</th>
+    </tr>
+    <tr>
+        <th>J.2</th>
+        <th>---</th>
+        <th> </th>
+        <th> </th>
+        <th>F.4</th>
+        <th>1880</th>
+        <th>U.2</th>
+        <th>2625</th>
+    </tr>
+    <tr>
+        <th>J.3</th>
+        <th>---</th>
+        <th> </th>
+        <th> </th>
+        <th>F.5</th>
+        <th>1848</th>
+        <th>V.7</th>
+        <th>142</th>
+    </tr>
+    <tr>
+        <th>R</th>
+        <th>---</th>
+        <th> </th>
+        <th> </th>
+        <th>F.6</th>
+        <th>4403</th>
+        <th>V.9</th>
+        <th>EURO 6AN</th>
+    </tr>
+    <tr>
+        <th>D.6</th>
+        <th>---</th>
+        <th> </th>
+        <th> </th>
+        <th>F.7</th>
+        <th>1563</th>
+        <th> </th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th>Z</th>
+        <th>2020 / 114</th>
+        <th> </th>
+        <th> </th>
+        <th>F.7.1</th>
+        <th>1577</th>
+        <th> </th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>F.8</th>
+        <th>---</th>
+        <th> </th>
+        <th> </th>
+    </tr>
+  </thead>
+</table>
 
+**El abajo firmante, legalmente autorizado por:**
+**ERKE equip. para vehículos, S.A.**
 
+**Certifica que el vehículo cuyas características se reseñan es completamente conforme con el número de homologación.**
 
+**Fecha de emisión: 15/12/2020**
 
- EJEMPLAR PARA EL USUARIO
+**Observaciones:**
+D.2: E / F / YHYC-G2F021 -- EPT01 / F / YHYCG2F021WX
 
-                             INSPECCIONES TÉCNICAS                     A.1                              Nombre dei fabricante                                                                       tracción
-      Fecha:                 Fecha:              Fecha:                                                     del vehículo base    —  4      Altura total                                0.11     Barrde
-Validez:                    Validez:               Validez:            A.2    Dirección                      del vehículobase    — FS — Anchura lotal                                  0:12     Somirremolque
-      Firma yy sello         Firma yY sello     Firma y    sello       8.1    Nombre
-                                                                                  dol fabricanto
-                                                                           completado               del vehículo                    F5.1   Anchura  máxima      carrozable             0.13     Remolque ejeᴺ   central
-                                                                                                                                                    total                              0.44     Remolque sin frano
-                                                                       B.2                  del fabricanto dol vehículo
-                                                                              completado                                            F6.1   Longitud máxima carrozable                  0.2.1    Masa máxima remolcable técnicamente
-                                                                                                                                                                                                           on frenos mecánicos
-                                                                                                                                                                                                admisible
-                                                                       E      Código ITV                                                       anterior                                022      Masa   mb
-      Fecha:                 Fecha:              Fecha:                                                                                                                                   .2.2      Masamáxima remolcable
-              .              "                        .                CL     Clasificación del vehículo                                   Vía posterior                                        admisible  con frenosde  Inercia
-Validez:                    Validez:               Validez:
-      Firma y sello          Firma y     sello  Firma y    sello       CV     Control VIN                                                  Voladizo posterior                          0.23     Masa máxima remolcablo técnicamente
-                                                                                                                                                                                                admisible con frenos hidráulicos o
-                                                                       D.1    Marca                                                        Voladizo máximo posterior carrozable                 neumáticos
-                                                                       D.2    TipoNecionterVersión                                  6      Masa enOrden de      Marcha (MOM)                    Tipode frenode    servicio
-                                                                       D:3            Denominación comercial del vehículo           6.1    Masaenvacío para vehículos categoría
-|     Fecha:                 Fecha:              Fecha:                D.6                                                          6.2    Masa Minima       Admisible del  vehículo   2417     Número y disposiciónde
-Validez:                     Validez:        Validez:                                                                                                                                                                    tos cilindros
-                             lidez:
-      Firmay     sello  ——   Firma y sello  Firmaidez:y    sello       E              — Númerode identificación delvehículo                completado                                  82.      Polencia del motor
-                                                                                                                                    Categoría del vehículo
-                                                                       EP     Estructura de protección                                                                                          Polonci fiscal
-                                                                       ER     Marca       dela estructura de protección                    Carrocería del                                           de combustiblo o fuente de energía
+L.2: 205/60 R16 96U. Masa real del vehículo 1560 kg. (2) Valor en punto de acoplamiento.
 
-                                                                                                                                                                                                           identlicación motor
-          !                                                                   Modelo dela estructura de protección                  42     Clase                                       PS       Código de                del
-Mo        > -                                                   == Y          N* de homologación de la             estructura
-                            Fecha:               Fecha:                    protección                                               13     Volumen de bodegas                                              o marca  del
-|Fecha:                                                                                             de                                              de     homologación del vehículo   PS.1     Fabricante motor
-||    Validez:y             Validez:y         Validez:y                                         de                                         basa                                                 Relación potencia/masa
-      Firma y sello          Firma sello      Firmay   M sello         EPA    protección               la estructura de             K.1    Número de homologación
-                                                                                                                                                               del vehiculo     —:              Color
-                                                                                                                                           completado
-                                                                              Masa Máxima en cartaTécnicamente                                 "               !                                    plazas de asiento/N.*de    asientos
-                             -                                                Admisiblo (MMTA)                        .             K.2                    TITV vehículo base*                  Oˢⁱˡˡⁱⁿᵒˢ
-                                                                       F.11   Masa           Máxima en carga Técnicamente                               y ruedas                       5.1.4    Cinturonesde    seguridad
-                                                                              Admisiblo 0n cuda eje
-                                                                                                carga         Ténicamonto                      posiciónde                                                       de
-      Reformas en el vehículo / Diligencia de venta                    E16    Masa Máxima en                                                                      con ruedas           $2 22        deplazas dvipie
-                                                                              Admisibleen 6     ruedao    pivote de                                                                             Volocidad máxima
-                                                                   y          acoplamiento                                          LA     Ejos                                        U.1      Nivel sonoro
-                                                                   |   E2     Masa Máxima en carga Admisible del                    L.2    Dimensiones de los neumáticos                                      en parado
-                                                                                  en clrulación (MMA)                               M.1                    entre ejes 12:23,                    nivel      delemotora la que so mide el
-                                                                                                                                                                                                                 sonoro
-                                                                                                                                                                                                                vehículo parado
-                                                                       F2.1   Masa Máxima autorizada          en cada eje
-                                                                              1222                                                         Distancia antro 6.* ruedao
-y|                                                                     F3         Máxima                          Admisible                acoplamiento y óltimo eje     pivote de     V.7      Emisiones de CO,
-                                                                                                                                                                                       Ve       Emisiones de CO
-|                                                                             del conjunto (MMTAC)                                  0.4    Masa     Romolcable con frenosíMasa
-                                                                                                                                           remolcable      técnicamente      del           —        emisiones
-                                                                                                                                                                           admisiblo            Nivelde
-|                                                                      3.1    Masa Máxima Autorizada del Conjunto                          vehículo de motor en caso de:
-|                                                                                                                                                                                      2        Añoy número de orden de la serie cora
++ + + + + + + + + + + + + + + + + + + + + + + + + +
 
-                                                                                                                                                                                       1        Código pdf 417
+**Firma autorizada Registro de fabricantes y firmas autorizadas**
 
-              5
-              5
-            >
-              D
+Ibón Castañares Etxezarreta signature
 
-           ri
-5
-ki         SN
-Z     >    Er
-o     o      PEO
-E         wo
-      =      EEN
-              os
-              de
-EEE La        E
-          +) ona
+**Opciones incluidas en la homologación de tipo**
 
-              o
-              >=
++ + + + + + + + + + + + + + + + + + + +
++ + + + + + + + + + + + + + + + + + + +
++ + + + + + + + + + + + + + + + + + + +
++ + + + + + + + + + + + + + + + + + + +
++ + + + + + + + + + + + + + + + + + + +
 
+7014284
 
+EJEMPLAR PARA EL USUARIO
 
+Centro de Publicaciones. Ministerio de Industria, Energía y Turismo
+Mod. T/ITV/D logo: RCM-FNMT 04/15
 
+---
 
+## **INSPECCIONES TÉCNICAS**
 
+<table><tr><th><strong>Fecha:</strong><br /><strong>Validez:</strong></th><th><strong>Fecha:</strong><br /><strong>Validez:</strong></th><th><strong>Fecha:</strong><br /><strong>Validez:</strong></th></tr>
+<tr><td>Firma y sello</td><td>Firma y sello</td><td>Firma y sello</td></tr>
+<tr><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td></tr>
+<tr><td>Firma y sello</td><td>Firma y sello</td><td>Firma y sello</td></tr>
+<tr><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td></tr>
+<tr><td>Firma y sello</td><td>Firma y sello</td><td>Firma y sello</td></tr>
+<tr><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td><td><strong>Fecha:</strong><br /><strong>Validez:</strong></td></tr>
+<tr><td>Firma y sello</td><td>Firma y sello</td><td>Firma y sello</td></tr>
+<tr><td colspan="3"><strong>Reformas en el vehículo / Diligencia de venta</strong></td></tr></table>
 
+<table><tr><td><strong>A.1</strong> Nombre del fabricante del vehículo base</td><td><strong>F.4</strong> Altura total</td><td><strong>O.1.1</strong> Barra de tracción</td></tr>
+<tr><td><strong>A.2</strong> Dirección del fabricante del vehículo base</td><td><strong>F.5</strong> Anchura total</td><td><strong>O.1.2</strong> Semirremolque</td></tr>
+<tr><td><strong>B.1</strong> Nombre del fabricante del vehículo completado</td><td><strong>F.5.1</strong> Anchura máxima carrozable</td><td><strong>O.1.3</strong> Remolque eje central</td></tr>
+<tr><td></td><td><strong>F.6</strong> Longitud total</td><td><strong>O.1.4</strong> Remolque sin freno</td></tr>
+<tr><td><strong>B.2</strong> Dirección del fabricante del vehículo completado</td><td><strong>F.6.1</strong> Longitud máxima carrozable</td><td><strong>O.2.1</strong> Masa máxima remolcable técnicamente admisible con frenos mecánicos</td></tr>
+<tr><td><strong>C.1</strong> Código ITV</td><td><strong>F.7</strong> Vía anterior</td><td><strong>O.2.2</strong> Masa máxima remolcable técnicamente admisible con frenos de inercia</td></tr>
+<tr><td><strong>C.L</strong> Clasificación del vehículo</td><td><strong>F.7.1</strong> Vía posterior</td><td></td></tr>
+<tr><td><strong>C.V</strong> Control VIN</td><td><strong>F.8</strong> Voladizo posterior</td><td><strong>O.2.3</strong> Masa máxima remolcable técnicamente admisible con frenos hidráulicos o neumáticos</td></tr>
+<tr><td><strong>D.1</strong> Marca</td><td><strong>F.8.1</strong> Voladizo máximo posterior carrozable</td><td></td></tr>
+<tr><td><strong>D.2</strong> Tipo/Variante/Versión</td><td><strong>G</strong> Masa en Orden de Marcha (MOM)</td><td><strong>O.3</strong> Tipo de freno de servicio</td></tr>
+<tr><td><strong>D.3</strong> Denominación comercial del vehículo</td><td><strong>G.1</strong> Masa en vacío para vehículos categoría L</td><td><strong>P.1</strong> Cilindrada</td></tr>
+<tr><td><strong>D.6</strong> Procedencia</td><td><strong>G.2</strong> Masa Mínima Admisible del vehículo completado</td><td><strong>P.1.1</strong> Número y disposición de los cilindros</td></tr>
+<tr><td><strong>E</strong> Número de identificación del vehículo</td><td><strong>J</strong> Categoría del vehículo</td><td><strong>P.2</strong> Potencia del motor</td></tr>
+<tr><td><strong>EP</strong> Estructura de protección</td><td><strong>J.1</strong> Carrocería del vehículo</td><td><strong>P.2.1</strong> Potencia fiscal</td></tr>
+<tr><td><strong>EP.1</strong> Marca de la estructura de protección</td><td><strong>J.2</strong> Clase</td><td><strong>P.3</strong> Tipo de combustible o fuente de energía</td></tr>
+<tr><td><strong>EP.2</strong> Modelo de la estructura de protección</td><td><strong>J.3</strong> Volumen de bodegas</td><td><strong>P.5</strong> Código de identificación del motor</td></tr>
+<tr><td><strong>EP.3</strong> N.º de homologación de la estructura de protección</td><td><strong>K</strong> Número de homologación del vehículo base</td><td><strong>P.5.1</strong> Fabricante o marca del motor</td></tr>
+<tr><td><strong>EP.4</strong> N.º identificativo de la estructura de protección</td><td><strong>K.1</strong> Número de homologación del vehículo completado</td><td><strong>Q</strong> Relación potencia/masa</td></tr>
+<tr><td><strong>F.1</strong> Masa Máxima en carta Técnicamente Admisible (MMTA)</td><td><strong>K.2</strong> N.º certificado TITV vehículo base</td><td><strong>R</strong> Color</td></tr>
+<tr><td><strong>F.1.1</strong> Masa Máxima en carga Técnicamente Admisible en cada eje 1.º/2.º/3.º</td><td><strong>L</strong> N.º de ejes y ruedas</td><td><strong>S.1</strong> N.º de plazas de asiento/N.º de asientos o sillines</td></tr>
+<tr><td><strong>F.1.5</strong> Masa Máxima en carga Técnicamente Admisible en 5.ª rueda o pivote de acoplamiento</td><td><strong>L.0</strong> N.º y posición de ejes con ruedas gemelas</td><td><strong>S.1.1</strong> Cinturones de seguridad</td></tr>
+<tr><td><strong>F.2</strong> Masa Máxima en carga Admisible del vehículo en circulación (MMA)</td><td><strong>L.1</strong> Ejes motrices</td><td><strong>S.2</strong> N.º de plazas de pie</td></tr>
+<tr><td><strong>F.2.1</strong> Masa Máxima autorizada en cada eje 1.º/2.º/3.º</td><td><strong>L.2</strong> Dimensiones de los neumáticos</td><td><strong>T</strong> Velocidad máxima</td></tr>
+<tr><td><strong>F.3</strong> Masa Máxima Técnicamente Admisible del conjunto (MMTAC)</td><td><strong>M.1</strong> Distancia entre ejes 1.º-2.º, 2.º-3.º</td><td><strong>U.1</strong> Nivel sonoro en parado</td></tr>
+<tr><td><strong>F.3.1</strong> Masa Máxima Autorizada del Conjunto (MMC)</td><td><strong>M.4</strong> Distancia entre 5.ª rueda o pivote de acoplamiento y último eje</td><td><strong>U.2</strong> Velocidad del motor a la que se mide el nivel sonoro a vehículo parado</td></tr>
+<tr><td></td><td><strong>O.1</strong> Masa Remolcable con frenos/Masa remolcable técnicamente admisible del vehículo de motor en caso de:</td><td><strong>V.7</strong> Emisiones de CO<sub>2</sub></td></tr>
+<tr><td></td><td></td><td><strong>V.8</strong> Emisiones de CO</td></tr>
+<tr><td></td><td></td><td><strong>V.9</strong> Nivel de emisiones</td></tr>
+<tr><td></td><td></td><td><strong>Z</strong> Año y número de orden de la serie corta</td></tr>
+<tr><td></td><td></td><td><strong>{1}</strong> Código pdf 417</td></tr></table>
 
-                                %
-                                el
-                                u
-                               E
-          le)               x| 185
-          |  19             =
-              z             E   z
-             LA             S   |
-              z             3   Esᵁ
-     Ni       q             ax
-     S| N                   >   >
-     "|
-             Sa
-5           312    e
-         IA     3ᴬ 14| 3       =
+---
 
- »  +
- 3E  ARANA  E
- eE  |
- 12/82 EE  3  O
- HEEE)
+<table><tr><td>A</td><td>9305LMG</td></tr>
+<tr><td>B</td><td></td></tr>
+<tr><td>H</td><td></td></tr>
+<tr><td>I</td><td>22-01-2021</td></tr>
+<tr><td>(I.1)</td><td>22-01-2021</td></tr>
+<tr><td>(I.2)</td><td>MADRID</td></tr>
+<tr><td>C.1.1</td><td>LEASE PLAN SERVICIOS SA</td></tr>
+<tr><td>C.1.2</td><td></td></tr>
+<tr><td>C.1.3</td><td></td></tr>
+<tr><td>C.4</td><td>c</td></tr>
+<tr><td>D.1</td><td>ERKE</td></tr>
+<tr><td>D.2</td><td>EPT01 / F / YHYCG2F021WX</td></tr>
+<tr><td>D.3</td><td>PARTNER</td></tr>
+<tr><td>(D.4)</td><td>PARTICULAR - SIN ESPECIFICAR</td></tr></table>
 
- +  | |  E  y
- 17   18181 581215 E  18$1  1348  :  o
- NEC  e  Ea:  el
- 28
- 8/8]  :  E  ::  [o]
- a
- :  ElEL  S   E  :   a.
+<table><tr><td>E</td><td>VR3EFYHYCLN564518</td></tr>
+<tr><td>F.1</td><td>1985</td></tr>
+<tr><td>F.2</td><td>1985</td></tr>
+<tr><td>G</td><td>1452</td></tr>
+<tr><td>K</td><td>E9*NKS*11275*01</td></tr>
+<tr><td>P.1</td><td>1499</td></tr>
+<tr><td>P.2</td><td>75.0</td></tr>
+<tr><td>P.3</td><td>DIESEL</td></tr>
+<tr><td>Q</td><td></td></tr>
+<tr><td>S.1</td><td>2</td></tr>
+<tr><td>S.2</td><td></td></tr></table>
 
- $  o
+**OBSERVACIONES:**
+Documento válido si acompaña ITV en vigor
+Próxima ITV: 22-01-2023
 
+M 0
 
+---
 
+## **DESCRIPCIÓN DE LOS CÓDIGOS**
 
+<table><tr><td>A</td><td>Número de matrícula</td></tr>
+<tr><td>B</td><td>Fecha de primera matriculación</td></tr>
+<tr><td>C.1.1</td><td>Apellidos o razón social</td></tr>
+<tr><td>C.1.2</td><td>Nombre</td></tr>
+<tr><td>C.1.3</td><td>Domicilio</td></tr>
+<tr><td>C.4</td><td>(c) No está identificado en el permiso de circulación como propietario del vehículo</td></tr>
+<tr><td>D.1</td><td>Marca</td></tr>
+<tr><td>D.2</td><td>Tipo/Variante/Versión (si procede)</td></tr>
+<tr><td>D.3</td><td>Denominación comercial</td></tr>
+<tr><td>(D.4)</td><td>Servicio a que se destina</td></tr>
+<tr><td>E</td><td>Número de identificación</td></tr>
+<tr><td>F.1</td><td>Masa máxima en carga técnicamente admisible (en kg) (excepto para motocicletas)</td></tr>
+<tr><td>F.2</td><td>Masa máxima en carga admisible del vehículo en circulación en España (en kg)</td></tr>
+<tr><td>G</td><td>Masa del vehículo en servicio con carrocería, y con dispositivo de acoplamiento si se trata de un vehículo tractor de categoría distinta a la M-1 (en kg)</td></tr>
+<tr><td>H</td><td>Período de validez de la matriculación, si no es ilimitado</td></tr>
+<tr><td>I</td><td>Fecha de matriculación a la que se refiere el presente permiso</td></tr>
+<tr><td>(I.1)</td><td>Fecha de expedición</td></tr>
+<tr><td>(I.2)</td><td>Lugar de expedición</td></tr>
+<tr><td>K</td><td>Número de homologación (si procede)</td></tr>
+<tr><td>P.1</td><td>Cilindrada (en cm<sup>3</sup>)</td></tr>
+<tr><td>P.2</td><td>Potencia neta máxima (en kW) (si procede)</td></tr>
+<tr><td>P.3</td><td>Tipo de combustible o de fuente de energía</td></tr>
+<tr><td>Q</td><td>Relación potencia/peso (en kW/kg) (únicamente para motocicletas)</td></tr>
+<tr><td>S.1</td><td>Número de plazas de asiento, incluido el asiento del conductor</td></tr>
+<tr><td>S.2</td><td>Número de plazas de pie (en su caso)</td></tr></table>
 
+logo: Coat of arms of Spain
 
+## **REINO DE ESPAÑA**
 
+icon: Flag of the European Union
 
+**MINISTERIO DEL INTERIOR**
+**DIRECCIÓN GENERAL DE TRÁFICO**
 
+## **PERMISO DE CIRCULACIÓN**
 
+<table><tr><td>Свидетелство за управление</td><td>Registracijos liudijimas</td></tr>
+<tr><td>Osvědčení o registraci</td><td>Forgalmai engedély</td></tr>
+<tr><td>Registreringsattest</td><td>Certifikat ta' Registrazzjoni</td></tr>
+<tr><td>Zulassungsbescheinigung</td><td>Kentekenbewijs</td></tr>
+<tr><td>Registreerimistunnistus</td><td>Dowód Rejestracyjny</td></tr>
+<tr><td>'Αδειά κυκλοφορίας/</td><td>Certificado de matrícula</td></tr>
+<tr><td>Πιστοποιητικό Εγγραφής</td><td>Certificatul de înmatriculare</td></tr>
+<tr><td>Registration certificate</td><td>Osvedčenie o evidencii</td></tr>
+<tr><td>Certificat d'immatriculation</td><td>Prometno dovoljenje</td></tr>
+<tr><td>Teastas Cláraithe</td><td>Rekisteröintitodistus</td></tr>
+<tr><td>Prometna dozvola</td><td>Registreringsbeviset</td></tr>
+<tr><td>Carta di circolazione</td><td></td></tr>
+<tr><td>Registrācijas apliecība</td><td></td></tr></table>
 
- O
- >   O
- S  Ei E: eN  u
- E  O 67  mu  7
- AECI  4  O)
- o  E
-bo  CORD   m  2  *  *  YN  MENᵃ
- 50  Mel  *
-Es  o)  y  O  *  *  E  En
-E=   5  > EL  Me  > *  pro  -
- 5
- =  Cc   eE  >
- O  Mii Co ES  TE
- A.  Z
-Es TEO.
-Ea EA  SN
- =>  O  .
+## **COMUNIDAD EUROPEA**
 
- 2          uno
- b     o     25
-          o   o
-       >    528
- a    ra
-=8          OEA
+**20-00360303** code: 20-00360303
 
- o        o    |   !
- 3
-            0.2
- 3                 |
- 8            5     |
- 8    2:           |
+logo: RCM-FNMT
 
+---
 
+logo: Ministerio de Interior logo: DGT Dirección General de Tráfico
 
-!
-MaSs  855585  o   q  A  ||  1|
-so 2505  a  |
-8  es
-E  oe  IS  RA.  a
-EN  E  7  KE]y   74
-38  vr  e  *   79Y  Y 1
-MO
+## **Apreciado/a titular:**
 
-5
-Ssᵉ₃   cultas  >  |
-Hu
-352
-oq  2  >=
-E!  5D  y  |
-y  om  —
-EC
-9858025  |
-E  EEE
-3
+El distintivo ambiental que se le entrega corresponde a una de las siguientes categorías establecidas por la DGT:
 
-E
-5
+* Vehículos de 0 emisiones, ECO, C y B.
 
-2 eya
-|  v5  7 E
-HA  [EN :₈  5  Y
-dia  FEE
-FEE
-u  >  E  ez
-i  o  |
-S  E  e8  ||
-yus  2E".  E
-v5  5  |
-585  vs
-EA  PI  =
-ES  <u  ES
+La inclusión de un vehículo en una categoría u otra viene determinada, por el combustible empleado y el nivel de emisiones que conste anotado en el Registro de Vehículos de la Dirección General de Tráfico.
 
->  5   e   HÍ
-=  ME
-Si
-Ea  DS  >
-E  Se
-a
-a  |
+El lugar de ubicación del distintivo ambiental será, bien en el ángulo inferior derecho del parabrisas delantero, si se dispone de él, bien en cualquier sitio visible del vehículo. De esta forma, las autoridades locales identificarán de forma inmediata la categoría ambiental a la que pertenece su vehículo, y en su caso, podrán permitirle disfrutar de las ventajas o incentivos previstos en cada momento.
 
-|
+Para mayor información consulte la página web: <u>www.dgt.es</u>.
+
+Gracias por contribuir a una movilidad más sostenible y segura.
+
+code: circular sticker with QR code, barcode, and text
+
+**9305LMG**
+
+*Dirección General de Tráfico*
+
+www.dgt.es

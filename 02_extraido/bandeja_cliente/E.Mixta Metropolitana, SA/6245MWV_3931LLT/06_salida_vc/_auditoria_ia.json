@@ -1,0 +1,16 @@
+{
+  "huella": "1a276d0dcc9d73ddaea4fb3da70840fe78781b50672214070ea6bf017720c089",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3931LLT ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 3931LLT (SEAT Arona) a la arrendadora LeasePlan/Ayvens, válida como justificante de salida del vehículo sustituido."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "8b2e34ab65b650013293096054486e99082049da98de538ecd3d67e26d8d0fdf",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1066A2827802674000000522024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor coincidente y titular CANALIZACIONES CIVILES SAU (A12013561)."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "ce220c059fb7bde1b0de2ede9d297c1deb82c4280febc505de99025a6aa87106",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5996LKM ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva a Ayvens del vehículo 5996LKM con bastidor coincidente, válida como justificante de salida del vehículo sustituido."
+  }
+}

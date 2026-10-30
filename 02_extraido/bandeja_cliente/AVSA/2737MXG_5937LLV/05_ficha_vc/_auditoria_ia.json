@@ -1,0 +1,16 @@
+{
+  "huella": "4291d0e74bc57fe824189c7c989eea204f6b56ff54da0ef644da312311fe2b6d",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA5937LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 5937LLV con bastidor VR3EFYHYCLN564487, categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

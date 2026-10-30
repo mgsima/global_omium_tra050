@@ -1,0 +1,16 @@
+{
+  "huella": "ab117042b74fa693bcf4304ecc5fd7d8a3fe23c09ce062153a45752d19a31572",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1485LSB ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva a Ayvens (arrendadora) con matrícula 1485LSB y bastidor VF1RJL00567260804 coincidentes."
+  }
+}

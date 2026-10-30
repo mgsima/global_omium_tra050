@@ -1,0 +1,17 @@
+{
+  "huella": "9589bc48458560581ed4e10cbb2976f9b18d9da5a67ba2e21d223e74889128df",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7015LLV CONTRATO.pdf",
+    "MA7015LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con el vehículo 7015LLV y titular EMPRESA GENERAL VALENCIANA DEL AGUA, válido para acreditar la posesión."
+  }
+}

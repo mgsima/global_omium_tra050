@@ -1,0 +1,16 @@
+{
+  "huella": "b0bed4f067cc33399e97f2d41b900f3aee1a6f49875bde174932784bc3916f76",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1203A2827802674000002472024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYA5RT153040 a nombre de EMPRESA MIXTA METROPOLITANA SA (A98104763), con desglose de IVA."
+  }
+}

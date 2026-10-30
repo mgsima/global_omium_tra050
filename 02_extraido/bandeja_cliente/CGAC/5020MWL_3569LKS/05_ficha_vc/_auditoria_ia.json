@@ -1,0 +1,16 @@
+{
+  "huella": "e5def18094891cc91bf46d6673ca4d26588ef3ce4271b2045fe1ef1eb5c50696",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3569LKS FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Se aporta la ficha técnica y el permiso de circulación del vehículo 3569LKS con bastidor WV1ZZZ2KZLX066196, categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (actual Ayvens)."
+  }
+}

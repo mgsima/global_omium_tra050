@@ -1,0 +1,17 @@
+{
+  "huella": "70bbbca7c7c15f2d4fc9c7bb57df1210814da5e5ed544fc217e0d0b14bb0afb7",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9428LKC FICHA Y PERMISO.pdf",
+    "MA9428LKC.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del SEAT Arona 9428LKC (bastidor VSSZZZKJZLR200710) con categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

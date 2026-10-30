@@ -1,0 +1,17 @@
+{
+  "huella": "2292695b849a7117e8cf662ad4551cc711222862e4ae2a5b940bc5d8eb2b3d46",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0818LKK CONTRATO.pdf",
+    "0818LKK FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting del vehículo 0818LKK (VSSZZZKJZLR194715) a nombre de MEDICION AVANZADA DE CONTADORES SA con LeasePlan (hoy Ayvens), válido para acreditar la posesión."
+  }
+}

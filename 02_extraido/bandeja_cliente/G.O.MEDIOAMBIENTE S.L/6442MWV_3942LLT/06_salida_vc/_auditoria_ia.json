@@ -1,0 +1,16 @@
+{
+  "huella": "e72e81213b76df0ef57c85f2b655cdb88acf254aa56a7d31a954e8f8f3cf231c",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3942LLT ACTA DEVO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 3942 LLT a la arrendadora (LeasePlan/Ayvens), válida como justificante de salida del vehículo sustituido."
+  }
+}

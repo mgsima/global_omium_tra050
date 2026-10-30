@@ -1,0 +1,16 @@
+{
+  "huella": "aed7169c2c1cf179c172c0acf2a6122644e0a638f9265e0de6615f3e4c648d44",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "8066LKY ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva a la arrendadora (LeasePlan/Ayvens) del vehículo 8066LKY, firmada y fechada, válida como justificante de salida del vehículo sustituido."
+  }
+}

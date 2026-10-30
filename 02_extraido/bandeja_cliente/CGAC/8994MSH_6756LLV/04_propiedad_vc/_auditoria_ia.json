@@ -1,0 +1,17 @@
+{
+  "huella": "c3472054022368002fafb1e3177d6d1ba21622812efbbb8287ecf16e4ed04255",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6756LLV CONTRATO.pdf",
+    "MA6756LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) a nombre de COMPANYIA GENERAL D AIGUES CATALUNYA SA para el vehículo 6756LLV con bastidor VR3EFYHYCLN564546, con plazo de 48 meses."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "2030aefc40b60b084354b87419ba7c5102be779c44d1d8ca6758d6a5c58828a8",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA5918LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 5918LLV (PEUGEOT PARTNER, bastidor VR3EFYHYCLN564159) con categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

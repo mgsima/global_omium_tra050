@@ -1,0 +1,16 @@
+{
+  "huella": "00283331929753ee79e2de36c9ec7d218e39d101dbdf19efb4c1717dba24328d",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5255LKX ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución de renting del vehículo 5255LKX (matrícula con error OCR de un carácter) a nombre de Global Omnium, válida como justificante de salida."
+  }
+}

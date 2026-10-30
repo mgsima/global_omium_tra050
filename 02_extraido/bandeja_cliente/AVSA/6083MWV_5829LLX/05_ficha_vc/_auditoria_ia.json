@@ -1,0 +1,16 @@
+{
+  "huella": "85887d0ad1708f6c28aef98e1545d95fcb8d7abf48fb16ea5fd797945676590e",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5829LLX FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica (tarjeta ITV) del SEAT Arona 5829LLX con bastidor VSSZZZKJZMR018454, categoría M1 y combustible gasolina, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

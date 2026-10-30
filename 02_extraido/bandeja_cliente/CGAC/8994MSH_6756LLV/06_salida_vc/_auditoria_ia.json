@@ -1,0 +1,16 @@
+{
+  "huella": "99eb6d8eb2772d5d20ffd1995dd88ab676ad3ca11401775125f7857a9f377223",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6756LLV ACTA  BAJA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El documento es una propuesta de baja/resolución de contrato de renting de LeasePlan, no el acta de devolución definitiva firmada ni la baja en DGT ni la venta a tercero; falta el justificante de salida efectiva del vehículo."
+  }
+}

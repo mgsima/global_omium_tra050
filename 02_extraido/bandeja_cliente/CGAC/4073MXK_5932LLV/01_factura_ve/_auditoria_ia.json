@@ -1,0 +1,16 @@
+{
+  "huella": "0b3e6a329775408d3cf3c25ab0dd3bdd0212665ad33887fd43b3d72cdc5ff3a6",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1505A4604951674000001692024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VF1RFK00073824878, desglose de IVA y titular COMPAÑIA GENERAL DE AIGUES DE CATALUÑA (A60401585)."
+  }
+}

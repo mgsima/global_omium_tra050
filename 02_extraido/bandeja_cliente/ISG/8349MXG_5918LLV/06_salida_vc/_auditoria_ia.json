@@ -1,0 +1,16 @@
+{
+  "huella": "a6b5ae0f07254227899cc822105a5a86292933918c5705c4a8e709abf2fb7815",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5918LLV ACTA BAJA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de baja/devolución del vehículo 5918LLV de LeasePlan (Ayvens) a nombre de Implantaciones de Sistemas de Gestión, válida como justificante de salida del vehículo sustituido."
+  }
+}

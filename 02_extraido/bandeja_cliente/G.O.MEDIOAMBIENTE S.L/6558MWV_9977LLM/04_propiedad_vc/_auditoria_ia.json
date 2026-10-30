@@ -1,0 +1,17 @@
+{
+  "huella": "947d9ef90897a5f793c2b19f08182a336fbd34c628fa111d9028af2d3e6a7e4b",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9977LLM CONTRATO.pdf",
+    "MA9977LLM (1).pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) del vehículo 9977LLM con bastidor VF1WK000666300912 a nombre de Global Omnium Medioambiente SL, con plazo de 48 meses."
+  }
+}

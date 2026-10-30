@@ -1,0 +1,17 @@
+{
+  "huella": "136ac6bbaadc4ee03147d885aaacc0c0524d9b7fe8be07e0b8543ed6dabee9ee",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0251LLK CONTRATO.pdf",
+    "0251LLK FICHA TECNICA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) a nombre de COMPANYIA GENERAL D AIGUES CATALUNY para el vehículo 0251LLK con bastidor VSSZZZKJZLR203385, con plazo de 48 meses."
+  }
+}

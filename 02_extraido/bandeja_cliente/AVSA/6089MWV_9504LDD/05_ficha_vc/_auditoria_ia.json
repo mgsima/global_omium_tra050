@@ -1,0 +1,16 @@
+{
+  "huella": "d56efe3e6635bbfad2b18880a3fec1a90eb9c5564666277c0ebc32cf9af5a6ae",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA9504LDD (1).pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 9504LDD (OPEL GRANDLAND X, bastidor W0VZCYHZ9KS299307) con categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

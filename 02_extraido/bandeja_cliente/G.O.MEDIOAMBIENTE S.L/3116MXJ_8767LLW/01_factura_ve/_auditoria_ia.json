@@ -1,0 +1,16 @@
+{
+  "huella": "61fb6a0891cb3108f3558ffb6af925d2aa62ca258604475c0b12915798034f72",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1004A4604951674000001242024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VF1RFK00673934284 y titular GLOBAL OMNIUM MEDIOAMBIENTE SL (B46017018), con desglose de IVA."
+  }
+}

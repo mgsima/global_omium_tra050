@@ -1,0 +1,16 @@
+{
+  "huella": "ff78d066e8a39c68d4d00f49c4b08e587b32f34fa2e46948a08e12197b0347ad",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0019LLR ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución de renting del vehículo 0019LLR SEAT LEON a nombre de AGUES DE CATALUNYA (AGAC), válida como justificante de salida."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "f3e2ec44282edd74b23c1e00b91131233733ebb16330c0f6eb061b8ff447e422",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7017KWW ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 7017KWW a la arrendadora (LeasePlan/Ayvens) con usuario AGUAS DE VALENCIA; documento válido para la carpeta."
+  }
+}

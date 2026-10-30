@@ -1,0 +1,16 @@
+{
+  "huella": "b85d7ae180a849cf39085745ba170f491c58e9c00af4e523cac2769e6c0b8e39",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5243LKX FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica (tarjeta ITV) del SEAT ARONA matrícula 5243LKX y bastidor VSSZZZKJZLR203420, categoría M1 y combustible gasolina (M/D), coincide con el vehículo sustituido."
+  }
+}

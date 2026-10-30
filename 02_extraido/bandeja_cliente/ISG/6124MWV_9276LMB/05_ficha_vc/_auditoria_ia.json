@@ -1,0 +1,16 @@
+{
+  "huella": "6841d3411c9371d9778cb7d0cb0cd17f779206be44aa503bd66209569990ab70",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA9276LMB.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV y permiso de circulación del SEAT Arona 9276LMB (bastidor VSSZZZKJZMR051309), categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

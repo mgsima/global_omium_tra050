@@ -1,0 +1,16 @@
+{
+  "huella": "3641c9fcb986b3577ef47c896c96d4fbffeb74a41f95f7914a5dc713a3bd1879",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1200A2827802674000000862024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYA5RT154432 a nombre de EMPRESA MIXTA VALENCIANA DE AGUAS, S. (A97197511), con desglose de IVA."
+  }
+}

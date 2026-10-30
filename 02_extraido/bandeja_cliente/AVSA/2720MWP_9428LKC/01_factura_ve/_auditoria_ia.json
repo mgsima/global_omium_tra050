@@ -1,0 +1,16 @@
+{
+  "huella": "8425822c9b1f420f6c18f3caf02971ed86bd8db5cd04a6a13265aa825099386b",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1001A2827802674000003682024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYA5RT152213 a nombre de Aguas de Valencia S.A. (A46000477), con desglose de IVA."
+  }
+}

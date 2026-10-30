@@ -1,102 +1,114 @@
 ---
 documento_origen: "9276LMB ACTA DEVOLUCION.pdf"
 original: "[[data/global_omium_tra050/01_entrada/BAJAS/9276LMB/9276LMB ACTA DEVOLUCION.pdf]]"
+conversion: "LlamaParse agentic 2026-10-30"
 ---
 
-# LeasePlan
-
-# ACTA DE DEVOLUCIÓN
+## ACTA DE DEVOLUCIÓN
 
 **EL CONDUCTOR/CLIENTE y EL PUNTO DE DEVOLUCIÓN DEBERÁN DEVOLVERLA FIRMADA AL:**
-EMAIL devolucion.vehiculos@leaseplan.es
+**EMAIL** devolucion.vehiculos@leaseplan.es
 
-**Fecha de Devolución**
-Día/mes/año/ 5 / 2 / 25 Hora: 10:49 Persona que recepciona [___]
-Compañía que recepciona [___]
+### Fecha de Devolución
 
-**Datos del Cliente y Persona que realiza la entrega**
+**Día/mes/año:** 5/12/25
+**Hora:** 10:49
+**Persona que recepciona:** W
+**Compañía que recepciona:**
+
+### Datos del Cliente y Persona que realiza la entrega
+
 **Nombre del Cliente (Compañía):** PABLO MARTINEZ GONZALEZ
 **Nombre y Apellidos (Usuario/Conductor):** GLOBAL OMNIUM
-**D.N.I.:** 25414350-U
-**Teléfono Fijo/Móvil:** 669811977
+**D.N.I.:** 25414350-V
+**Teléfono Fijo/Móvil:** 669815977
 
-**Datos del Vehículo**
-**Matrícula:** 9276 LMP **Kilómetros:** 98773
-**Combustible:** [x] Gas-oil [ ] Gasolina
-[ ] 0 [ ] 1/4 [ ] 1/2 [ ] 3/4 [x] Lleno
-**Marca:** SEAT **Color:** Blanco
-**Modelo y Versión:** Arona
+### Datos del Vehículo
 
-----
+**Matrícula:** 9276LMB
+**Kilómetros:** 98722
+**Combustible:** Gas-oil / Gasolina
+**0 – 1/4 – 1/2 – 3/4 – Lleno**
+**Marca:** SCOT
+**Color:** Blanco
+**Modelo y Versión:** A2002
 
-**Daños Exteriores** (Marque la casilla correspondiente)
-*Parte delantera*
-1. Parabrisas [x] Sin Daños [ ] Con Daños
-2. Capó [x] Sin Daños [ ] Con Daños
-3. Paragolpes [x] Sin Daños [ ] Con Daños
-4. Faros delanteros [x] Sin Daños [ ] Con Daños
-*Costado izquierdo*
-5. Aletas y puertas [x] Sin Daños [ ] Con Daños
-*Parte trasera*
-6. Capó o portón [x] Sin Daños [ ] Con Daños
-7. Luneta trasera [x] Sin Daños [ ] Con Daños
-8. Paragolpes [x] Sin Daños [ ] Con Daños
-9. Faros traseros [x] Sin Daños [ ] Con Daños
-*Costado derecho*
-10. Aletas y puertas [x] Sin Daños [ ] Con Daños
-*Bajos/Altos*
-11. Llantas y tapacubos [x] Sin Daños [ ] Con Daños
-12. Techo / Capota [x] Sin Daños [ ] Con Daños
-13. Antena [x] Sin Daños [ ] Con Daños
+<hr/>
 
-----
+**Todo vehículo debe entregarse en su original, estado físico y mecánico con excepción del desgaste normal debido al uso**
 
-**Datos del Acta de Devolución sujetos a peritación física posterior, por parte de compañía de peritaciones independiente.**
+### Daños Exteriores
+*(Marque la casilla correspondiente)*
 
-Diagrama del vehículo con números de referencia para daños
+**Sin Daños / Con Daños**
 
-----
+**Parte delantera**
+* [ ] 1. Parabrisas
+* [ ] 2. Capó
+* [ ] 3. Paragolpes
+* [ ] 4. Faros delanteros
 
-**Daños Interiores** (Marque la casilla correspondiente)
-Palanca/Volante [x] Sin Daños [ ] Con Daños
-Tapicería asientos [x] Sin Daños [ ] Con Daños
-Tejido techo [x] Sin Daños [ ] Con Daños
-Moqueta [x] Sin Daños [ ] Con Daños
-Alfombrillas [x] Sin Daños [ ] Con Daños
-Guarnecido de puertas [x] Sin Daños [ ] Con Daños
-Salpicadero [x] Sin Daños [ ] Con Daños
-Bandeja Trasera [x] Sin Daños [ ] Con Daños
+**Costado izquierdo**
+* [ ] 5. Aletas y puertas
 
-**Material Entregado**
-Ficha técnica [x] SI [ ] NO
-Permiso de Circulación [x] SI [ ] NO
-Libro de Mantenimiento [x] SI [ ] NO
-Manual del Fabricante [x] SI [ ] NO
-Tarjeta de Transporte [x] SI [ ] NO
-Recibo del seguro [x] SI [ ] NO
-Segundo juego de llaves [x] SI [ ] NO
-Cenicero/Mechero [x] SI [ ] NO
-Radio CD/MP3/DVD [x] SI [ ] NO
-CD Navegador/tarjeta SD [x] SI [ ] NO
-Tornillo Antirrobo [x] SI [ ] NO
-Rueda de repuesto/Kit anti pinchazos. [x] SI [ ] NO
+**Parte trasera**
+* [ ] 6. Capó o portón
+* [ ] 7. Luneta trasera
+* [ ] 8. Paragolpes
+* [ ] 9. Faros traseros
 
-----
+**Costado derecho**
+* [ ] 10. Aletas y puertas
 
-**Conforme Cliente/Conductor** (Observaciones)
-Fecha/Hora/Firma
+**Bajos/Altos**
+* [ ] 11. Llantas y tapacubos
+* [ ] 12. Techo / Capota
+* [ ] 13. Antena
 
-**Conforme Punto de Devolución** (Observaciones)
-Fecha/Hora/Firma
+drawing: car diagram with side view labels 5, 11
 
-**Conforme Transporte** (Observaciones)
-Fecha/Hora/Firma
+### Datos del Acta de Devolución sujetos a peritación física posterior, por parte de compañía de peritaciones independientes.
 
-**Conforme Centro Logístico** (Observaciones)
-Rotulado
-Fecha/Hora/Firma
+drawing: car diagram with top and rear view labels 1-13
 
-*SIEMPRE ES OBLIGATORIA LA FIRMA DEL CONDUCTOR/CLIENTE Y DE LA PERSONA QUE RECEPCIONA EL VEHÍCULO.
-Te comunicamos que tus datos serán tratados de acuerdo con lo previsto en el Reglamento General 2016/679 de Protección de Datos (RGPD), así como en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa que lo complemente. Estos datos serán tratados con absoluta confidencialidad y utilizados por LeasePlan para la correcta prestación del servicio contratado. Podrás ejercitar los derechos de acceso, rectificación, cancelación, supresión, limitación y portabilidad de los datos facilitados, así como de oposición al tratamiento de los mismos, mediante envío de correo electrónico: privacyofficer@leaseplan.es
+### Daños Interiores
+*(Marque la casilla correspondiente)*
+
+**Sin Daños / Con Daños**
+
+* [ ] Palanca/Volante
+* [ ] Tapicería asientos
+* [ ] Tejido techo
+* [ ] Moqueta
+* [ ] Alfombrillas
+* [ ] Guarnecido de puertas
+* [ ] Salpicadero
+* [ ] Bandeja Trasera
+
+### Material Entregado **SI / NO**
+
+* [ ] Ficha técnica
+* [ ] Permiso de Circulación
+* [ ] Libro de Mantenimiento
+* [ ] Manual del Fabricante
+* [ ] Tarjeta de Transporte
+* [ ] Recibo del seguro
+* [ ] Segundo juego de llaves
+* [ ] Cenicero/Mechero
+* [ ] Radio CD/MP3/DVD
+* [ ] CD Navegador/tarjeta SD
+* [ ] Tornillo Antirrobo
+* [ ] Rueda de repuesto/Kit anti pinchazos.
+
+drawing: car diagram with side view labels 10, 11
+
+<hr/>
+
+<table><tr><th><strong>Conforme Cliente/Conductor*</strong><br /><strong>(Observaciones)</strong></th><th><strong>Conforme Punto de Devolución</strong><br /><strong>(Observaciones)</strong></th><th><strong>Conforme Transporte</strong><br /><strong>(Observaciones)</strong></th><th><strong>Conforme Centro Logístico</strong><br /><strong>(Observaciones)</strong></th></tr>
+<tr><td><strong>Fecha/Hora/Firma</strong>: </td><td><strong>Fecha/Hora/Firma</strong>: </td><td><strong>Fecha/Hora/Firma</strong>: </td><td><strong>Fecha/Hora/Firma</strong>: </td></tr></table>
+
+\*SIEMPRE ES OBLIGATORIA LA FIRMA DEL CONDUCTOR/CLIENTE Y DE LA PERSONA QUE RECEPCIONA EL VEHICULO.
+
+Te comunicamos que tus datos serán tratados de acuerdo con lo previsto en el Reglamento General 2016/679 de Protección de Datos (RGPD), así como en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa que lo complemente. Estos datos serán tratados con absoluta confidencialidad y utilizados por LeasePlan para la correcta prestación del servicio contratado. Podrás ejercer los derechos de acceso, rectificación, cancelación, supresión, limitación y portabilidad de los datos facilitados, así como de oposición al tratamiento de los mismos, mediante envío de correo electrónico: privacidad@leaseplan.es"
 
 Ejemplar para Conductor / Cliente

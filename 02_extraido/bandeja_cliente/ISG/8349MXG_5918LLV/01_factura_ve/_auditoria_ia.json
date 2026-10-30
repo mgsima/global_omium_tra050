@@ -1,0 +1,16 @@
+{
+  "huella": "caf52f2e4f410ff842dbd555961a45a1535ac0688b71110a1f6702c6aa2e9f69",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1053A4604951674000000332024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VF1RFK00373934291 y titular IMPLANTACIÓN DE SISTEMAS DE GESTIÓN, SL (B96922513), con desglose de IVA."
+  }
+}

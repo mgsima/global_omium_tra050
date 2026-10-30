@@ -1,0 +1,16 @@
+{
+  "huella": "2a8d21904b251b5958a0ce681037097ffbfd61599ff5aaacb5334b6493adae98",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1451LDY FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 1451LDY con bastidor W0VZCYHZ9L6009366, categoría M1 y combustible gasolina (P.3 M/D), coincide con el vehículo sustituido."
+  }
+}

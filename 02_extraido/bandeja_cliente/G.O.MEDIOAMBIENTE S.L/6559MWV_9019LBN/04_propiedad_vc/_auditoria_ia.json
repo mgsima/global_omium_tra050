@@ -1,0 +1,17 @@
+{
+  "huella": "6286286ee376ced8d927ac63e40d59b00f9894bd56b91a9158de15ed74082332",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9019LBN CONTRATO.pdf",
+    "9019LBN FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) a nombre de Global Omnium Medioambiente para el vehículo 9019LBN con bastidor W0VBD6EN8KG393492, y permiso de circulación a nombre de la arrendadora."
+  }
+}

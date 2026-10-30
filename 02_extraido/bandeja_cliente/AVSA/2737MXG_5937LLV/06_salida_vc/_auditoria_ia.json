@@ -1,0 +1,16 @@
+{
+  "huella": "415d44799b84d339f7bcfcd939ad67bbc95e44b47883247cb1c8e3e4c422db8f",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5937LLV ACTA BAJA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El documento es una carta de siniestro total y cancelación del contrato de LeasePlan, no el justificante de salida del vehículo (baja DGT, venta o devolución de renting) que se solicita."
+  }
+}

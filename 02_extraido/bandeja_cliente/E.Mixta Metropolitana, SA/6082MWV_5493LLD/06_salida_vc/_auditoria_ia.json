@@ -1,0 +1,16 @@
+{
+  "huella": "b3cb8180a6b078009e63f76253cee59eff375ab6b2dc4d99f3318817d5a53472",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5493LLD ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": false,
+    "titular_coincide": false,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "El acta de devolución es de LeasePlan/Ayvens pero la matrícula leída (5492 LLO) y el cliente (GMINET) no coinciden con los esperados (5493LLD, E.Mixta Metropolitana); posible error de OCR, conviene verificar el PDF original."
+  }
+}

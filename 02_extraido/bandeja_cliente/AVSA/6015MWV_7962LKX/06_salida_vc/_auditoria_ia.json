@@ -1,0 +1,16 @@
+{
+  "huella": "ea54c77f95a70f365139f045ad9150a43fd488e9ffd7bdeaa3b14ffd72e0a838",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7962LKX ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva a ARVAL del Volvo XC60 matrícula 7962LKX (OCR muestra 7562 LKX, diferencia de un carácter), que es el documento pedido para el vehículo sustituido."
+  }
+}

@@ -34,9 +34,15 @@ Repositorio de la campaña TRA050 del grupo **Global Omnium** (`git@github.com:m
 ## Cómo se trabaja
 
 - **1 · Fichas de coche:** `python scripts/global_omnium/coches.py --todas`. Con `--matricula X --seco` enseña una ficha sin escribirla.
-- **2 · Auditoría del coche:** a mano, en su ficha. Se editan los `doc_*`, `estado`, los datos que haya que corregir (con `<dato>_fuente: "MANUAL"`) y las secciones «Notas de auditoría», «Incidencias» e «Historial».
+- **2 · Correcciones del coche:** a mano, en su ficha: los datos que haya que corregir (con `<dato>_fuente: "MANUAL"`) y las secciones «Notas de auditoría», «Incidencias» e «Historial». Los `doc_*` ya no se tocan aquí: se deciden en la pareja (paso 5) y el script los copia a la ficha.
 - **3 · Emparejamiento:** `python scripts/global_omnium/emparejar_v4.py --seco` cuenta cuántas parejas salen y lo demuestra; sin `--seco`, escribe `04_parejas/` y `00_control/emparejamiento/`.
-- **4 · Fijar:** cuando una pareja tenga trabajo encima o se le pidan papeles al cliente, `estado_pareja: "fijada"`.
+- **4 · Bandeja del cliente:** `python scripts/global_omnium/bandeja_cliente.py --todas`. Monta `01_entrada/bandeja_cliente/` por pareja y pone cada documento en `sin_auditar` (hay fichero), `falta`, `formato` o `na`.
+- **5 · Auditoría de documentos:** `python scripts/global_omnium/auditar_documentos.py --todas` pasa de `sin_auditar` a `ok`, `rehacer` o `revisar`, en tres fases:
+    - Reglas, siempre y sin coste: si el dato que acredita la carpeta sale de un documento de esa carpeta y su regla da `ok`.
+    - IA, con `--ia` (DeepSeek): lee el `.md` de la carpeta y dice si es el documento, del vehículo y titular correctos. Guarda la respuesta en `02_extraido/bandeja_cliente/.../_auditoria_ia.json` y no la repite mientras el texto no cambie.
+    - A mano: lo que queda en `revisar` se ve en `00_control/revision_documentos.base`: una fila por pareja y, por carpeta, estado, fichero y qué revisar (`doc_*`, `fichero_*`, `motivo_*`), en una sola vista. El `doc_*` se cambia en la misma tabla; `fichero_*` y `motivo_*` son derivadas. Un valor puesto a mano ya no lo toca ningún script; para devolverlo al automático, se pone otra vez `sin_auditar`.
+    - Si reglas e IA no coinciden, queda en `revisar`. El motivo de cada fase queda en `auditoria_docs` de la pareja y, si hay que rehacer, en el `.txt` de la bandeja.
+- **6 · Fijar:** cuando una pareja tenga trabajo encima o se le pidan papeles al cliente, `estado_pareja: "fijada"`.
 
 ## Reglas de esta carpeta
 
@@ -48,6 +54,14 @@ Repositorio de la campaña TRA050 del grupo **Global Omnium** (`git@github.com:m
 6. **Las reglas se citan con código y nombre**: «R5 Ventana», nunca «R5» a secas.
 
 ## Historial
+
+- **2026-10-30** — **Revisión a mano de las 9 carpetas que quedaban en `revisar`**, mirando el PDF y juzgando el documento que corresponde a cada carpeta. 5 pasan a `ok` y 4 a `rehacer` con una pregunta al cliente: 3 cartas de siniestro total y una hoja de traslado a subasta. «ACTA DEVO» se reconoce ahora como acta de devolución: el acta de 3942LLT sale de propiedad y entra en salida. No queda ninguna carpeta en `revisar`: 205 en `ok` y 11 en `rehacer`.
+
+- **2026-10-30** — **La IA de `auditar_documentos.py` lee el documento entero** (hasta 40.000 caracteres, antes 6.000, que le cortaban lo que la arrendadora grapa detrás) y sabe que en renting el permiso va a nombre de la arrendadora, que un fichero puede traer varios documentos seguidos y que Global Omnium es Aguas de Valencia. La factura proforma de 4450LLV ya no se cuela en la baja, y un acta de entrega con el permiso dentro cubre la carpeta cuando no hay otro documento. Quedan 190 carpetas en `ok`, 9 en `revisar` y 7 en `rehacer`.
+
+- **2026-10-30** — **OCR rehecho con LlamaParse agentic** en 38 PDF escaneados de bajas, cuya conversión era ilegible (lo antiguo, en `_0bsoleto/2026-10-30_ocr_deficiente/`). De las 33 carpetas en `revisar` por OCR, 20 pasan a `ok` con la IA y 8 a `ok` a mano tras mirar el PDF, con la nota en la pareja. Quedan 22 carpetas en `revisar`, todas por criterio y no por lectura.
+
+- **2026-10-30** — **Auditoría de documentos (`auditar_documentos.py`).** Los `doc_*` del coche se deciden en la pareja y se copian a la ficha, para que sobrevivan a un cambio de pareja; `emparejar_v4.py` conserva los de la pareja. Primera pasada sobre 215 carpetas con fichero: 159 `ok`, 54 `revisar` y 2 `rehacer`.
 
 - **2026-10-27** — **`_0bsoleto/03_expedientes/0bsoleto/` pasa a `_0bsoleto/03_expedientes/_0bsoleto/`**, el último `0bsoleto/` que quedaba en la campaña, para que todo el proyecto use el mismo nombre. Sin tocar el contenido.
 

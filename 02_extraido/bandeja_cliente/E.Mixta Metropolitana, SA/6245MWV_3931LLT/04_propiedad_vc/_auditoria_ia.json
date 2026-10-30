@@ -1,0 +1,16 @@
+{
+  "huella": "1a936581b153e16ed2c526718805f3f3671ba4c628e78124e71511681a96edf1",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3931LLT CONTRATO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) a nombre de Empresa Mixta Metropolitana SA para el vehículo 3931LLT con bastidor VSSZZZKJZMR017645, con plazo de 48 meses."
+  }
+}

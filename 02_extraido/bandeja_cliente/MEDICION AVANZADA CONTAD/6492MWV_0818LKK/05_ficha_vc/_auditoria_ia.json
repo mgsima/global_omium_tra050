@@ -1,0 +1,16 @@
+{
+  "huella": "0094e1063f9d50b8f67d4c29ca4b8ceff4ae4a3f59c3d74ac4a292923fa90046",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0818LKK FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del SEAT Arona 0818LKK con bastidor VSSZZZKJZLR194715, categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

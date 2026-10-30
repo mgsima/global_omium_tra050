@@ -1,0 +1,16 @@
+{
+  "huella": "0fe0f7f834cfccbd3edcff7515ad450338f3356795ac535d2815dace6608260c",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA6736LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 6736LLV con bastidor VR3EFYHYCLN564530, categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

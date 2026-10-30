@@ -1,0 +1,16 @@
+{
+  "huella": "779fa924dbad531771ec8d62d92a856b7e07a7cb49499880f3aa73d0a7bda441",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA9977LLM (1).pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 9977LLM (RENAULT KANGOO, bastidor VF1WK000666300912) con categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

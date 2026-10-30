@@ -1,0 +1,16 @@
+{
+  "huella": "3e4b9d4779af7dc7026882b55c31b0f740f26505fbe0c812b88a958c5e4e42ba",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9276LMB ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": false,
+    "veredicto": "revisar",
+    "motivo": "El acta de devolución corresponde a la matrícula 9276LMB, pero el texto no identifica claramente a la arrendadora (LeasePlan/Ayvens) ni al titular, y la marca/modelo no coinciden con el SEAT Arona esperado; conviene verificar el documento original."
+  }
+}

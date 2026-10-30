@@ -1,0 +1,17 @@
+{
+  "huella": "ee4c1c512920f426af1fdc6f4b178b88f1c3c3fcf426e7f2a1a59b2856eb334a",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6794LLV CONTRATO.pdf",
+    "6794LLV PERMISO CIRCULACION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con el vehículo 6794LLV y bastidor VR3EFYHYCLN564557, a nombre de UTE Aguas de Chiva, con plazo de 48 meses."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "5adcbc02e180c067f963e27b8311b07ddf710bc38fe2990344c12e8a82bd90ca",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4450LLV ACTA ENTREGA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": false,
+    "veredicto": "rehacer",
+    "motivo": "El fichero es un acta de entrega y una autorización de circulación, no la tarjeta ITV ni la ficha técnica del vehículo; aporte la ficha técnica donde se vean categoría y combustible."
+  }
+}

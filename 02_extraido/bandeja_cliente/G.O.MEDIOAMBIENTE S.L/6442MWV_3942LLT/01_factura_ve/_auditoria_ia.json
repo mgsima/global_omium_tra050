@@ -1,0 +1,16 @@
+{
+  "huella": "35610f0fafc4633e20327d8e615b85e5c92a04b5085bc9894b7dfd311b59ee4a",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1004A2827802674000001142024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico Citroën ë-C3 con bastidor VR7CBZYA9RT153042 a nombre de GLOBAL OMNIUM MEDIOAMBIENTE SL, con desglose de IVA."
+  }
+}

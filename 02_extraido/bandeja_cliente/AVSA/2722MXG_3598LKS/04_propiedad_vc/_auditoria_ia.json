@@ -1,0 +1,17 @@
+{
+  "huella": "25cb8341c591dd704ade97b72ab029330e49b5756d972eb5fadc61edbc4993e1",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3598LKS CONTRATO.pdf",
+    "3598LKS FICHA y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con matrícula 3598LKS y bastidor WV1ZZZ2KZLX065423 a nombre de Aguas de Valencia SA, con plazo de 48 meses."
+  }
+}

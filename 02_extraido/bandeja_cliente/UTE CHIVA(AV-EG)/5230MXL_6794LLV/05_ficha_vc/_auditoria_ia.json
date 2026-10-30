@@ -1,0 +1,16 @@
+{
+  "huella": "1e7a620984cf216be4ba1ff8c4ca941ecd8785bc209d087db659cf0fbc4ffd1f",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6794LLV FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica (tarjeta ITV) del vehículo 6794LLV con bastidor VR3EFYHYCLN564557, categoría N1 y combustible M/D (diésel), coincide con el vehículo sustituido."
+  }
+}

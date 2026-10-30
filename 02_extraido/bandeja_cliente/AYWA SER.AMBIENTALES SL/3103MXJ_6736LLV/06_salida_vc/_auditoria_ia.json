@@ -1,0 +1,16 @@
+{
+  "huella": "034d24f1ce9629d2b42cbbc6fee7c77905af7726980de8b77a4c2cd0299d31df",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6736LLV ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 6736LLV (Peugeot Partner) a la arrendadora, válida como justificante de salida del vehículo sustituido."
+  }
+}

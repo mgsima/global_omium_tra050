@@ -1,0 +1,16 @@
+{
+  "huella": "e084db1a6e54789d3705667165dfb836392e2e4ea45eca99519534c7b1698632",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0246LLK ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 0246LLK (SEAT ARONA 1.6TDI) a la arrendadora LeasePlan/Ayvens, válida como justificante de salida del vehículo sustituido."
+  }
+}

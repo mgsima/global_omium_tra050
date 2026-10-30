@@ -1,0 +1,16 @@
+{
+  "huella": "f4425a7e6155519ee85bd14f71735e80c2b1a681a462808908332ca8f60c9892",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1451LDY ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": false,
+    "veredicto": "revisar",
+    "motivo": "Acta de devolución de ALD (Ayvens) del vehículo 1451LDY, pero el texto no muestra el NIF del arrendatario ni el bastidor y el modelo aparece como 'GRANDEANO'; conviene confirmar que la devolución es definitiva y a nombre de Global Omnium Medioambiente."
+  }
+}

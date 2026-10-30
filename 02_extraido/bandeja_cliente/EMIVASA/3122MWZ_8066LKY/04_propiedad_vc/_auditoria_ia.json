@@ -1,0 +1,17 @@
+{
+  "huella": "9dada6a3e938e245f044c180b54505d3d8b795c1d887d653fb45632c00b950b4",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "8066LKY CONTRATO.pdf",
+    "8066LKY PERMISO CIRCULACION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) y permiso de circulación del vehículo 8066LKY con bastidor VSSZZZKJZLR203483 a nombre de la arrendadora, válidos para acreditar la posesión."
+  }
+}

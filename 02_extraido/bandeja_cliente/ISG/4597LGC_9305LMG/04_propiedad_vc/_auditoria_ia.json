@@ -1,0 +1,18 @@
+{
+  "huella": "1d32fe6b346d065a8d277dec06f422776c3305dcbcf2d132823497be548bef01",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9305LMG BAJA.pdf",
+    "9305LMG CONTRATO.pdf",
+    "MA9305LMG.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Se aporta contrato de renting (LeasePlan/Ayvens) del vehículo 9305LMG con bastidor VR3EFYHYCLN564518 a nombre de Implantaciones de Sistemas de Gestión, junto con permiso de circulación y propuesta de baja."
+  }
+}

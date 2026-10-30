@@ -1,0 +1,16 @@
+{
+  "huella": "2d833b24159a09199339044cc656ac4409ab6e0a9db1b442bb0f1c7ac80ae983",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA9305LMG.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del PEUGEOT PARTNER ERKE con matrícula 9305LMG y bastidor VR3EFYHYCLN564518, categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

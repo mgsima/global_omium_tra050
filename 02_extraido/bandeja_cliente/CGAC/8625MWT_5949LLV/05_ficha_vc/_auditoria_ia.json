@@ -1,0 +1,16 @@
+{
+  "huella": "c85a6da0ca22016e2dd1e1219808bf501d715613cf83198e0440c4bce6b0d764",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA5949LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 5949LLV (bastidor VR3EFYHYCLN564517, PEUGEOT PARTNER, categoría N1, combustible DIESEL) a nombre de LEASE PLAN (Ayvens), arrendadora válida."
+  }
+}

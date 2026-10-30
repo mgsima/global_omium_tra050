@@ -1,0 +1,16 @@
+{
+  "huella": "24fbb01bb1032704726dca5347a08dc4044acd8aff4cca927a91c26f17c639c4",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9418LKC FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV y permiso de circulación del SEAT ARONA 9418LKC con bastidor VSSZZZKJZLR193685, categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

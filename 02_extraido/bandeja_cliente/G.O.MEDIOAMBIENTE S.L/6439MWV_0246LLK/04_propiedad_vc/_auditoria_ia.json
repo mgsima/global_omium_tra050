@@ -1,0 +1,17 @@
+{
+  "huella": "faf0f1992d946d47d30d2c5661d4db896ac4e17f7bc66d0e22c18811d4279e46",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0246LLK CONTRATO.pdf",
+    "0246LLK FICHA TECNICA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) a nombre de Global Omnium Medioambiente SL para el vehículo 0246LLK con bastidor VSSZZZKJZLR194320, con plazo de 48 meses."
+  }
+}

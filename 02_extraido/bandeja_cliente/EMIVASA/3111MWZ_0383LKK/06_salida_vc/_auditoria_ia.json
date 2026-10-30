@@ -1,0 +1,16 @@
+{
+  "huella": "f011412d69f88a389fef25112a4bc1401d201d191678575a1c7870e9e59e43df",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0383LKK ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva del vehículo 0383LKK (VOLVO XC40) a Arval Service Lease, arrendadora del renting, con fecha 29/04/2025."
+  }
+}

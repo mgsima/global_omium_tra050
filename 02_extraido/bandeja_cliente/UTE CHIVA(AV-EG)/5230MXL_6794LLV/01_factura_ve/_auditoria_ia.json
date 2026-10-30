@@ -1,0 +1,16 @@
+{
+  "huella": "8631b59d13c585ed0344175aed4a1aa56141bb0636730d69bca97a7ca12c4fb4",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1319A4604951674000000122024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VF1RFK00773824876, desglose de IVA y titular UTE AGUAS DE CHIVA (U98682123)."
+  }
+}

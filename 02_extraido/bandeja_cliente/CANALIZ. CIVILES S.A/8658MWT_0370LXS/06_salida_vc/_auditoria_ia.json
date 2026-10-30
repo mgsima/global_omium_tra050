@@ -1,0 +1,16 @@
+{
+  "huella": "256916eff213ff6e896e82bb080d0cd10105f28e4676502082d130dba7af4c6f",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0370LXS BAJA ALQUILER.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de baja/devolución del renting del vehículo 0370LXS a nombre de Transportes y Líneas del Mediterráneo, S.L., válida como justificante de salida."
+  }
+}

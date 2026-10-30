@@ -1,0 +1,17 @@
+{
+  "huella": "0d93b64d5a8a95094e30c49170e62f334dfc9c9332320abb2bf58f7b26ae12d2",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9504LDD CONTRATO.pdf",
+    "MA9504LDD (1).pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) a nombre de Aguas de Valencia SA para el vehículo 9504LDD con bastidor W0VZCYHZ9KS299307, válido para acreditar la posesión."
+  }
+}

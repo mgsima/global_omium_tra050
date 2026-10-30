@@ -1,0 +1,17 @@
+{
+  "huella": "7f93deaaf182a4f8a5c139e6257b6c8424efaa3a39db6f48b818953c1d329544",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4926LMS CONTRATO.pdf",
+    "MA4926LMS.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) a nombre de Aguas de Valencia SA para el vehículo 4926LMS con bastidor VR3EFYHYCMN507060, válido para acreditar la posesión."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "af2bbadb34d1d2b5fdcd9fc582d691cd75174aa14241a904417545102ce678a3",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA7015LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV y permiso de circulación del vehículo 7015LLV (bastidor VR3EFYHYCLN564948), categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

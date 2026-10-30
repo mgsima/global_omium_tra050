@@ -1,0 +1,16 @@
+{
+  "huella": "4a683d4700d164d7b7ebb19e3a056e507b52196267fc1567f4a2dc3ec9d8bfec",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7017KWW FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 7017KWW (bastidor W0VBD6EN6KG359583, OPEL ASTRA, categoría M1, combustible DIESEL) a nombre de la arrendadora LEASE PLAN (Ayvens), válida para la carpeta."
+  }
+}

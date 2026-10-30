@@ -1,0 +1,17 @@
+{
+  "huella": "12bff97e1e2a71481502eeef10a8a761b782b5793d90efff2f6ccfe6fc1fd9fe",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5255LKX CONTRATO.pdf",
+    "5255LKX FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) a nombre de Aguas de Valencia SA con matrícula 5255LKX y bastidor VSSZZZKJZLR203390, válido para acreditar la posesión del vehículo sustituido."
+  }
+}

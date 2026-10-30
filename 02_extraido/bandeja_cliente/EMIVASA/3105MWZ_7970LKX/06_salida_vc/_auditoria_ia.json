@@ -1,0 +1,16 @@
+{
+  "huella": "93e57ad9ccff0634e857defb2f9a0e8296138205e694adc802b9500d09138e22",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7970LKX ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": false,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "El acta de devolución es de Arval y del modelo Volvo V60, pero la matrícula leída es 75704KX y no 7970LKX; confirma que corresponde al vehículo sustituido."
+  }
+}

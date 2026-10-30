@@ -1,0 +1,218 @@
+filters:
+  and:
+    - file.folder.contains("global_omium_tra050/04_parejas")
+    - '!file.folder.contains("_0bsoleto")'
+    - file.tags.contains("pareja")
+formulas:
+  fichero_03_factura: if((note.doc_03_factura == "revisar" || note.doc_03_factura == "rehacer"), note.fichero_03_factura, "")
+  motivo_03_factura: if((note.doc_03_factura == "revisar" || note.doc_03_factura == "rehacer"), note.motivo_03_factura, "")
+  fichero_04_permiso_ve: if((note.doc_04_permiso_ve == "revisar" || note.doc_04_permiso_ve == "rehacer"), note.fichero_04_permiso_ve, "")
+  motivo_04_permiso_ve: if((note.doc_04_permiso_ve == "revisar" || note.doc_04_permiso_ve == "rehacer"), note.motivo_04_permiso_ve, "")
+  fichero_05_ft_ve: if((note.doc_05_ft_ve == "revisar" || note.doc_05_ft_ve == "rehacer"), note.fichero_05_ft_ve, "")
+  motivo_05_ft_ve: if((note.doc_05_ft_ve == "revisar" || note.doc_05_ft_ve == "rehacer"), note.motivo_05_ft_ve, "")
+  fichero_07_propiedad: if((note.doc_07_propiedad == "revisar" || note.doc_07_propiedad == "rehacer"), note.fichero_07_propiedad, "")
+  motivo_07_propiedad: if((note.doc_07_propiedad == "revisar" || note.doc_07_propiedad == "rehacer"), note.motivo_07_propiedad, "")
+  fichero_08_ft_antiguo: if((note.doc_08_ft_antiguo == "revisar" || note.doc_08_ft_antiguo == "rehacer"), note.fichero_08_ft_antiguo, "")
+  motivo_08_ft_antiguo: if((note.doc_08_ft_antiguo == "revisar" || note.doc_08_ft_antiguo == "rehacer"), note.motivo_08_ft_antiguo, "")
+  fichero_09_entrega: if((note.doc_09_entrega == "revisar" || note.doc_09_entrega == "rehacer"), note.fichero_09_entrega, "")
+  motivo_09_entrega: if((note.doc_09_entrega == "revisar" || note.doc_09_entrega == "rehacer"), note.motivo_09_entrega, "")
+  fichero_21_dni: if((note.doc_21_dni == "revisar" || note.doc_21_dni == "rehacer"), note.fichero_21_dni, "")
+  motivo_21_dni: if((note.doc_21_dni == "revisar" || note.doc_21_dni == "rehacer"), note.motivo_21_dni, "")
+properties:
+  formula.fichero_03_factura:
+    displayName: Factura VE · fichero
+  formula.motivo_03_factura:
+    displayName: Factura VE · observación
+  formula.fichero_04_permiso_ve:
+    displayName: Permiso VE · fichero
+  formula.motivo_04_permiso_ve:
+    displayName: Permiso VE · observación
+  formula.fichero_05_ft_ve:
+    displayName: Ficha técnica VE · fichero
+  formula.motivo_05_ft_ve:
+    displayName: Ficha técnica VE · observación
+  formula.fichero_07_propiedad:
+    displayName: Propiedad sustituido · fichero
+  formula.motivo_07_propiedad:
+    displayName: Propiedad sustituido · observación
+  formula.fichero_08_ft_antiguo:
+    displayName: Ficha técnica sustituido · fichero
+  formula.motivo_08_ft_antiguo:
+    displayName: Ficha técnica sustituido · observación
+  formula.fichero_09_entrega:
+    displayName: Salida sustituido · fichero
+  formula.motivo_09_entrega:
+    displayName: Salida sustituido · observación
+  formula.fichero_21_dni:
+    displayName: Poderes y DNI · fichero
+  formula.motivo_21_dni:
+    displayName: Poderes y DNI · observación
+  file.name:
+    displayName: Pareja
+  note.doc_03_factura:
+    displayName: Factura VE
+  note.fichero_03_factura:
+    displayName: Factura VE · fichero
+  note.motivo_03_factura:
+    displayName: Factura VE · observación
+  note.doc_04_permiso_ve:
+    displayName: Permiso VE
+  note.fichero_04_permiso_ve:
+    displayName: Permiso VE · fichero
+  note.motivo_04_permiso_ve:
+    displayName: Permiso VE · observación
+  note.doc_05_ft_ve:
+    displayName: Ficha técnica VE
+  note.fichero_05_ft_ve:
+    displayName: Ficha técnica VE · fichero
+  note.motivo_05_ft_ve:
+    displayName: Ficha técnica VE · observación
+  note.doc_07_propiedad:
+    displayName: Propiedad sustituido
+  note.fichero_07_propiedad:
+    displayName: Propiedad sustituido · fichero
+  note.motivo_07_propiedad:
+    displayName: Propiedad sustituido · observación
+  note.doc_08_ft_antiguo:
+    displayName: Ficha técnica sustituido
+  note.fichero_08_ft_antiguo:
+    displayName: Ficha técnica sustituido · fichero
+  note.motivo_08_ft_antiguo:
+    displayName: Ficha técnica sustituido · observación
+  note.doc_09_entrega:
+    displayName: Salida sustituido
+  note.fichero_09_entrega:
+    displayName: Salida sustituido · fichero
+  note.motivo_09_entrega:
+    displayName: Salida sustituido · observación
+  note.doc_21_dni:
+    displayName: Poderes y DNI
+  note.fichero_21_dni:
+    displayName: Poderes y DNI · fichero
+  note.motivo_21_dni:
+    displayName: Poderes y DNI · observación
+views:
+  - type: table
+    name: Revisión de documentos
+    order:
+      - file.name
+      - doc_03_factura
+      - fichero_03_factura
+      - motivo_03_factura
+      - doc_04_permiso_ve
+      - fichero_04_permiso_ve
+      - motivo_04_permiso_ve
+      - doc_05_ft_ve
+      - fichero_05_ft_ve
+      - motivo_05_ft_ve
+      - doc_07_propiedad
+      - fichero_07_propiedad
+      - motivo_07_propiedad
+      - doc_08_ft_antiguo
+      - fichero_08_ft_antiguo
+      - motivo_08_ft_antiguo
+      - doc_09_entrega
+      - fichero_09_entrega
+      - motivo_09_entrega
+      - doc_21_dni
+      - fichero_21_dni
+      - motivo_21_dni
+    sort:
+      - property: doc_04_permiso_ve
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: motivo_03_factura
+        direction: ASC
+    rowHeight: extra
+    columnSize:
+      file.name: 160
+      note.doc_03_factura: 119
+      note.fichero_03_factura: 282
+      note.doc_04_permiso_ve: 100
+      note.fichero_04_permiso_ve: 240
+      note.motivo_04_permiso_ve: 460
+      note.doc_05_ft_ve: 100
+      note.fichero_05_ft_ve: 240
+      note.motivo_05_ft_ve: 460
+      note.doc_07_propiedad: 100
+      note.fichero_07_propiedad: 240
+      note.motivo_07_propiedad: 460
+      note.doc_08_ft_antiguo: 100
+      note.fichero_08_ft_antiguo: 240
+      note.motivo_08_ft_antiguo: 460
+      note.doc_09_entrega: 100
+      note.fichero_09_entrega: 240
+      note.motivo_09_entrega: 460
+      note.doc_21_dni: 100
+      note.fichero_21_dni: 240
+      note.motivo_21_dni: 460
+  - type: table
+    name: Por revisar
+    filters:
+      or:
+        - note.doc_03_factura == "revisar"
+        - note.doc_03_factura == "rehacer"
+        - note.doc_04_permiso_ve == "revisar"
+        - note.doc_04_permiso_ve == "rehacer"
+        - note.doc_05_ft_ve == "revisar"
+        - note.doc_05_ft_ve == "rehacer"
+        - note.doc_07_propiedad == "revisar"
+        - note.doc_07_propiedad == "rehacer"
+        - note.doc_08_ft_antiguo == "revisar"
+        - note.doc_08_ft_antiguo == "rehacer"
+        - note.doc_09_entrega == "revisar"
+        - note.doc_09_entrega == "rehacer"
+        - note.doc_21_dni == "revisar"
+        - note.doc_21_dni == "rehacer"
+    order:
+      - file.name
+      - doc_03_factura
+      - formula.fichero_03_factura
+      - formula.motivo_03_factura
+      - doc_04_permiso_ve
+      - formula.fichero_04_permiso_ve
+      - formula.motivo_04_permiso_ve
+      - doc_05_ft_ve
+      - formula.fichero_05_ft_ve
+      - formula.motivo_05_ft_ve
+      - doc_07_propiedad
+      - formula.fichero_07_propiedad
+      - formula.motivo_07_propiedad
+      - doc_08_ft_antiguo
+      - formula.fichero_08_ft_antiguo
+      - formula.motivo_08_ft_antiguo
+      - doc_09_entrega
+      - formula.fichero_09_entrega
+      - formula.motivo_09_entrega
+      - doc_21_dni
+      - formula.fichero_21_dni
+      - formula.motivo_21_dni
+    sort:
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.name: Filled
+    rowHeight: extra
+    columnSize:
+      file.name: 160
+      note.doc_03_factura: 100
+      formula.fichero_03_factura: 240
+      formula.motivo_03_factura: 460
+      note.doc_04_permiso_ve: 100
+      formula.fichero_04_permiso_ve: 240
+      formula.motivo_04_permiso_ve: 460
+      note.doc_05_ft_ve: 100
+      formula.fichero_05_ft_ve: 240
+      formula.motivo_05_ft_ve: 460
+      note.doc_07_propiedad: 100
+      formula.fichero_07_propiedad: 405
+      formula.motivo_07_propiedad: 460
+      note.doc_08_ft_antiguo: 100
+      formula.fichero_08_ft_antiguo: 240
+      formula.motivo_08_ft_antiguo: 460
+      note.doc_09_entrega: 100
+      formula.fichero_09_entrega: 240
+      note.doc_21_dni: 100
+      formula.fichero_21_dni: 240
+      formula.motivo_21_dni: 460

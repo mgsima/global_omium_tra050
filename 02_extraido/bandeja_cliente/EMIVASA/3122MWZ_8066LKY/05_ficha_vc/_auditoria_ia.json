@@ -1,0 +1,16 @@
+{
+  "huella": "5efcb570aae09a8c52cf26e07e2a893e8753094fa9be02adb1ebf86ddf974b42",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "8066LKY FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica (tarjeta ITV) del SEAT Arona matrícula 8066LKY y bastidor VSSZZZKJZLR203483, categoría M1 y combustible gasolina (M/D), que es el vehículo de combustión sustituido."
+  }
+}

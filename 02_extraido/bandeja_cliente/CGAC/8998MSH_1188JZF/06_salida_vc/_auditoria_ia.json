@@ -1,0 +1,16 @@
+{
+  "huella": "636c76e1893ac08a26e0e5e53fc74ede0a9ddecaea3818865e2456ae540fa69a",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1188JZF ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución a la arrendadora del vehículo 1188JZF a nombre de COMPANYIA GENERAL D AIGUES CATALUNY, coincide con lo esperado."
+  }
+}

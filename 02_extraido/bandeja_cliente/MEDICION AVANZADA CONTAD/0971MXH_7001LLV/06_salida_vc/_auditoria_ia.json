@@ -1,0 +1,16 @@
+{
+  "huella": "bc74bb6779038256b26328e92ba5c6bd7ecb50108db8eb074daaac800705281b",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7001LLV ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva a la arrendadora (LeasePlan/Ayvens) del vehículo 7001 LLV, cliente Macsa (Medición Avanzada de Contadores), conforme a lo solicitado."
+  }
+}

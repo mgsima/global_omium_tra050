@@ -1,0 +1,16 @@
+{
+  "huella": "4f71cd303564b7e37b7b07d49f56c8ca5f9a3cb394e34654e19cebd3aec6b825",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5996LKM FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del SEAT León 5996LKM con categoría M1 y combustible diésel (M/D), coincide con el vehículo sustituido."
+  }
+}

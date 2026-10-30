@@ -1,0 +1,16 @@
+{
+  "huella": "59465382cd26aa9a85539bc1143208108c43a85f2f68a5984ae6bbfc404d5621",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "8767LLW CONDICIONES.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Condiciones particulares de renting de LeasePlan (hoy Ayvens) para el vehículo 8767LLW con bastidor VR3EFYHYCLN564500, a nombre de GLOBAL OMNIUM MEDIOAMBIENTE SL, con plazo de 48 meses."
+  }
+}

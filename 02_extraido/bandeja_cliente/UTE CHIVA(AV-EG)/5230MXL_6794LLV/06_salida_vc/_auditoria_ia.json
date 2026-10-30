@@ -1,0 +1,16 @@
+{
+  "huella": "305beba60a04066d25e9a36b662ed55283ee406b5d885dc28bcc43b776c41ebf",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6794LLV ACTA BAJA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El documento es una propuesta/comunicado de baja de LeasePlan, no el acta de devolución definitiva firmada ni el certificado de baja en DGT ni la venta a tercero; falta el justificante de salida efectiva del vehículo."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "176de1b4896b2a98ef9322c458dc5fbe1a2242744dba89f842acfd4c56696fda",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1021A4604951674000000502024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VF1RFK00073824847 a nombre de MEDICION AVANZADA DE CONTADORES SA (A96674460), con desglose de IVA."
+  }
+}

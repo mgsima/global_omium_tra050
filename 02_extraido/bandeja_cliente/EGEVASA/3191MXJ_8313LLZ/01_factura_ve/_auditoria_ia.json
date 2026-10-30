@@ -1,0 +1,16 @@
+{
+  "huella": "00477ad636a3a46a47b9196c8ad8b3c13b7968e4db192f40ebb1f732032f74b6",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1400A4604951674000000872024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VF1RFK00373824857 y titular EGEVASA (A46615159), con desglose de IVA."
+  }
+}

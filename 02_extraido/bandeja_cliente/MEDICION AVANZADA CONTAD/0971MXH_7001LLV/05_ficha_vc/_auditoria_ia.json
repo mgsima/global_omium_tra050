@@ -1,0 +1,16 @@
+{
+  "huella": "1734f148a4c6f6e7f7f6d561b3308d3d5df41e894fbea270371e84c9ae0c9b56",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA7001LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 7001LLV con bastidor VR3EFYHYCLN564944, categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

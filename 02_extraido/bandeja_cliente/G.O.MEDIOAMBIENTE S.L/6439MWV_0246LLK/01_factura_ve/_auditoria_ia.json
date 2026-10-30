@@ -1,0 +1,16 @@
+{
+  "huella": "2e4bf71443688b261e2b0c50ad93a9d9a76c817b903f0bc3d814f80d894ecd71",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1004A2827802674000001132024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo con bastidor VR7CBZYA6RT152219 y titular GLOBAL OMNIUM MEDIOAMBIENTE SL (B46017018), con desglose de IVA."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "dd06cdaaa068cb8ea1d39d0706a123d6f46c87a2a4cb911481b84f658d9c383e",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1021A2827802674000000392024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYA2RT152198 a nombre de MEDICIONES AVANZADAS DE CONTADORES (A96674460), con desglose de IVA."
+  }
+}

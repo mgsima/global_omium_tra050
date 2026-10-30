@@ -1,0 +1,16 @@
+{
+  "huella": "d975c9d65ddf34cfd6a7de0f93dd7704461604186a00f5d7571bdb31dd5bcc42",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9977LLM ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución de renting del vehículo 9977LLM (RENAULT KANGOO) a nombre de GLOBAL OMNIUM MEDIOAMBIENTE, válida como justificante de salida."
+  }
+}

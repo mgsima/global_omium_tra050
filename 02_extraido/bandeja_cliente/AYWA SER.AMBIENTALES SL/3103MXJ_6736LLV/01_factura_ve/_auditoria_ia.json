@@ -1,0 +1,16 @@
+{
+  "huella": "ead5ad1ccc9a83c4ef419b7529ccbd1870b735e604a6a6224be9a1dd709db8f0",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "FACTURA VF1RFK00373934288.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VF1RFK00373934288 y titular AYWA SERVICIOS AMBIENTALES S.L (B90162116), con desglose de IVA."
+  }
+}

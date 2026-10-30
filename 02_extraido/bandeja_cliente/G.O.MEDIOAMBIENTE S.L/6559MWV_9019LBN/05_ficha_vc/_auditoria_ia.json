@@ -1,0 +1,16 @@
+{
+  "huella": "aa2a0780dfd83e633700528579830ab04cc639aad2c74bc8125943fa5e547d37",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9019LBN FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "La ficha técnica y el permiso de circulación corresponden al vehículo 9019LBN (bastidor W0VBD6EN8KG393492, OPEL ASTRA) con combustible diésel y titularidad de la arrendadora LeasePlan (actual Ayvens)."
+  }
+}

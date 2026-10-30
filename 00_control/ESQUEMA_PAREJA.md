@@ -82,7 +82,8 @@ km_anuales: 13073
 ahorro_anual_kwh: 7269.78
 
 # --- Documentos del expediente ---
-# Los de cada coche se leen de su ficha y se copian aquí con el mismo nombre.
+# Se deciden aquí (auditar_documentos.py o a mano) y se copian a la ficha de cada coche.
+# Una pareja nueva arranca con los de las fichas.
 doc_01_cesion: "faltan_datos"    # faltan_datos = sin generar; falta = generado sin firmar
 doc_02_anexo_i: "faltan_datos"
 doc_03_factura: "ok"
@@ -97,6 +98,11 @@ docs_ok: 6
 docs_pendientes: 4
 docs_pide_cliente:
     - "8 · Ficha técnica del antiguo (0246LLK)"
+fichero_09_entrega:              # una pareja fichero_*/motivo_* por carpeta, derivadas, para revision_documentos.base
+    - "[[tra050/data/global_omium_tra050/01_entrada/BAJAS/0246LLK/0246LLK ACTA DEVOLUCION.pdf|0246LLK ACTA DEVOLUCION.pdf]]"
+motivo_09_entrega: ""            # qué revisar: lo que dijo la IA o, si no opinó, las reglas
+auditoria_docs:                  # lo escribe auditar_documentos.py: estado y motivo de cada fase
+    - "doc_03_factura: ok · reglas: R6 Año ok con fecha_adquisicion de «Factura»: factura del 2024-12-18 · ia: factura a nombre de la sociedad"
 
 # --- Auditoría ---
 estado: "sin_auditar"            # sin_auditar | ok | pendiente_subsanacion | revisar | rechazado

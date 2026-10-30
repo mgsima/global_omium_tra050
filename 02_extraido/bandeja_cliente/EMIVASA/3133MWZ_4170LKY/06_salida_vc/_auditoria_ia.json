@@ -1,0 +1,16 @@
+{
+  "huella": "f0310f47432b17cbd50cc581d2918a363a4c7a34428d327f98a06f121bfb6bc9",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4170LKY ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": false,
+    "titular_coincide": false,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El acta de devolución corresponde a otro vehículo (matrícula 4170LKT, modelo ABEON) y a otro titular (ENRONSA), no al SEAT ARONA 4170LKY de EMIVASA."
+  }
+}

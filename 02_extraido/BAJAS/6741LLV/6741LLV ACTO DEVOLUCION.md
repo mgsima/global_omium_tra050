@@ -1,69 +1,128 @@
 ---
 documento_origen: "6741LLV ACTO DEVOLUCION.pdf"
 original: "[[data/global_omium_tra050/01_entrada/BAJAS/6741LLV/6741LLV ACTO DEVOLUCION.pdf]]"
+conversion: "LlamaParse agentic 2026-10-30"
 ---
 
-7 A -
-        EL CONDUCTOR/CLIENTE y EL PUNTO DE DEVOLUCIÓN DEBERÁN DEVOLVERLA FIRMADA AL: |
-        EMAIL devolucion.vehiculosGleaseplan.es |
+logo: LeasePlan
 
+## ACTA DE DEVOLUCIÓN
 
-  Día/mes/año/  15  74  775  Hora:  ||  Persona que recepciona
+**EL CONDUCTOR/CLIENTE y EL PUNTO DE DEVOLUCIÓN DEBERÁN DEVOLVERLA FIRMADA AL:**
+**EMAIL devolucion.vehiculos@leaseplan.es**
 
-  Compañía que recepciona
-  Datos del  Cliente y  Persona que realiza  la  entrega.  ED  el Ve
-  |  tente  YDloballoba!  | [  9  41   LLV  105
-  92262
-  $ |  Nombrey  Apellidos  —  (a  ——  Combustible:  Gas-oil  un  |
-  $  |  (Usuario/Conductor)  —/  Gasolina
-  |  ON.  235671452 - Y  o  -  a/4  -  1/2  -  3/4  — Lleno  |  |
-  E⁵  |  Teléfono Fijo/Móvil  E  E >  E⁻  —||  Marca  =  Places  |
-  ModeloyversiónÁ  Zu  — ———  |
-  DañosDaños   Enter
-  Exteriores  Daños Interior es  sin  /
-  :  É  5  D:  del   Actaᴬ  de  e   Devolu  sn sujetosa  Daños
-  etos  a
+### Fecha de Devolución
 
-  $  Parte delantera  de  Palanca/Volante
-  compañía peritaciones independiente.  a
-  E5  1Parabrisas  a a  Tapicería asientos  Ea
-  2.Capó  a  Tejido techo  a
-  £|  a  Moqueta  al
-  H| 4. Faros delanteros  Alfombrillas  a
-  = Costadoizquierdoy  Guamecido de puertas  a
-  puertas  adn  |  |  Salpicadero  a|
-  AE  |  e  1  Bandeja Trasera  a
-  Ne
-  o  portón  =
-  3  7.. Capó  |  al
-  de  Circulación  al
-  |  8. Luneta trasera  a  Fichatécnica  ——
-  Paragolpes  a  N  Permiso
-  atado derecho  al Ce)|  Manual
-  H 9. Faros traseros  a  A  Libro de Mantenimiento  = |
-  E  del   Fabricante  a
-  10. Aletasy  puertas  aga  |  Tarjeta de Transporte  a|
-  El⁵  |  Bajos/Altos  o  Recibo del seguro  E
-  11. Llantasy  tapacubos  a  |  Segundo juego de llaves  a
-  2 12. Techo / Capota  a  |  Cenicero/Mechero  a
-  El  13.  Antena  a  |  Radio CD/MP3/DVD  a
-  E  NN|  1.||  CD Navegador/tarjeta SD  a
-  3  |  o  |  /  Tornillo  Antirrobo  a
-  |  Rueda de repuesto/Kit  E |
-  anti  pinchazos.
-  _  (ES  m3  E |
-  0.  4  >  E  nc |
-  D  Punto de Devolución  Conforme Centro  Logístico |
-  Conforme Cliente/Conductor*  —  Conforme
+**Día/mes/año:** 15.4.25
+**Hora:** 11:04
+**Persona que recepciona:** W
+**Compañía que recepciona:**
 
-  |  eN  TEE
-  77  LS  o
-  |  E  7 || |  >  |  ”  ET
-  UL  A  |  :  |  |
-  7  |  |
-  *SIEMPRE  ES  OBLIGATORIA LA FIRMA DEL CONDUCTOR/CLIENTEY DE LA PERSUNA  QUERECEPCIONA  Fecha/Hora/Firma
-  [  que  us als serán atados deacuerdo  Reglamento  EL VENÍCULO.  |
-  MEE
-  |  o  ena  Te  de Protección de Datos (ROPO),  así como enla Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
-  para Conductor / Cliente
-  Ejemplar
+### Datos del Cliente y Persona que realiza la entrega
+
+**Nombre del Cliente (Compañía):** Global omnium
+**Nombre y Apellidos (Usuario/Conductor):** Carlos J. Martinez Gibert
+**D.N.I.:** 33567482-V
+**Teléfono Fijo/Móvil:** 634611686
+
+### Datos del Vehículo
+
+**Matrícula:** G741LLV
+**Kilómetros:** 103252
+**Combustible:** Gas-oil / Gasolina
+**0 – 1/4 – 1/2 – 3/4 – Lleno**
+**Marca:** Peugeot
+**Color:** Blanco
+**Modelo y Versión:** Partner
+
+**Todo vehículo debe entregarse en su original estado físico y mecánico con excepción del desgaste normal debido al uso**
+
+### Daños Exteriores
+*(Marque la casilla correspondiente)*
+
+<table><tr><th></th><th>Sin Daños</th><th>Con Daños</th></tr>
+<tr><td><strong>Parte delantera</strong></td><td></td><td></td></tr>
+<tr><td>1. Parabrisas</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>2. Capó</td><td>[x]</td><td>[ ]</td></tr>
+<tr><td>3. Paragolpes</td><td>[ ]</td><td>[x]</td></tr>
+<tr><td>4. Faros delanteros</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Costado izquierdo</strong></td><td></td><td></td></tr>
+<tr><td>5. Aletas y puertas</td><td>[x]</td><td>[ ]</td></tr>
+<tr><td><strong>Parte trasera</strong></td><td></td><td></td></tr>
+<tr><td>6. Capó o portón</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>7. Luneta trasera</td><td>[x]</td><td>[ ]</td></tr>
+<tr><td>8. Paragolpes</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>9. Faros traseros</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Costado derecho</strong></td><td></td><td></td></tr>
+<tr><td>10. Aletas y puertas</td><td>[ ]</td><td>[x]</td></tr>
+<tr><td><strong>Bajos/Altos</strong></td><td></td><td></td></tr>
+<tr><td>11. Llantas y tapacubos</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>12. Techo / Capota</td><td>[x]</td><td>[ ]</td></tr>
+<tr><td>13. Antena</td><td>[ ]</td><td>[ ]</td></tr></table>
+
+drawing: car side view with damage indicators 5, 11
+
+### Datos del Acta de Devolución sujetos a peritación física posterior, por parte de compañía de peritaciones independiente.
+
+drawing: car top and rear view with damage indicators 2, 3, 4, 6, 7, 8, 9, 12, 13
+
+### Daños Interiores
+*(Marque la casilla correspondiente)*
+
+<table><tr><th></th><th>Sin Daños</th><th>Con Daños</th></tr>
+<tr><td><strong>Palanca/Volante</strong></td><td>[x]</td><td>[ ]</td></tr>
+<tr><td><strong>Tapicería asientos</strong></td><td>[ ]</td><td>[x]</td></tr>
+<tr><td><strong>Tejido techo</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Moqueta</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Alfombrillas</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Guarnecido de puertas</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Salpicadero</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Bandeja Trasera</strong></td><td>[ ]</td><td>[ ]</td></tr></table>
+
+<table><tr><th><strong>Material Entregado</strong></th><th><strong>SÍ / NO</strong></th></tr>
+<tr><td><strong>Ficha técnica</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Permiso de Circulación</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Libro de Mantenimiento</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Manual del Fabricante</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Tarjeta de Transporte</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Recibo del seguro</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Segundo juego de llaves</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Cenicero/Mechero</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Radio CD/MP3/DVD</strong></td><td>[ ]</td></tr>
+<tr><td><strong>CD Navegador/tarjeta SD</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Tornillo Antirrobo</strong></td><td>[ ]</td></tr>
+<tr><td><strong>Rueda de repuesto/Kit anti pinchazos.</strong></td><td>[ ]</td></tr></table>
+
+drawing: car side view with damage indicators 10, 11
+
+### Conforme Cliente/Conductor\*
+*(Observaciones)*
+
+signature
+
+**Fecha/Hora/Firma:**
+
+### Conforme Punto de Devolución
+*(Observaciones)*
+
+seal: Valenciana S.A.
+
+**Fecha/Hora/Firma:**
+
+### Conforme Transporte
+*(Observaciones)*
+
+**Fecha/Hora/Firma:**
+
+### Conforme Centro Logístico
+*(Observaciones)*
+
+Rodicada
+
+**Fecha/Hora/Firma:**
+
+\*SIEMPRE ES OBLIGATORIA LA FIRMA DEL CONDUCTOR/CLIENTE Y DE LA PERSONA QUE RECEPCIONA EL VEHÍCULO.
+
+**Te comunicamos que tus datos serán tratados de acuerdo con lo previsto en el Reglamento General 2016/679 de Protección de Datos (RGPD), así como en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa que lo complemente. Estos datos serán tratados con absoluta confidencialidad y utilizados por LeasePlan para la correcta prestación del servicio contratado. Podrás ejercitar los derechos de acceso, rectificación, cancelación, supresión, limitación y portabilidad de los datos facilitados, así como de oposición al tratamiento de los mismos, mediante envío de correo electrónico: privacyofficer@leaseplan.es"**
+
+Ejemplar para Conductor / Cliente

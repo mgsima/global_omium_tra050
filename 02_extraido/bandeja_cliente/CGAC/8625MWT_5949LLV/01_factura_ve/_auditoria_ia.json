@@ -1,0 +1,16 @@
+{
+  "huella": "c71e400d7e41afc3a2e4d3c6f63a9e1efd840b0a05732dc26d57964f9afb45fc",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1505A4604951674000001482024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con matrícula, bastidor, desglose de IVA y titular correctos."
+  }
+}

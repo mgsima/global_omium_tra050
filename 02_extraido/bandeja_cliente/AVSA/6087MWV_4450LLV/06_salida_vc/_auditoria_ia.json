@@ -1,0 +1,16 @@
+{
+  "huella": "f783a29ad8b5f541f93caf190d2292217512aba3a167a4ca978fb4dfe1b093d0",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4450LLV ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 4450LLV a Volkswagen Renting, válida como justificante de salida del vehículo sustituido."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "9740800bd55f45116f920a15a79923df6baa676f3f87cc1769e603a7ef9a8db1",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0251LLK ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "El documento es una comunicación de siniestro total y cancelación del contrato de LeasePlan (Ayvens), no un acta de devolución definitiva firmada; confirme si es admisible como justificante de salida del vehículo."
+  }
+}

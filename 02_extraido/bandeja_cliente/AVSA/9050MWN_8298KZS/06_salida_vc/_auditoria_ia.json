@@ -1,0 +1,16 @@
+{
+  "huella": "bd10510013a86664ac3f6780e4c39f0261c613b022327734cc02976aea8cf464",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "8298KZS ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 8298KZS a la arrendadora (LeasePlan/Ayvens), válida como justificante de salida del vehículo sustituido."
+  }
+}

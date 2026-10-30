@@ -1,0 +1,16 @@
+{
+  "huella": "ad26bf231fd0a4a8254993e69badec68b75dee0d8d916f98d39e576af68c171f",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6987LLV ACTA BAJA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El documento es una propuesta de baja/resolución de contrato de LeasePlan, no un acta de devolución definitiva firmada ni un justificante de baja en DGT; aporte el acta de devolución definitiva a la arrendadora o el certificado de baja/achatarramiento."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "6a0ec1bb03a18396ddecebf42a37da3280e404ff38ecc24b4ce4b24adb792df2",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5493LLD FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 5493LLD con bastidor WV2ZZZ2KZLX059491, categoría M1 y combustible M/D (diésel), coincide con el vehículo sustituido."
+  }
+}

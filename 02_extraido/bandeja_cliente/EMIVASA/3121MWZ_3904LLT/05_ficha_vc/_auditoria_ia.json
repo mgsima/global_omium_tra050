@@ -1,0 +1,16 @@
+{
+  "huella": "8e2e7c780c4c0efc6263499f709f2c1a9a734a7e1771473dc449de447504be31",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3904LLT FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica (tarjeta ITV) del SEAT Arona con matrícula 3904LLT y bastidor VSSZZZKJZMR017694, categoría M1 y combustible gasolina, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

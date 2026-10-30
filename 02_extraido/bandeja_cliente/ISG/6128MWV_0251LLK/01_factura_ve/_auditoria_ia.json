@@ -1,0 +1,16 @@
+{
+  "huella": "a1a507bbeb11ec694bce471ee7052a12bc3eba2a0c070a85d6456b86736e9c59",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1053A2827802674000000272024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYA8RT154442 a nombre de IMPLANTACIONES DE SISTEMAS DE GESTIO (B96922513), con desglose de IVA."
+  }
+}

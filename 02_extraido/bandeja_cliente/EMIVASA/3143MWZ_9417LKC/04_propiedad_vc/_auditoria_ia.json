@@ -1,0 +1,16 @@
+{
+  "huella": "039fad97e7396a5d20d838122103f9d9e3049fa807d681da505f175766aaf7f9",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9417LKC CONTRATO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) a nombre de Aguas de Valencia SA para el vehículo 9417LKC con bastidor VSSZZZKJZLR203209, con plazo de 48 meses."
+  }
+}

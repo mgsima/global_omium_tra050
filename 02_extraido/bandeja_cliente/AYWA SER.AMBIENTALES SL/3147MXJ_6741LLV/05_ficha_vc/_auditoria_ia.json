@@ -1,0 +1,16 @@
+{
+  "huella": "6e2c2c815ca4ed77cec8db4f906d62a5ae6f871a7fd02590dacdd231a8d50f16",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA6741LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 6741LLV con bastidor VR3EFYHYCLN564545, categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

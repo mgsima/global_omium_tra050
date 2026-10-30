@@ -1,0 +1,16 @@
+{
+  "huella": "cbf9f877eded62c3925b4e7ea494a94975641e4d370142cefd03e9b82a9c5c5b",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1485LSB FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV y permiso de circulación del RENAULT ARKANA matrícula 1485LSB, bastidor VF1RJL00567260804, categoría M1 y combustible gasolina híbrido, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

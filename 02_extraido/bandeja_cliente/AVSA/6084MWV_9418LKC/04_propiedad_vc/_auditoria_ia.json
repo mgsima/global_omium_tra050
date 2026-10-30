@@ -1,0 +1,17 @@
+{
+  "huella": "c65753d61fd880b80405aef4a645676825548f4f7675a998c51d8b84cc5d812e",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9418LKC CONTRATO.pdf",
+    "9418LKC FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Se aporta contrato de renting de LeasePlan (hoy Ayvens) a nombre de Aguas de Valencia SA para el vehículo 9418LKC con bastidor VSSZZZKJZLR193685, junto con permiso de circulación y ficha técnica del mismo vehículo."
+  }
+}

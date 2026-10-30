@@ -1,0 +1,16 @@
+{
+  "huella": "ade8e9e813ff54948e7ced609ebcf334199f4859105b4825df544f2b6372ea93",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA0019LLR (1).pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del SEAT LEÓN 0019LLR (bastidor VSSZZZ5FZLR100248) con categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "56ba043d7f3f19ca5659afa1387d58a241656c871d1a49071edc6f89738bfdb3",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9413LKC ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución de renting (LeasePlan/Ayvens) del vehículo 9413LKC (OCR lee 9913LKC) a nombre de C.G. d'Aigües de Catalunya, válida como justificante de salida."
+  }
+}

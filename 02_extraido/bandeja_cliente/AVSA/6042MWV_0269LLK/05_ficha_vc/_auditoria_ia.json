@@ -1,0 +1,16 @@
+{
+  "huella": "477f2ec700815ef543ba50fce02a692744e5012ba3cc53164c0fc8d25ca820e5",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0269LLK FICHA TECNICA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica (tarjeta ITV) del SEAT Arona con matrícula 0269LLK y bastidor VSSZZZKJZLR203040, categoría M1 y combustible diésel, junto con el permiso de circulación a nombre de la arrendadora."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "714c2b8f3c179b8ad5ed36c7dbe38de6b1ab10b6f9e5ec990f434133307c1ad9",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0246LLK FICHA TECNICA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica y permiso de circulación del SEAT ARONA 0246LLK (VSSZZZKJZLR194320), diésel, categoría M1, a nombre de la arrendadora LEASE PLAN (Ayvens)."
+  }
+}

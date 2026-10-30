@@ -1,0 +1,16 @@
+{
+  "huella": "9ead21cebe548d2887a197c6f31dd0a71cdd13c1248a2f4a23654eaa061f2386",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4223LJV FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 4223LJV con bastidor WV1ZZZ2KZLX112559, categoría N1 y combustible diésel (M/D), coincide con el vehículo sustituido."
+  }
+}

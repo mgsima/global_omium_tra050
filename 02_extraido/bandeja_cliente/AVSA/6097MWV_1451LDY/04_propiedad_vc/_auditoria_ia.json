@@ -1,0 +1,17 @@
+{
+  "huella": "ad8ba7aeb3e814909368c2f8f28f032ec4987b11b2e526143800a02458f2143c",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1451LDY CONDICIONES.pdf",
+    "1451LDY PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Se aporta contrato de renting con LeasePlan (hoy Ayvens) y permiso de circulación del vehículo 1451LDY con bastidor coincidente, a nombre de la arrendadora, lo que acredita la posesión del vehículo sustituido."
+  }
+}

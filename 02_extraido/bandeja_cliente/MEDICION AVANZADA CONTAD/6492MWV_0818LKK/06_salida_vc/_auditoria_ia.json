@@ -1,0 +1,16 @@
+{
+  "huella": "855b76b4f02b2ce9a29a155e84f10c4708ac0c087a400974f0636eafbf40f994",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0818LKK ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva del vehículo 0818LKK a la arrendadora (LeasePlan/Ayvens) con el cliente MACSA, válida como justificante de salida del vehículo sustituido."
+  }
+}

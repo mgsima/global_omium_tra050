@@ -1,0 +1,16 @@
+{
+  "huella": "ac366e0aff41ec3e43c24537eb27084324f30923368a58cc53021bbe970bcaa4",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9431LKC ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva del vehículo 9431LKC (SEAT Arona) a la arrendadora, con cliente Aguas de Valencia, válida para acreditar la salida del vehículo sustituido."
+  }
+}

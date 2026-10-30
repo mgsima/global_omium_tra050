@@ -1,0 +1,16 @@
+{
+  "huella": "4410fe468efdb5ee8887b4923a87c123d71c8301a85113517baedd9ee50c3336",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1505A2827802674000001422024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYA9RT152196 a nombre de COMPANYIA GENERAL D'AIGUES DE CATALU (A60401585), con desglose de IVA."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "huella": "84b00a1d7133e10357140afec9ee7556640d50f7d16e2832433cf9704cd39cb3",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9413LKC CONTRATO.pdf",
+    "9413LKC FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) a nombre de COMPANYIA GENERAL D AIGUES CATALUNY para el vehículo 9413LKC con bastidor VSSZZZKJZLR203381, con plazo de 48 meses."
+  }
+}

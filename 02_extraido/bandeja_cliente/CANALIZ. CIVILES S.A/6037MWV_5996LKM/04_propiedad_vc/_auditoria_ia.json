@@ -1,0 +1,17 @@
+{
+  "huella": "ef6a4443f3a072f6038a9206ea2157dd2a7cd856139befad93c27ac6382a2b68",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5996LKM CONTRATO.pdf",
+    "5996LKM PERMISO CIRCULACION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) a nombre de Canalizaciones Civiles SA para el vehículo 5996LKM con bastidor VSSZZZ5FZLR097940, con plazo de 48 meses."
+  }
+}

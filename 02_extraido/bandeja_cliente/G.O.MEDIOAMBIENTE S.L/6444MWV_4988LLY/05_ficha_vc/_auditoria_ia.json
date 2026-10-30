@@ -1,0 +1,16 @@
+{
+  "huella": "efc9bc71f12a5002bf583399138fcb84f501c7d10342a568d1b06d70c034944a",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4988LLY FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV y permiso de circulación del SEAT Arona 4988LLY con categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (Ayvens)."
+  }
+}

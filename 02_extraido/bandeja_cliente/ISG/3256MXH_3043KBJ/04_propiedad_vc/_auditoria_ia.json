@@ -1,0 +1,17 @@
+{
+  "huella": "8703f809f682bb0cdf39c12a5acb2980c9e88be0edf75954187d49c7d9ff5160",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3043KBJ CONTRATO.pdf",
+    "3043KBJ FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) a nombre de Empresa General Valenciana del Agua para el vehículo 3043KBJ con bastidor WV1ZZZ2KZHX152388, con plazo de 60 meses."
+  }
+}

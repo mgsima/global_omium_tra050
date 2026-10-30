@@ -1,0 +1,16 @@
+{
+  "huella": "977000cde723a003ce98909eff5f9a8ef69609dc267dc302ecbaeebb896e04f9",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1001A2827802674000003922024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del Citroën ë-C3 con bastidor VR7CBZYA4RT152185 a nombre de Aguas de Valencia S.A. (A46000477), con desglose de IVA."
+  }
+}

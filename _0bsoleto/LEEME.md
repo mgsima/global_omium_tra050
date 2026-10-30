@@ -2,6 +2,25 @@
 
 Nada se borra. Lo que deja de valer se mueve aquí con la fecha por delante en el nombre y una entrada en esta lista explicando por qué dejó de valer.
 
+## 2026-10-30 — conversiones con OCR deficiente
+
+### `2026-10-30_bandeja_carpeta_equivocada/` — copias de la bandeja en una carpeta que no les tocaba
+
+Copias que `bandeja_cliente.py` puso en una carpeta de la bandeja por no reconocer el nombre del fichero. Son copias: los originales siguen en `01_entrada/BAJAS/<MATRICULA>/`.
+
+- `4450LLV FACT PROFO RENTING` (PDF y `.md`), en propiedad (`04_propiedad_vc`) y ficha técnica (`05_ficha_vc`): no reconocía «FACT» y, ante la duda, metía el fichero en todas las carpetas que admiten documentos sin clasificar. Ahora «FACT» y «PROFORMA» son factura.
+- `3942LLT ACTA DEVO` (PDF y `.md`), en propiedad (`04_propiedad_vc`): no reconocía «DEVO» como acta de devolución y su segunda página nombra el permiso de circulación. Ahora es acta de devolución y va a la salida (`06_salida_vc`).
+
+### `2026-10-30_ocr_deficiente/02_extraido/BAJAS/` — 38 conversiones a Markdown
+
+Las conversiones que hacía `convert_all_to_markdown.py` (LlamaParse `cost_effective`) de 38 PDF escaneados de 22 bajas: fichas técnicas, permisos, contratos y actas de devolución. El texto era ilegible y dejaba 33 carpetas de la auditoría de documentos en `revisar` por no poder leer matrícula, bastidor o titular. Se sustituyen en `02_extraido/` por la conversión de LlamaParse en modo `agentic`, que lleva `conversion: "LlamaParse agentic 2026-10-30"` en el frontmatter. Mismo nombre y misma ruta: el 1:1 con el original se mantiene.
+
+## 2026-10-30 — revisión de documentos
+
+### `2026-10-30_revision_documentos_por_documento/` — 215 notas
+
+Una nota por documento auditado (pareja, estado, fichero y qué revisar), que escribía `scripts/global_omnium/auditar_documentos.py` para `00_control/revision_documentos.base`. Duraron una hora: el usuario quería una fila por pareja con tres columnas por carpeta. Ahora esos datos son `fichero_*` y `motivo_*` en la nota de la pareja, junto al `doc_*`, que así se edita desde la misma tabla. Notas derivadas: no contienen nada escrito a mano.
+
 ## 2026-08-19 — la reorganización de la campaña
 
 ### `2026-08-19_fichas_emparejamiento/` — 491 fichas + índice

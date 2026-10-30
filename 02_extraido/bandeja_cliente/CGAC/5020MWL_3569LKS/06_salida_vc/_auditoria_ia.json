@@ -1,0 +1,16 @@
+{
+  "huella": "168b63b8266a5660a375c950ca3835300567a11e6dc64f129549159814ec9420",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3569LKS ACTA BAJA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El documento es una propuesta de baja/resolución de contrato de renting de LeasePlan, no un acta de devolución definitiva firmada ni un justificante de baja en DGT; aporte el acta de devolución definitiva a la arrendadora o el certificado de baja/achatarramiento."
+  }
+}

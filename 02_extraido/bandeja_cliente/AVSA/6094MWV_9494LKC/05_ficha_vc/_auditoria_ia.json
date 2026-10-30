@@ -1,0 +1,16 @@
+{
+  "huella": "39a916d19c15ccf53a2020fafc6f4ba996de57a1690575c5a84fc0ae6e9f4ea3",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9494LKC FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica (tarjeta ITV) del SEAT ARONA 9494LKC con bastidor VSSZZZKJZLR193273, categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

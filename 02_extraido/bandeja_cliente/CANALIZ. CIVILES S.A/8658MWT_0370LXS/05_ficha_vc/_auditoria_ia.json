@@ -1,0 +1,16 @@
+{
+  "huella": "ba6fb6b27ed1e5498f1538c95caeea528dacc38c5cab8bb5c6d3c85153c37003",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0370LXS FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica/tarjeta ITV del vehículo 0370LXS con bastidor VF3YCBPFB12U87563, categoría N1 y combustible M/D (diésel), coincide con el vehículo de combustión sustituido."
+  }
+}

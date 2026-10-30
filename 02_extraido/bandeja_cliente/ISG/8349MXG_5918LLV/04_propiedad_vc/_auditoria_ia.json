@@ -1,0 +1,17 @@
+{
+  "huella": "344bfc657afe7c052c0f5ba86c3e418518731323c347f10cc7fc47dd9c89be33",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5918LLV CONTRATO.pdf",
+    "MA5918LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con el vehículo 5918LLV y bastidor VR3EFYHYCLN564159 a nombre de Implantaciones de Sistemas de Gestión, y permiso de circulación a nombre de la arrendadora."
+  }
+}

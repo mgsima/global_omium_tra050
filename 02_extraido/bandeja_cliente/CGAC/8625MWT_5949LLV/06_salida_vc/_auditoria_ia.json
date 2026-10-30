@@ -1,0 +1,16 @@
+{
+  "huella": "51fd737f65eb2c54bca518356b0ccf6a694eb8b7b85499fecf836ac90d8b42c3",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5949LLV ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "Acta de devolución de renting del PEUGEOT PARTNER con matrícula leída como S949LLU (probable OCR de 5949LLV); el cliente figura como 'G.G. A160ES CAT.' sin CIF, por lo que no se puede confirmar el titular; conviene verificar la matrícula y el titular."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "91b66b0176d61f4086deadbca815131d73c36722c938586b391e7969106074d1",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "MA4926LMS.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 4926LMS con bastidor VR3EFYHYCMN507060, categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

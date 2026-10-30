@@ -1,72 +1,115 @@
 ---
 documento_origen: "5493LLD ACTA DEVOLUCION.pdf"
 original: "[[data/global_omium_tra050/01_entrada/BAJAS/5493LLD/5493LLD ACTA DEVOLUCION.pdf]]"
+conversion: "LlamaParse agentic 2026-10-30"
 ---
 
-| EL CONDUCTOR/CLIENTE y EL PUNTO DE DEVOLUCIÓN DEBERÁN DEVOLVERLA FIRMADA AL: |
-EMAIL devolucion.vehiculosEleaseplan.es
+LeasePlan
 
-Fecha de Devoluciór
+## ACTA DE DEVOLUCIÓN
 
-Día/mes/año/  7 /£  >  Hora:  Persona que  recepciona  4  1  4₁₇  -
-Compañía que recepciona  a
+**EL CONDUCTOR/CLIENTE y EL PUNTO DE DEVOLUCIÓN DEBERÁN DEVOLVERLA FIRMADA AL:**
+**EMAIL** devolucion.vehiculos@leaseplan.es
 
-Datos del  Cliente y Persona que realiza la entrega  Datos del Vehículo
-3ᵃ  5495  LLO|  e151|
-$$  ||  Nombre y Apellidos  =Combustible:
-—  Gas-oil  Gasolina
+### Fecha de Devolución
 
-(Usuario/Conductor)  |  |
-= DN.  [o  —-  1/4  —-  1/2  3/4  —   Lleno
-É  —
-E  ||  Teléfono Fijo/Móvil  a  Marca  Color
+**Día/mes/año/**: 11 / 3 / 25
+**Hora**: 11 18
+**Persona que recepciona**: W
+**Compañía que recepciona**:
 
-E |  Modelo y Versión
+### Datos del Cliente y Persona que realiza la entrega
 
-E  Daños Exteriores  Sin  Con  Datos  del  Acta
-tá  / Daños  M  de  Devolución  sujetos  a M.  Daños Interiores
-Daños  casilla  Daños  Daños
-casilla  correspondiente)  física  posterior,  por  parte  de  Warque  la  correspondiente)  Sin  /e
-Parte delantera  compañía
-Tapicería asientos  a  dad
-%  | 1. Parabrisas  a  da!  de  peritaciones  independiente.  Palanca/Volante  aan
-€|  2.Capó  ada  0  —  techo  aa
-3.  Paragolpes  a  aÉ  Moqueta  aa
-5  |  4.  Faros  delanteros  aa  |  Alfombrillas  aa
-$ |  Costado izquierdo  METE puertas  a  ka
-5.Aletasy  puertas  Salpicadero  ul  ta
-$ ||  Partetrasera MM  a  dai na  L2)  1  |  Bandejay  Trasera  | |
-ad
-E |  7-  Luneta trasera  a  da  y  y y  Ficha técnica  a  a
-5 |  8.  Paragolpes  ad  y  N  UA   !
-7  |  9.  Faros  traseros  aa;  |  Libro de Mantenimiento  CA
-95|  Costado derecho  |  |  |  Manual del  Fabricante  aan
-10. Aletas y  puertas  |  |  |  Tarjeta de Transporte  ua
-11.iantasytapacubos  A |  |  |  detlaves  Y  A
-$E  —  |  o  |
-E  12.  Techo /  Capota  a  ad  7  |  aa ||
-£:  ||  13.  Antena  aadadud  |  Radio CD/MP3/DVD  a  au
-=  LN  6  |  |  |  Tornillo Antirrobo  Cd)  A
-|  ——  |  Rueda de repuesto/kit  ada  |
-pinchazos.
-|  |  s
-E |  == —  |
-<<  ||  9 ——Ó  ||  5  A  N  ==  |
-||
-|  11  —1 —- A  —  5  a|
-Conforme Cliente/Conductor*  Conforme Punto
-(Observaciones)  (Observaciones)  de Devolución  Conforme Transporte  Conforme Centro Logístico
-NE  "  |
-A
-east
-La  |  |
+**Nombre del Cliente (Compañía)**: GMINET
+**Nombre y Apellidos (Usuario/Conductor)**: IURD SOROCHEV DMITRIY
+**D.N.I.**: 4784798030
+**Teléfono Fijo/Móvil**: 668 70 44 36
 
-Fecha/Hora/Firma  No  7  Fecha/Hora/Firma
-*SIEMPRE ES OBLIGATORIA LA FIRMA DEL CONDUCTOR/CLIENTE Y DE LA PERSONA QUE RECEPCIONA
-|  DatosTe comunicamos que tus datos  de  acuerdo cono previstonel Reglamento General 216/79 de Protecciónde  Datos (REPÓL  enla Ley  Orgánica  3/2018,ᵈᵉ 5 de diciembre, de Protección de |
-Personalesy  normativa que lo complemente.  datos  serán trafados con absoluta confidencialidad
-servicio contratado. garantía de los derechos digitales demás  Estoslimitación
-ejercitar  de acceso,ʸ   rectificación,  supresión,  Los  datos
-Podrás  los derechos  cancelación,  y  facilitados,  y  utilizados por LeasePlanal  para la correctamismos,prestación del   |
-portabilidagjde así como de oposición
-tratamiento de los  mediante   |
+### Datos del Vehículo
+
+**Matrícula**: 5492 LLO
+**Kilómetros**: 95127
+**Combustible**: Gas-oil / Gasolina
+**0 – 1/4 – 1/2 – 3/4 – Lleno**
+**Marca**: VOLKSWAGEN
+**Color**: Blanco
+**Modelo y Versión**: 1.9 TDI
+
+### Daños Exteriores
+(Marque la casilla correspondiente)
+
+<table><tr><th>Daño</th><th>Sin Daños</th><th>Con Daños</th></tr>
+<tr><td><strong>Parte delantera</strong></td><td></td><td></td></tr>
+<tr><td>1. Parabrisas</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>2. Capó</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>3. Paragolpes</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>4. Faros delanteros</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Costado izquierdo</strong></td><td></td><td></td></tr>
+<tr><td>5. Aletas y puertas</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Parte trasera</strong></td><td></td><td></td></tr>
+<tr><td>6. Capó o portón</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>7. Luneta trasera</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>8. Paragolpes</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>9. Faros traseros</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Costado derecho</strong></td><td></td><td></td></tr>
+<tr><td>10. Aletas y puertas</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Bajos/Altos</strong></td><td></td><td></td></tr>
+<tr><td>11. Llantas y tapacubos</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>12. Techo / Capota</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>13. Antena</td><td>[ ]</td><td>[ ]</td></tr></table>
+
+### Datos del Acta de Devolución sujetos a peritación física posterior, por parte de compañía de peritaciones independiente.
+
+drawing: car diagram with numbered callouts 4, 3, 2, 1, 12, 13, 7, 6, 9, 8
+
+### Daños Interiores
+(Marque la casilla correspondiente)
+
+<table><tr><th>Daño</th><th>Sin Daños</th><th>Con Daños</th></tr>
+<tr><td><strong>Palanca/Volante</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tapicería asientos</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tejido techo</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Moqueta</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Alfombrillas</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Guarnecido de puertas</strong></td><td>[ ]</td><td>[x]</td></tr>
+<tr><td><strong>Salpicadero</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Bandeja Trasera</strong></td><td>[ ]</td><td>[ ]</td></tr></table>
+
+### Material Entregado
+**SI / NO**
+
+<table><tr><th>Material</th><th>SI</th><th>NO</th></tr>
+<tr><td><strong>Ficha técnica</strong></td><td>[ ]</td><td>[x]</td></tr>
+<tr><td><strong>Permiso de Circulación</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Libro de Mantenimiento</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Manual del Fabricante</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tarjeta de Transporte</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Recibo del seguro</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Segundo juego de llaves</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Cenicero/Mechero</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Radio CD/MP3/DVD</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>CD Navegador/tarjeta SD</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tornillo Antirrobo</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Rueda de repuesto/Kit anti pinchazos.</strong></td><td>[ ]</td><td>[x]</td></tr></table>
+
+### Conforme Cliente/Conductor\*
+**(Observaciones)**: signature
+**Fecha/Hora/Firma**:
+
+### Conforme Punto de Devolución
+**(Observaciones)**:
+**Fecha/Hora/Firma**:
+
+### Conforme Transporte
+**(Observaciones)**: seal: LeasePlan Industrial stamp
+**Fecha/Hora/Firma**:
+
+### Conforme Centro Logístico
+**(Observaciones)**: Entregado
+**Fecha/Hora/Firma**:
+
+\*SIEMPRE ES OBLIGATORIA LA FIRMA DEL CONDUCTOR/CLIENTE Y DE LA PERSONA QUE RECEPCIONA EL VEHÍCULO.
+
+Te comunicamos que tus datos serán tratados de acuerdo con lo previsto en el Reglamento General 2016/679 de Protección de Datos (RGPD), así como en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa que lo complemente. Estos datos serán tratados con absoluta confidencialidad y utilizados por LeasePlan para la correcta prestación del servicio contratado. Podrás ejercitar los derechos de acceso, rectificación, cancelación, supresión, limitación y portabilidad de los datos facilitados, así como de oposición al tratamiento de los mismos, mediante envío de correo electrónico: privacyofficer@leaseplan.es"
+
+Formularios para Conductores / Clientes

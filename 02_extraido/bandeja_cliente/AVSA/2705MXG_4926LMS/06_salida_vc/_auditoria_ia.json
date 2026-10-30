@@ -1,0 +1,16 @@
+{
+  "huella": "7cf08a3e975406adc05c01aba4f656546bcd0805e4d454c27c142210a095fe2a",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4926LMS ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": false,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El documento es una carta de siniestro total de LeasePlan para el vehículo con matrícula 4926LKG, no la matrícula 4926LMS solicitada, y no constituye un acta de devolución definitiva a la arrendadora."
+  }
+}

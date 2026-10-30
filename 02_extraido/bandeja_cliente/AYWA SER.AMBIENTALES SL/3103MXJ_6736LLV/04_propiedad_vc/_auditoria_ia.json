@@ -1,0 +1,17 @@
+{
+  "huella": "c9990997a528315f0527173a25c685356b3f80d109340acad64465b930b5364e",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6736LLV CONTRATO.pdf",
+    "MA6736LLV.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con el vehículo 6736LLV y bastidor VR3EFYHYCLN564530 a nombre de EMPRESA GENERAL VALENCIANA DEL AGUA, con plazo de 48 meses."
+  }
+}

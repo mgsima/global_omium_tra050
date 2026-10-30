@@ -1,0 +1,17 @@
+{
+  "huella": "e249538ca738148dffc411e310ee22e2770d95a79ee41a1ef306681f690bc338",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "8030LKY CONTRATO.pdf",
+    "8030LKY FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (hoy Ayvens) con el vehículo 8030LKY/VSSZZZKJZLR203466 a nombre de Soluciones Avanzadas del Agua Serv, válido para acreditar la posesión."
+  }
+}

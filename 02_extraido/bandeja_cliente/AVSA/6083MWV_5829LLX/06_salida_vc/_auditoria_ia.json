@@ -1,0 +1,16 @@
+{
+  "huella": "ef1e5c0e98bc44a08e8dc21d2204430e4d25401fd91133163115d08827aab021",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5829LLX ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 5829LLX (SEAT Arona) a nombre de Aguas de Valencia S.A., válida como devolución definitiva a la arrendadora."
+  }
+}

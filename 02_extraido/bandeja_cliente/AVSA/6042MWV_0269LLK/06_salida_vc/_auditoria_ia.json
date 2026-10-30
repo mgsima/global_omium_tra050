@@ -1,0 +1,16 @@
+{
+  "huella": "f38acde3dbf69a6f65b850adbf1d5e7f6dc469256d792dcdb7f6a93c4dee2e18",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0269LLK ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución del vehículo 0269LLK a la arrendadora (LeasePlan/Ayvens), que acredita la devolución definitiva del vehículo sustituido."
+  }
+}

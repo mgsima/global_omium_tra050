@@ -1,0 +1,16 @@
+{
+  "huella": "b299a77891cf083fd8fbd03abac0b62aaf5bb692daef325cbecadcb824b6dd41",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4170LKY FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica del SEAT Arona 4170LKY (bastidor VSSZZZKJZLR194603) con categoría M1 y combustible diésel, válida para la carpeta."
+  }
+}

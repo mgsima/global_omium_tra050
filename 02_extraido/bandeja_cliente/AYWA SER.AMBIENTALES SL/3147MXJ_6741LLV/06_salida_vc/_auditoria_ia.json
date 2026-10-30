@@ -1,0 +1,16 @@
+{
+  "huella": "40d9494ca261bb514e0fcf8f0ac2b3ef051c14df8618630944511025c9c67024",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6741LLV ACTO DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución definitiva a la arrendadora (LeasePlan/Ayvens) del vehículo 6741LLV (OCR: G741LLV), Peugeot Partner, cliente Global Omnium."
+  }
+}

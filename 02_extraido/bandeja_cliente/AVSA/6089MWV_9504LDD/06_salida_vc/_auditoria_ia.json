@@ -1,0 +1,16 @@
+{
+  "huella": "e159898467f0122505285587663e7c528fae022e180932223c136e22a2a451a4",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9504LDD ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": false,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "El acta de devolución es de Ayvens (LeasePlan) y coincide con el vehículo 9504LDD, pero el cliente figura como GLOBAL OMNIUM y no como AGUAS DE VALENCIA SA; conviene confirmar que la devolución a la arrendadora es válida para el titular."
+  }
+}

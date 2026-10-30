@@ -1,0 +1,16 @@
+{
+  "huella": "d37a77a5b8ccd5a9426e6946b22b91a14cb8c5f2e2db23e9803c7f18c56a2d2f",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "6987LLV PERMISO CIRCULACION Y FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Permiso de circulación y ficha técnica del vehículo 6987LLV (bastidor VR3EFYHYCLN564938) con categoría N1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "104105a97d62075da80218991a006b5365d62dcccc6060e89e83ac5fb79c9f0c",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1505A2827802674000001462024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYAXRT153017 y titular A60401585, con desglose de IVA."
+  }
+}

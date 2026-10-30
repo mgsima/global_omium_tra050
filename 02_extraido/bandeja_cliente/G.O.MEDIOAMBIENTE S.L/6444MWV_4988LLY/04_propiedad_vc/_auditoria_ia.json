@@ -1,0 +1,17 @@
+{
+  "huella": "73908ce66b5d5f2b0e16fb2843cf19782bb37546efd5c670e8676278e74273de",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4988LLY CONTRATO.pdf",
+    "4988LLY FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) con el vehículo 4988LLY/VSSZZZKJZMR051297 a nombre de Implantaciones de Sistemas de Gestión, válido para acreditar la posesión."
+  }
+}

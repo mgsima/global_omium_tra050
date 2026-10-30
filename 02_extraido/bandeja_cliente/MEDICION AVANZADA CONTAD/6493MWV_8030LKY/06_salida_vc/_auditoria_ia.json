@@ -1,0 +1,16 @@
+{
+  "huella": "bb828f8e05b4bc5b9f4b1edaef9bc06cf9e91a17324a14ec0bc643b0284c1b18",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "8030LKY ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "El acta de devolución es de LeasePlan (hoy Ayvens) y coincide con el vehículo 8030LKY, pero el cliente figura como 'JORGE' y no se identifica a la sociedad del grupo; conviene confirmar que la devolución es definitiva y a nombre de la sociedad."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "huella": "20927ed22d3c1a15228238171e585275a46d6d1f6290d48bfb7a596efb19c976",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9413LKC FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Ficha técnica eITV del SEAT Arona 9413LKC con bastidor VSSZZZKJZLR203381, categoría M1 y combustible diésel, a nombre de la arrendadora LeasePlan (hoy Ayvens)."
+  }
+}

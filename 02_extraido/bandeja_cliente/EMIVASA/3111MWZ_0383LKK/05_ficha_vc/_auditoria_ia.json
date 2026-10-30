@@ -1,0 +1,16 @@
+{
+  "huella": "2d31a5527b7ae59ff60723a246537548ab65be7b533409cac25f04a254689164",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "0383LKK FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": null,
+    "titular_coincide": null,
+    "legible_y_completo": false,
+    "veredicto": "revisar",
+    "motivo": "El texto extraído de la ficha técnica está cortado y no muestra matrícula, bastidor ni titular, por lo que no se puede confirmar que corresponda al vehículo 0383LKK."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "huella": "09faec80aed0d33c5c1d02a925d8346f9a6bcb6aa5d556fd29ccc798dfa1b67c",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9494LKC CONTRATO.pdf",
+    "9494LKC FICHA Y PERMISO.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) con matrícula 9494LKC y bastidor VSSZZZKJZLR193273 a nombre de Aguas de Valencia SA, válido para acreditar la posesión del vehículo sustituido."
+  }
+}

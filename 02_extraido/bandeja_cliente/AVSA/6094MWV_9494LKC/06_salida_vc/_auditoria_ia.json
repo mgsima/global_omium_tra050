@@ -1,0 +1,16 @@
+{
+  "huella": "f270907462ef59ad17821d6626127be97e3c74a0477b14bbeb3d50fd87e37979",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "9494LKC ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Acta de devolución de renting del vehículo 9494LKC a nombre de Aguas de Valencia, válida como justificante de salida."
+  }
+}

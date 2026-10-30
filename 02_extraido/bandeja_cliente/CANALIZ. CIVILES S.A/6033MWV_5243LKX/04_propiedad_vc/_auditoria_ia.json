@@ -1,0 +1,17 @@
+{
+  "huella": "a844a4ea43eae4d9bddc64a0584994c019958b8df18b22ef5cbd5eb208d0eeb9",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5243LKX CONTRATO.pdf",
+    "5243LKX PERMISO CIRCULACION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) a nombre de Canalizaciones Civiles SA para el SEAT Arona 5243LKX, con permiso de circulación que confirma matrícula y bastidor."
+  }
+}

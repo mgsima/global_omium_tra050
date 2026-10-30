@@ -1,0 +1,16 @@
+{
+  "huella": "ff82cbb1186ba176a77134c62d9a7e75e21658a603b6b2dea6a48a3aeb2f0261",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4223LJV ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": false,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "El acta de devolución es del vehículo correcto por matrícula, pero el bastidor no coincide (WV1ZZZ2KZLX187559 frente a WV1ZZZ2KZLX112559); conviene verificar si es un error de OCR o de otro vehículo."
+  }
+}

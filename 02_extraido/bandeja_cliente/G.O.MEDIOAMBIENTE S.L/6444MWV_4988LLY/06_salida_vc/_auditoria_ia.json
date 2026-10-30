@@ -1,0 +1,16 @@
+{
+  "huella": "ad118cce3d55ae3649ae9b5d009599c094321263f924e04142013c12773ee5ee",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "4988LLY ACTA DEVOLUCION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": false,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "rehacer",
+    "motivo": "El acta de devolución corresponde a la matrícula 9938CLY (Seat Avanza), no al vehículo 4988LLY (SEAT Arona) objeto de la ficha."
+  }
+}

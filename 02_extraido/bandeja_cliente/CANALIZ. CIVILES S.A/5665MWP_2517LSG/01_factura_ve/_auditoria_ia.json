@@ -1,0 +1,16 @@
+{
+  "huella": "7ac6b1e2ad86accdd8469dc1fdc4c809f0a4195479531bb197a073961a38df66",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "1066A2827802674000000452024.PDF"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Factura de compra del vehículo eléctrico con bastidor VR7CBZYA3RT152209 y titular CANALIZACIONES CIVILES SAU (A12013561), con desglose de IVA."
+  }
+}

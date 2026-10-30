@@ -1,0 +1,16 @@
+{
+  "huella": "f4b00f5a475aca740a3122ea659fae144050ba308e604c919970e797ec17796e",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "3931LLT FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Es la ficha técnica (tarjeta ITV) del SEAT Arona matrícula 3931LLT y bastidor VSSZZZKJZMR017645, con categoría M1 y combustible gasolina (M/G), que es el vehículo de combustión sustituido."
+  }
+}

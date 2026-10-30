@@ -1,0 +1,17 @@
+{
+  "huella": "5234327c6f48cc53847027a9df66cb8fef236452124d7949acd98c474f012c6b",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5493LLD CONTRATO.pdf",
+    "5493LLD PERMISO CIRCULACION.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": true,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Contrato de renting de LeasePlan (Ayvens) con matrícula y bastidor coincidentes, a nombre de Empresa Mixta Metropolitana SA, con plazo de 48 meses."
+  }
+}

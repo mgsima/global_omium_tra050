@@ -1,0 +1,16 @@
+{
+  "huella": "910f12a191f744b83a5a6b5dc0e8de93808b4f66d5753098f5cdc43677434456",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "5969LLV ACTA BAJA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": false,
+    "vehiculo_coincide": true,
+    "titular_coincie": null,
+    "legible_y_completo": true,
+    "veredicto": "revisar",
+    "motivo": "El documento es una propuesta de baja de LeasePlan (Ayvens) que requiere conformidad firmada, no un acta de devolución definitiva ni baja en DGT; confirmar si es admisible como justificante de salida."
+  }
+}

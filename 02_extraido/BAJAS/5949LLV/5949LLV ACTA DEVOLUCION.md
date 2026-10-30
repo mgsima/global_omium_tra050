@@ -1,251 +1,92 @@
 ---
 documento_origen: "5949LLV ACTA DEVOLUCION.pdf"
 original: "[[data/global_omium_tra050/01_entrada/BAJAS/5949LLV/5949LLV ACTA DEVOLUCION.pdf]]"
+conversion: "LlamaParse agentic 2026-10-30"
 ---
 
-Día/mes/año/ 08/04/23 Hora: 15:00 Persona que recepciona LUIS LOPEZ GONZALEZ
-Compañía que recepciona GWAS ALPES
+**Día/mes/año:** 08/04/25
+**Hora:** 15'00
+**Persona que recepciona:** LUIS LOPEZ GONZALEZ
+**Compañía que recepciona:** GWAS ALPES
 
-**Datos del Cliente y Persona que realiza la entrega**
-Nombre del Cliente (Compañía): G.G. AIGUES CAT.
-Nombre y Apellidos (Usuario/Conductor): VICENT BERNAT PLA
-D.N.I.: 47620501J
-Teléfono Fijo/Móvil: 696990440
+## Datos del Cliente y Persona que realiza la entrega
 
-**Datos del Vehículo**
-Matrícula: 5949 LLU
-Kilómetros: 73700
-Combustible: Gas-oil / Gasolina
-0 - 1/4 - 1/2 - 3/4 - Lleno
-Marca: PEUGEOT
-Color: BLANCA
-Modelo y Versión: PARTNER
+**Nombre del Cliente (Compañía):** G.G. A160ES CAT.
+**Nombre y Apellidos (Usuario/Conductor):** VICENT BENNAT PLA
+**D.N.I.:** 47620501J
+**Teléfono Fijo/Móvil:** 696990440
 
-**Daños Exteriores** (Marque la casilla correspondiente)
+## Datos del Vehículo
 
-<table>
-    <tr>
-        <th></th>
-        <th>Sin Daños</th>
-        <th>Con Daños</th>
-    </tr>
-<tr>
-        <td>Parte delantera</td>
-<td></td>
-<td></td>
-    </tr>
-<tr>
-        <td>1. Parabrisas</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>2. Capó</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>3. Paragolpes</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>4. Faros delanteros</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Costado izquierdo</td>
-<td></td>
-<td></td>
-    </tr>
-<tr>
-        <td>5. Aletas y puertas</td>
-<td>[no]</td>
-<td>[yes]</td>
-    </tr>
-<tr>
-        <td>Parte trasera</td>
-<td></td>
-<td></td>
-    </tr>
-<tr>
-        <td>6. Capó o portón</td>
-<td>[no]</td>
-<td>[yes]</td>
-    </tr>
-<tr>
-        <td>7. Luneta trasera</td>
-<td>[no]</td>
-<td>[yes]</td>
-    </tr>
-<tr>
-        <td>8. Paragolpes</td>
-<td>[no]</td>
-<td>[yes]</td>
-    </tr>
-<tr>
-        <td>9. Faros traseros</td>
-<td>[no]</td>
-<td>[yes]</td>
-    </tr>
-<tr>
-        <td>Costado derecho</td>
-<td></td>
-<td></td>
-    </tr>
-<tr>
-        <td>10. Aletas y puertas</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Bajos/Altos</td>
-<td></td>
-<td></td>
-    </tr>
-<tr>
-        <td>11. Llantas y tapacubos</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>12. Techo / Capota</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>13. Antena</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-</table>
+**Matrícula:** S949LLU
+**Kilómetros:** 73700
+**Combustible:** Gas-oil / Gasolina
+**Nivel de combustible:** 0 - 1/4 - 1/2 - 3/4 - Lleno
+**Marca:** PEUGEOT
+**Color:** BLANCA
+**Modelo y Versión:** PARTNER
 
-Datos del Acta de Devolución sujetos a peritación física posterior, por parte de compañía de peritaciones independiente.
+## Daños Exteriores
+*(Marque la casilla correspondiente)*
 
-**Daños Interiores** (Marque la casilla correspondiente)
+<table><tr><th>Daño</th><th>Sin Daños</th><th>Con Daños</th></tr>
+<tr><td><strong>Parte delantera</strong></td><td></td><td></td></tr>
+<tr><td>1. Parabrisas</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>2. Capó</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>3. Paragolpes</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>4. Faros delanteros</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Costado izquierdo</strong></td><td></td><td></td></tr>
+<tr><td>5. Aletas y puertas</td><td>[ ]</td><td>[x]</td></tr>
+<tr><td><strong>Parte trasera</strong></td><td></td><td></td></tr>
+<tr><td>6. Capó o portón</td><td>[ ]</td><td>[x]</td></tr>
+<tr><td>7. Luneta trasera</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>8. Paragolpes</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>9. Faros traseros</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Costado derecho</strong></td><td></td><td></td></tr>
+<tr><td>10. Aletas y puertas</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Bajos/Altos</strong></td><td></td><td></td></tr>
+<tr><td>11. Llantas y tapacubos</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>12. Techo / Capota</td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td>13. Antena</td><td>[ ]</td><td>[ ]</td></tr></table>
 
-<table>
-    <tr>
-        <th></th>
-        <th>Sin Daños</th>
-        <th>Con Daños</th>
-    </tr>
-<tr>
-        <td>Palanca/Volante</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Tapicería asientos</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Tejido techo</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Moqueta</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Alfombrillas</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Guarnecido de puertas</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Salpicadero</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Bandeja Trasera</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-</table>
+## Datos del Acta de Devolución sujetos a peritación física posterior, por parte de compañía de peritaciones independiente.
 
-**Material Entregado**
+drawing: car diagram with numbered callouts 1-13
 
-<table>
-    <tr>
-        <th></th>
-        <th>SI</th>
-        <th>NO</th>
-    </tr>
-<tr>
-        <td>Ficha técnica</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Permiso de Circulación</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Libro de Mantenimiento</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Manual del Fabricante</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Tarjeta de Transporte</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Recibo del seguro</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Segundo juego de llaves</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Cenicero/Mechero</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Radio CD/MP3/DVD</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>CD Navegador/tarjeta SD</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Tornillo Antirrobo</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-<tr>
-        <td>Rueda de repuesto/Kit anti pinchazos.</td>
-<td>[yes]</td>
-<td>[no]</td>
-    </tr>
-</table>
+*Handwritten note on diagram:*
+**RAYADAS POR USO**
 
-> RAYADAS POR USO
+## Daños Interiores
+*(Marque la casilla correspondiente)*
 
-Conforme Cliente/Conductor* (Observaciones)
-Conforme Punto de Devolución (Observaciones)
-Conforme Transporte (Observaciones)
-Conforme Centro Logístico (Observaciones)
+<table><tr><th>Daño</th><th>Sin Daños</th><th>Con Daños</th></tr>
+<tr><td><strong>Palanca/Volante</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tapicería asientos</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tejido techo</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Moqueta</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Alfombrillas</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Guarnecido de puertas</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Salpicadero</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Bandeja Trasera</strong></td><td>[ ]</td><td>[ ]</td></tr></table>
+
+## Material Entregado
+**SI / NO**
+
+<table><tr><th>Material</th><th>SI</th><th>NO</th></tr>
+<tr><td><strong>Ficha técnica</strong></td><td>[x]</td><td>[ ]</td></tr>
+<tr><td><strong>Permiso de Circulación</strong></td><td>[x]</td><td>[ ]</td></tr>
+<tr><td><strong>Libro de Mantenimiento</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Manual del Fabricante</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tarjeta de Transporte</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Recibo del seguro</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Segundo juego de llaves</strong></td><td>[x]</td><td>[ ]</td></tr>
+<tr><td><strong>Cenicero/Mechero</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Radio CD/MP3/DVD</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>CD Navegador/tarjeta SD</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Tornillo Antirrobo</strong></td><td>[ ]</td><td>[ ]</td></tr>
+<tr><td><strong>Rueda de repuesto/Kit anti pinchazos.</strong></td><td>[x]</td><td>[ ]</td></tr></table>
+
+**Conforme Cliente/Conductor\* (Observaciones):** [ ]
+**Conforme Punto de Devolución (Observaciones):** [ ]
+**Conforme Transporte (Observaciones):** [ ]
+**Conforme Centro Logístico (Observaciones):** [ ]

@@ -1,0 +1,16 @@
+{
+  "huella": "d0124a875496b19f0a9a681960f6af2fc3f0f21f7185299b917634550a5a8e4e",
+  "version": "v2",
+  "fecha": "2026-10-30",
+  "ficheros": [
+    "7970LKX FICHA TECNICA.pdf"
+  ],
+  "respuesta": {
+    "es_el_documento": true,
+    "vehiculo_coincide": true,
+    "titular_coincide": null,
+    "legible_y_completo": true,
+    "veredicto": "ok",
+    "motivo": "Tarjeta ITV del vehículo 7970LKX (VOLVO V60, bastidor YV1ZWBFVDM1426649) con categoría M1 y combustible PHEV (gasolina/eléctrico), completa y legible."
+  }
+}
